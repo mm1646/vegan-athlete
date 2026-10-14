@@ -1,0 +1,87 @@
+{
+  "categories": [
+    {
+      "slug": "running",
+      "name": "Running",
+      "blurb": "Road and trail shoes, kit and accessories"
+    },
+    {
+      "slug": "cycling",
+      "name": "Cycling",
+      "blurb": "Shoes, saddles, gloves and bar tape"
+    },
+    {
+      "slug": "tennis",
+      "name": "Tennis",
+      "blurb": "Shoes, grips and bags"
+    },
+    {
+      "slug": "golf",
+      "name": "Golf",
+      "blurb": "Leather-free gloves, shoes and grips"
+    },
+    {
+      "slug": "football",
+      "name": "Football",
+      "blurb": "Boots, balls and gloves without leather"
+    },
+    {
+      "slug": "cricket",
+      "name": "Cricket",
+      "blurb": "Shoes, gloves and pads"
+    },
+    {
+      "slug": "swimming",
+      "name": "Swimming",
+      "blurb": "Goggles, kit and training gear"
+    },
+    {
+      "slug": "hiking",
+      "name": "Hiking",
+      "blurb": "Boots, packs and outdoor gear"
+    },
+    {
+      "slug": "climbing",
+      "name": "Climbing",
+      "blurb": "Shoes, chalk bags and harnesses"
+    },
+    {
+      "slug": "basketball",
+      "name": "Basketball",
+      "blurb": "Shoes, balls and accessories"
+    },
+    {
+      "slug": "gym",
+      "name": "Gym equipment",
+      "blurb": "Lifting shoes, gloves, belts and mats"
+    }
+  ],
+  "products": [
+    {
+      "id": "sample-football-1",
+      "category": "football",
+      "name": "SAMPLE: Synthetic football boots",
+      "price": "\u00a300.00",
+      "image": "images/sample.jpg",
+      "retailer": "Example Retailer",
+      "url": "https://example.com/replace-with-your-affiliate-link",
+      "vegan": {
+        "status": "Brand-confirmed",
+        "details": "Replace with how you verified this, e.g. 'Confirmed vegan by brand customer service, 12 Oct 2026'."
+      }
+    },
+    {
+      "id": "sample-running-1",
+      "category": "running",
+      "name": "SAMPLE: Vegan running shoe",
+      "price": "\u00a300.00",
+      "image": "images/sample.jpg",
+      "retailer": "Example Retailer",
+      "url": "https://example.com/replace-with-your-affiliate-link",
+      "vegan": {
+        "status": "Vegan Society certified",
+        "details": "Replace with your verification source and date."
+      }
+    }
+  ]
+}
