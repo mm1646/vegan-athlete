@@ -4,7 +4,8 @@ const PLACEHOLDER = "data:image/svg+xml;utf8," + encodeURIComponent(
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
 async function load() {
-  const res = await fetch("products.json");
+  const res = await fetch("products.json?v=" + Date.now(), { cache: "no-store" });
+  if (!res.ok) throw new Error("products.json returned " + res.status);
   return res.json();
 }
 
@@ -20,7 +21,14 @@ function productCard(p) {
 }
 
 (async () => {
-  const data = await load();
+  let data;
+  try { data = await load(); }
+  catch (e) {
+    const box = document.getElementById("categories") || document.getElementById("products");
+    if (box) box.innerHTML = "<p>Sorry, the product list couldn't load. Please refresh the page.</p>";
+    console.error(e);
+    return;
+  }
   const pills = document.getElementById("sport-buttons");
   if (pills) pills.innerHTML = data.categories.map(c => `<a class="pill" href="category.html?c=${c.slug}">${esc(c.name)}</a>`).join("");
   const home = document.getElementById("categories");
