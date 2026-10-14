@@ -9,16 +9,11 @@ async function load() {
 }
 
 function productCard(p) {
-  const v = p.vegan || {};
   return `<article class="card">
     <img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" onerror="this.onerror=null;this.src='${PLACEHOLDER}'">
     <div class="card-body">
       <h3>${esc(p.name)}</h3>
       <p class="price">${esc(p.price)} <span>at ${esc(p.retailer)}</span></p>
-      <details class="verify">
-        <summary><span class="badge">${esc(v.status || "Unverified")}</span> How we checked</summary>
-        <p>${esc(v.details)}</p>
-      </details>
       <a class="btn" href="${esc(p.url)}" target="_blank" rel="sponsored nofollow noopener">View at ${esc(p.retailer)}</a>
     </div>
   </article>`;
@@ -35,6 +30,19 @@ function productCard(p) {
       return `<a class="tile" href="category.html?c=${c.slug}">
         <h3>${esc(c.name)}</h3><p>${esc(c.blurb)}</p><span>${n} product${n === 1 ? "" : "s"}</span></a>`;
     }).join("");
+  }
+  const list = document.getElementById("products");
+  if (list) {
+    const slug = new URLSearchParams(location.search).get("c");
+    const cat = data.categories.find(c => c.slug === slug);
+    if (!cat) { list.innerHTML = "<p>Category not found. <a href='index.html'>Back to all sports</a></p>"; return; }
+    document.title = cat.name + " – Vegan Athlete";
+    document.getElementById("cat-title").textContent = cat.name;
+    document.getElementById("cat-blurb").textContent = cat.blurb;
+    const items = data.products.filter(p => p.category === slug);
+    list.innerHTML = items.length ? items.map(productCard).join("") : "<p>Products coming soon.</p>";
+  }
+})();    }).join("");
   }
   const list = document.getElementById("products");
   if (list) {
