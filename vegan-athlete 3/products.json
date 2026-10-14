@@ -53,35 +53,18 @@
     {
       "slug": "gym",
       "name": "Gym equipment",
-      "blurb": "Lifting shoes, gloves, belts and mats"
+      "blurb": "Weights, lifting shoes, gloves, belts and mats"
     }
   ],
   "products": [
     {
-      "id": "sample-football-1",
-      "category": "football",
-      "name": "SAMPLE: Synthetic football boots",
-      "price": "\u00a300.00",
-      "image": "images/sample.jpg",
-      "retailer": "Example Retailer",
-      "url": "https://example.com/replace-with-your-affiliate-link",
-      "vegan": {
-        "status": "Brand-confirmed",
-        "details": "Replace with how you verified this, e.g. 'Confirmed vegan by brand customer service, 12 Oct 2026'."
-      }
-    },
-    {
-      "id": "sample-running-1",
-      "category": "running",
-      "name": "SAMPLE: Vegan running shoe",
-      "price": "\u00a300.00",
-      "image": "images/sample.jpg",
-      "retailer": "Example Retailer",
-      "url": "https://example.com/replace-with-your-affiliate-link",
-      "vegan": {
-        "status": "Vegan Society certified",
-        "details": "Replace with your verification source and date."
-      }
+      "id": "ironman-100kg-bumper-set",
+      "category": "gym",
+      "name": "Ironman 100kg Olympic Bumper Weight Set with 7ft Olympic Bar",
+      "price": "£229.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2023/02/products-100kg_2_1.jpg",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fironman-100kg-olympic-bumper-weight-set-with-72-olympic-weight-bar%2F"
     }
   ]
 }
