@@ -42,17 +42,4 @@ function productCard(p) {
     const items = data.products.filter(p => p.category === slug);
     list.innerHTML = items.length ? items.map(productCard).join("") : "<p>Products coming soon.</p>";
   }
-})();    }).join("");
-  }
-  const list = document.getElementById("products");
-  if (list) {
-    const slug = new URLSearchParams(location.search).get("c");
-    const cat = data.categories.find(c => c.slug === slug);
-    if (!cat) { list.innerHTML = "<p>Category not found. <a href='index.html'>Back to all sports</a></p>"; return; }
-    document.title = cat.name + " – Vegan Athlete";
-    document.getElementById("cat-title").textContent = cat.name;
-    document.getElementById("cat-blurb").textContent = cat.blurb;
-    const items = data.products.filter(p => p.category === slug);
-    list.innerHTML = items.length ? items.map(productCard).join("") : "<p>Products coming soon.</p>";
-  }
 })();
