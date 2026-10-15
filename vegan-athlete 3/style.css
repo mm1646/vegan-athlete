@@ -61,7 +61,7 @@ footer strong{color:#fff}
 .brand-tile--women{background:radial-gradient(120% 90% at 30% 20%,#f59ac6 0%,#d9558f 55%,#8e2459 100%)}
 .brand-tile--women .brand-where{background:#ffd6ea;color:#5c1239}
 .brand-icon{width:64px;height:64px;fill:none;stroke:#fff;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;position:relative;margin-bottom:-2px}
-.brand-name{font:900 clamp(1.8rem,3vw,2.3rem)/1 "Archivo",system-ui,sans-serif;letter-spacing:.04em;text-transform:uppercase;position:relative}
+.brand-name{white-space:nowrap;text-align:center;font-family:"Archivo",system-ui,sans-serif;font-weight:900;line-height:1;font-size:min(2.3rem,calc(300px / var(--len,6)));letter-spacing:.04em;text-transform:uppercase;position:relative}
 .brand-where{font-size:.85rem;font-weight:700;padding:4px 12px;border-radius:99px;background:var(--leaf);color:var(--green-deep);position:relative}
 
 /* Slogan: keep each sentence on its own line */
