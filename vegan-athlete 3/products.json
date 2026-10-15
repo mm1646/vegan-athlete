@@ -722,6 +722,17 @@
       "icon": "racket",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B09S3ZPP9R?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0DZ6XFTTY",
+      "category": "tennis",
+      "name": "Babolat Pure Drive Gen 11 Tennis Racket (Strung)",
+      "price": "",
+      "image": "",
+      "brand": "Babolat",
+      "icon": "racket",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0DZ6XFTTY?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }
