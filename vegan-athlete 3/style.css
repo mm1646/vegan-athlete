@@ -51,3 +51,11 @@ header.site .wrap{display:flex;justify-content:space-between;align-items:center;
 /* Footer: deep green */
 footer{background:var(--green-deep);color:#cfe8da;padding:32px 0 44px;font-size:.9rem;margin-top:24px}
 footer strong{color:#fff}
+
+/* Resistance band hanging off the "n" in the slogan */
+.hero h1 .hang{position:relative;display:inline-block}
+.hero h1 .hang::after{content:"";position:absolute;left:68%;top:.3em;width:.42em;height:.98em;
+  background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 140'%3E%3Cpath d='M12 10 C28 0 46 16 46 58 C46 100 42 128 32 132 C22 128 18 100 21 58 C23 30 20 16 12 10 Z' fill='none' stroke='%23c79f12' stroke-width='12' stroke-linejoin='round'/%3E%3Cpath d='M12 10 C28 0 46 16 46 58 C46 100 42 128 32 132 C22 128 18 100 21 58 C23 30 20 16 12 10 Z' fill='none' stroke='%23ffd84a' stroke-width='8' stroke-linejoin='round'/%3E%3Cpath d='M41 48 C42 72 40 100 35 118' fill='none' stroke='%23fff5c2' stroke-width='2.5' stroke-linecap='round' opacity='.8'/%3E%3C/svg%3E") no-repeat top left/contain;
+  transform-origin:12% 6%;animation:band-sway 3.6s ease-in-out infinite;pointer-events:none}
+@keyframes band-sway{0%,100%{transform:rotate(4deg)}50%{transform:rotate(-6deg)}}
+@media (prefers-reduced-motion:reduce){.hero h1 .hang::after{animation:none}}
