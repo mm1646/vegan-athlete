@@ -14,8 +14,8 @@ function productCard(p) {
     <img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" onerror="this.onerror=null;this.src='${PLACEHOLDER}'">
     <div class="card-body">
       <h3>${esc(p.name)}</h3>
-      <p class="price">${esc(p.price)} <span>at ${esc(p.retailer)}</span></p>
-      <a class="btn" href="${esc(p.url)}" target="_blank" rel="sponsored nofollow noopener">View at ${esc(p.retailer)}</a>
+      ${p.price ? `<p class="price">${esc(p.price)} <span>at ${esc(p.retailer)}</span></p>` : `<p class="price"><span>Available at ${esc(p.retailer)}</span></p>`}
+      <a class="btn" href="${esc(p.url)}" target="_blank" rel="sponsored nofollow noopener">${p.price ? "View at " + esc(p.retailer) : "Check price on " + esc(p.retailer)}</a>
     </div>
   </article>`;
 }
