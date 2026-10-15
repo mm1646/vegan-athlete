@@ -48,7 +48,7 @@
     {
       "slug": "basketball",
       "name": "Basketball",
-      "blurb": "Shoes, balls and accessories"
+      "blurb": "Hoops, balls, shoes and accessories"
     },
     {
       "slug": "gym",
@@ -263,6 +263,33 @@
       "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/04/products-black-15_1_1.jpg",
       "retailer": "Sport and Leisure UK",
       "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-caddie-black-electric-golf-trolley%2F"
+    },
+    {
+      "id": "air-league-hb10-junior",
+      "category": "basketball",
+      "name": "Air League HB10 Junior Adjustable Basketball Stand",
+      "price": "£39.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/12/products-hb10-free-ball.jpg",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fair-league-hb10-junior-adjustable-basketball-stand%2F"
+    },
+    {
+      "id": "air-league-hb06",
+      "category": "basketball",
+      "name": "Air League HB06 Adjustable Basketball Stand",
+      "price": "£49.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2026/01/products-hb6-free-ball.jpg",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fair-league-hb06-adjustable-basketball-stand%2F"
+    },
+    {
+      "id": "air-league-hb01-pro",
+      "category": "basketball",
+      "name": "Air League HB01 PRO Basketball Stand",
+      "price": "£79.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/12/products-1aba8f7f05a2619b716c25389ec2dd15_3.jpg",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fair-league-hb01-pro-basketball-stand%2F"
     }
   ]
 }
