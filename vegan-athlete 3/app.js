@@ -11,10 +11,12 @@ async function load() {
 
 function productCard(p) {
   return `<article class="card">
-    <img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" onerror="this.onerror=null;this.src='${PLACEHOLDER}'">
+    ${p.image
+      ? `<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" onerror="this.onerror=null;this.src='${PLACEHOLDER}'">`
+      : `<div class="brand-tile" role="img" aria-label="${esc(p.name)}"><span class="brand-name">${esc(p.brand || p.retailer)}</span><span class="brand-where">Available on ${esc(p.retailer)}</span></div>`}
     <div class="card-body">
       <h3>${esc(p.name)}</h3>
-      ${p.price ? `<p class="price">${esc(p.price)} <span>at ${esc(p.retailer)}</span></p>` : `<p class="price"><span>Available at ${esc(p.retailer)}</span></p>`}
+      ${p.price ? `<p class="price">${esc(p.price)} <span>at ${esc(p.retailer)}</span></p>` : ""}
       <a class="btn" href="${esc(p.url)}" target="_blank" rel="sponsored nofollow noopener">${p.price ? "View at " + esc(p.retailer) : "Check price on " + esc(p.retailer)}</a>
     </div>
   </article>`;

@@ -524,11 +524,12 @@
     {
       "id": "amazon-B0HGBXGCR8",
       "category": "running",
-      "name": "Mizuno Wave Rider Men's Running Shoes – Black",
+      "name": "Mizuno Wave Rider 30 Men's Running Shoes – Black/White",
       "price": "",
-      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0HGBXGCR8&Format=_SL400_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=veganathlet01-21",
+      "image": "",
       "retailer": "Amazon",
-      "url": "https://www.amazon.co.uk/dp/B0HGBXGCR8?tag=veganathlet01-21&linkCode=ll2"
+      "url": "https://www.amazon.co.uk/dp/B0HGBXGCR8?tag=veganathlet01-21&linkCode=ll2",
+      "brand": "Mizuno"
     }
   ]
 }
