@@ -544,6 +544,18 @@
       "gender": "women",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B0GJDR2XVR?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0GJNRDZB7",
+      "category": "running",
+      "name": "Mizuno Wave Rider 29 Women's Running Shoes – Black Sand/White/Black",
+      "price": "",
+      "image": "",
+      "brand": "Mizuno",
+      "icon": "shoe",
+      "gender": "women",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0GJNRDZB7?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }
