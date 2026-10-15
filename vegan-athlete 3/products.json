@@ -534,6 +534,18 @@
       "gender": "men"
     },
     {
+      "id": "amazon-B0FPRGB6Q2",
+      "category": "running",
+      "name": "Mizuno Wave Skyrise 6 Men's Running Shoes",
+      "price": "",
+      "image": "",
+      "brand": "Mizuno",
+      "icon": "shoe",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0FPRGB6Q2?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
       "id": "amazon-B0GJDR2XVR",
       "category": "running",
       "name": "Mizuno Neo Vista 2 Women's Running Shoes",
