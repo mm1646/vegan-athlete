@@ -65,6 +65,78 @@
       "image": "https://www.sportandleisureuk.com/wp-content/uploads/2023/02/products-100kg_2_1.jpg",
       "retailer": "Sport and Leisure UK",
       "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fironman-100kg-olympic-bumper-weight-set-with-72-olympic-weight-bar%2F"
+    },
+    {
+      "id": "proiron-blue-yoga-blocks",
+      "category": "gym",
+      "name": "PROIRON Blue Yoga Blocks",
+      "price": "From £9.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2021/07/products-blue-block.png",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fproiron-blue-yoga-blocks%2F"
+    },
+    {
+      "id": "bodytrain-gym-mat",
+      "category": "gym",
+      "name": "BodyTrain Gym Mat 180 x 60 x 1.5cm",
+      "price": "£9.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2020/05/products-85611-gym-mat_1.png",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fbodytrain-gym-mat-180-x-60-x-1-5cm%2F"
+    },
+    {
+      "id": "proiron-resistance-loop-bands",
+      "category": "gym",
+      "name": "PROIRON Resistance Loop Band Set – 5 Exercise Bands",
+      "price": "£14.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2021/07/products-pro-iron-resistance-bands.png",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fproiron-resistance-loop-band-set-5-exercise-bands%2F"
+    },
+    {
+      "id": "proiron-ab-roller",
+      "category": "gym",
+      "name": "PROIRON Ab Roller Wheel with Free Knee Pad Mat",
+      "price": "£15.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2021/07/products-ab-roller-main.png",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fproiron-ab-roller-wheel-with-free-extra-thick-knee-pad-mat%2F"
+    },
+    {
+      "id": "proiron-blue-yoga-mat",
+      "category": "gym",
+      "name": "PROIRON Blue Yoga Mat with Free Carry Bag",
+      "price": "£19.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2021/07/products-yoga-mat-main.png",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fproiron-blue-yoga-mat-with-free-carry-bag%2F"
+    },
+    {
+      "id": "proiron-foam-roller",
+      "category": "gym",
+      "name": "PROIRON Foam Roller Massager",
+      "price": "£19.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2021/07/products-black-foam-roller.png",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fproiron-foam-roller-massager-black%2F"
+    },
+    {
+      "id": "proiron-resistance-band-set-handles",
+      "category": "gym",
+      "name": "PROIRON Resistance Band Set with Handles, Ankle Straps and Door Anchor",
+      "price": "£19.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2021/07/products-resistance-band-set-main.png",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fproiron-resistance-band-set-with-handles-ankle-straps-and-door-anchor%2F"
+    },
+    {
+      "id": "bodytrain-interlocking-floor-mats",
+      "category": "gym",
+      "name": "BodyTrain Interlocking Floor Protection Mats – 16 sq ft",
+      "price": "From £24.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/03/products-img_2562.jpg",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fbodytrain-interlocking-floor-protection-mats-16-square-foot-1-2m-square%2F"
     }
   ]
 }
