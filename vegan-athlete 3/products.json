@@ -699,6 +699,18 @@
       "gender": "men",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B07V4WP36T?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B084DBHR18",
+      "category": "climbing",
+      "name": "Scarpa Veloce Women's Climbing Shoes",
+      "price": "",
+      "image": "",
+      "brand": "Scarpa",
+      "icon": "climbing",
+      "gender": "women",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B084DBHR18?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }
