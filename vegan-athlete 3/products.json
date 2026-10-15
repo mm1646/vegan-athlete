@@ -530,7 +530,20 @@
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B0HGBXGCR8?tag=veganathlet01-21&linkCode=ll2",
       "brand": "Mizuno",
-      "icon": "shoe"
+      "icon": "shoe",
+      "gender": "men"
+    },
+    {
+      "id": "amazon-B0GJDR2XVR",
+      "category": "running",
+      "name": "Mizuno Women's Running Shoes – Pristine/Healing",
+      "price": "",
+      "image": "",
+      "brand": "Mizuno",
+      "icon": "shoe",
+      "gender": "women",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0GJDR2XVR?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }
