@@ -604,6 +604,18 @@
       "gender": "women",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B0DTF78L2F?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0DTHSM9GW",
+      "category": "running",
+      "name": "Topo Athletic Cyclone 3 Women's Running Shoes",
+      "price": "",
+      "image": "",
+      "brand": "Topo Athletic",
+      "icon": "shoe",
+      "gender": "women",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0DTHSM9GW?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }
