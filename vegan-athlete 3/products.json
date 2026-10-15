@@ -733,6 +733,18 @@
       "icon": "racket",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B0DZ6XFTTY?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B000KDXOL4",
+      "category": "cycling",
+      "name": "GOREWEAR C5 Opti Bib Shorts+ Men's",
+      "price": "",
+      "image": "",
+      "brand": "Gorewear",
+      "icon": "bib",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B000KDXOL4?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }
