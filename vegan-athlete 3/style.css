@@ -167,3 +167,14 @@ footer strong{color:#fff}
 @keyframes ink-spread{0%{transform:scale(.08);opacity:0}12%{opacity:.55}100%{transform:scale(1.35);opacity:0}}
 @keyframes ink-drift{from{transform:translate(0,0) scale(1)}to{transform:translate(12%,10%) scale(1.15)}}
 @media (prefers-reduced-motion:reduce){.ink span{opacity:.4;transform:none}}
+
+/* Stamped "V" between the slogan and the athlete */
+.hero-inner{grid-template-columns:1fr auto auto}
+.stamp{width:clamp(72px,9vw,128px);transform:rotate(-8deg);animation:stamp-in .55s cubic-bezier(.3,1.5,.5,1) .5s both}
+.stamp svg{display:block;width:100%;height:auto}
+@keyframes stamp-in{0%{opacity:0;transform:scale(1.7) rotate(-16deg)}60%{opacity:1;transform:scale(.93) rotate(-7deg)}100%{opacity:1;transform:scale(1) rotate(-8deg)}}
+@media (max-width:760px){
+  .hero-inner{grid-template-columns:auto 1fr;grid-template-areas:"text text" "stamp art"}
+  .hero-text{grid-area:text}.stamp{grid-area:stamp;width:76px;align-self:center;margin-left:6px}.hero-art{grid-area:art;margin:0 auto}
+}
+@media (prefers-reduced-motion:reduce){.stamp{animation:none}}
