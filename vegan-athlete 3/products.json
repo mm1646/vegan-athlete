@@ -531,7 +531,8 @@
       "url": "https://www.amazon.co.uk/dp/B0HGBXGCR8?tag=veganathlet01-21&linkCode=ll2",
       "brand": "Mizuno",
       "icon": "shoe",
-      "gender": "men"
+      "gender": "men",
+      "terrain": "road"
     },
     {
       "id": "amazon-B0FPRGB6Q2",
@@ -543,7 +544,8 @@
       "icon": "shoe",
       "gender": "men",
       "retailer": "Amazon",
-      "url": "https://www.amazon.co.uk/dp/B0FPRGB6Q2?tag=veganathlet01-21&linkCode=ll2"
+      "url": "https://www.amazon.co.uk/dp/B0FPRGB6Q2?tag=veganathlet01-21&linkCode=ll2",
+      "terrain": "road"
     },
     {
       "id": "amazon-B0D7NYBZ6V",
@@ -555,7 +557,8 @@
       "icon": "shoe",
       "gender": "men",
       "retailer": "Amazon",
-      "url": "https://www.amazon.co.uk/dp/B0D7NYBZ6V?tag=veganathlet01-21&linkCode=ll2"
+      "url": "https://www.amazon.co.uk/dp/B0D7NYBZ6V?tag=veganathlet01-21&linkCode=ll2",
+      "terrain": "road"
     },
     {
       "id": "amazon-B0FGRTJLJ5",
@@ -567,7 +570,8 @@
       "icon": "shoe",
       "gender": "men",
       "retailer": "Amazon",
-      "url": "https://www.amazon.co.uk/dp/B0FGRTJLJ5?tag=veganathlet01-21&linkCode=ll2"
+      "url": "https://www.amazon.co.uk/dp/B0FGRTJLJ5?tag=veganathlet01-21&linkCode=ll2",
+      "terrain": "road"
     },
     {
       "id": "amazon-B0DYLJJ7FN",
@@ -579,7 +583,8 @@
       "icon": "shoe",
       "gender": "men",
       "retailer": "Amazon",
-      "url": "https://www.amazon.co.uk/dp/B0DYLJJ7FN?tag=veganathlet01-21&linkCode=ll2"
+      "url": "https://www.amazon.co.uk/dp/B0DYLJJ7FN?tag=veganathlet01-21&linkCode=ll2",
+      "terrain": "road"
     },
     {
       "id": "amazon-B0G2YZ2969",
@@ -591,7 +596,8 @@
       "icon": "shoe",
       "gender": "men",
       "retailer": "Amazon",
-      "url": "https://www.amazon.co.uk/dp/B0G2YZ2969?tag=veganathlet01-21&linkCode=ll2"
+      "url": "https://www.amazon.co.uk/dp/B0G2YZ2969?tag=veganathlet01-21&linkCode=ll2",
+      "terrain": "road"
     },
     {
       "id": "amazon-B0GJDR2XVR",
@@ -603,7 +609,8 @@
       "icon": "shoe",
       "gender": "women",
       "retailer": "Amazon",
-      "url": "https://www.amazon.co.uk/dp/B0GJDR2XVR?tag=veganathlet01-21&linkCode=ll2"
+      "url": "https://www.amazon.co.uk/dp/B0GJDR2XVR?tag=veganathlet01-21&linkCode=ll2",
+      "terrain": "road"
     },
     {
       "id": "amazon-B0GJNRDZB7",
@@ -615,7 +622,8 @@
       "icon": "shoe",
       "gender": "women",
       "retailer": "Amazon",
-      "url": "https://www.amazon.co.uk/dp/B0GJNRDZB7?tag=veganathlet01-21&linkCode=ll2"
+      "url": "https://www.amazon.co.uk/dp/B0GJNRDZB7?tag=veganathlet01-21&linkCode=ll2",
+      "terrain": "road"
     },
     {
       "id": "amazon-B0DTF78L2F",
@@ -627,7 +635,8 @@
       "icon": "shoe",
       "gender": "women",
       "retailer": "Amazon",
-      "url": "https://www.amazon.co.uk/dp/B0DTF78L2F?tag=veganathlet01-21&linkCode=ll2"
+      "url": "https://www.amazon.co.uk/dp/B0DTF78L2F?tag=veganathlet01-21&linkCode=ll2",
+      "terrain": "road"
     },
     {
       "id": "amazon-B0DTHSM9GW",
@@ -639,7 +648,8 @@
       "icon": "shoe",
       "gender": "women",
       "retailer": "Amazon",
-      "url": "https://www.amazon.co.uk/dp/B0DTHSM9GW?tag=veganathlet01-21&linkCode=ll2"
+      "url": "https://www.amazon.co.uk/dp/B0DTHSM9GW?tag=veganathlet01-21&linkCode=ll2",
+      "terrain": "road"
     }
   ]
 }

@@ -31,7 +31,7 @@ function productCard(p) {
   return `<article class="card">
     ${p.image
       ? `<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" onerror="this.onerror=null;this.src='${PLACEHOLDER}'">`
-      : `<div class="brand-tile${p.gender ? " brand-tile--" + esc(p.gender) : ""}" role="img" aria-label="${esc(p.name)}"><svg class="brand-icon" viewBox="0 0 64 64" aria-hidden="true">${ICONS[p.icon] || ICONS.tag}</svg><span class="brand-name" style="--len:${(p.brand || p.retailer).length}">${esc(p.brand || p.retailer)}</span><span class="brand-where">Available on ${esc(p.retailer)}</span></div>`}
+      : `<div class="brand-tile${p.gender ? " brand-tile--" + esc(p.gender) : ""}" role="img" aria-label="${esc(p.name)}"><svg class="brand-icon" viewBox="0 0 64 64" aria-hidden="true">${ICONS[p.icon] || ICONS.tag}</svg><span class="brand-row"><span class="brand-name${p.terrain ? " has-tag" : ""}" style="--len:${(p.brand || p.retailer).length}">${esc(p.brand || p.retailer)}</span>${p.terrain ? `<span class="brand-terrain">${esc(p.terrain)}</span>` : ""}</span><span class="brand-where">Available on ${esc(p.retailer)}</span></div>`}
     <div class="card-body">
       <h3>${esc(p.name)}</h3>
       ${p.price ? `<p class="price">${esc(p.price)} <span>at ${esc(p.retailer)}</span></p>` : ""}

@@ -57,6 +57,9 @@ footer strong{color:#fff}
   background:radial-gradient(120% 90% at 30% 20%,#1d6b4c 0%,var(--green) 55%,var(--green-deep) 100%);position:relative;overflow:hidden}
 .brand-tile::before{content:"V";position:absolute;right:-6%;bottom:-28%;font:900 15rem/1 "Archivo",system-ui,sans-serif;color:#fff;opacity:.06}
 .brand-tile--men{background:radial-gradient(120% 90% at 30% 20%,#4a9fe0 0%,#2272c3 55%,#123f7a 100%)}
+.brand-row{display:flex;align-items:center;gap:8px;position:relative;max-width:92%}
+.brand-name.has-tag{font-size:min(2rem,calc(220px / var(--len,6)))}
+.brand-terrain{font:800 .7rem/1 "Archivo",system-ui,sans-serif;text-transform:uppercase;letter-spacing:.1em;padding:5px 7px;border:2px solid currentColor;border-radius:6px;opacity:.95}
 .brand-tile--men .brand-where{background:#bfe1ff;color:#0f2f5c}
 .brand-tile--women{background:radial-gradient(120% 90% at 30% 20%,#f59ac6 0%,#d9558f 55%,#8e2459 100%)}
 .brand-tile--women .brand-where{background:#ffd6ea;color:#5c1239}
