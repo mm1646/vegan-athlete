@@ -687,6 +687,18 @@
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B0DTHSM9GW?tag=veganathlet01-21&linkCode=ll2",
       "terrain": "road"
+    },
+    {
+      "id": "amazon-B07V4WP36T",
+      "category": "climbing",
+      "name": "Scarpa Veloce Men's Climbing Shoes",
+      "price": "",
+      "image": "",
+      "brand": "Scarpa",
+      "icon": "climbing",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B07V4WP36T?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }
