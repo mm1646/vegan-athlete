@@ -1,6 +1,24 @@
 const PLACEHOLDER = "data:image/svg+xml;utf8," + encodeURIComponent(
   '<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450"><rect width="100%" height="100%" fill="#dfe8e3"/><text x="50%" y="50%" text-anchor="middle" fill="#0e2a22" font-family="sans-serif" font-size="28">Image coming soon</text></svg>');
 
+/* White line icons shown on branded tiles (set "icon" on a product) */
+const ICONS = {
+  shoe: '<path d="M5 42c0-7 2-14 6-19 1-2 3-2 4 0 3 5 8 7 13 5l5-2 9 9 15 5c4 1 6 3 6 6v1H5z"/><path d="M5 42v6h58v-5M24 30l3 3M30 28l3 3M36 29l3 3M5 43h58"/>',
+  racket: '<ellipse cx="38" cy="22" rx="16" ry="20" transform="rotate(40 38 22)"/><path d="M26 36L9 57M24 37l4 4M27 11l20 22M22 20l17 18M34 6l15 16M22 30l12 12M44 10L26 30M51 18L34 37M38 6L23 22"/>',
+  socks: '<path d="M22 6h16v26l12 10c4 3 4 9 0 12s-8 3-12 0L20 40c-2-2-3-4-3-7V6h5z"/><path d="M17 14h21"/>',
+  top: '<path d="M22 8l-14 8 5 12 6-3v31h26V25l6 3 5-12-14-8c-2 4-6 6-10 6s-8-2-10-6z"/>',
+  shorts: '<path d="M12 10h40l4 40H38l-6-24-6 24H8z"/><path d="M12 18h40"/>',
+  ball: '<circle cx="32" cy="32" r="24"/><path d="M8 32h48M32 8v48M15 15c9 9 9 25 0 34M49 15c-9 9-9 25 0 34"/>',
+  bottle: '<path d="M26 4h12v8l4 6v40H22V18l4-6z"/><path d="M22 28h20M22 44h20"/>',
+  bag: '<rect x="10" y="20" width="44" height="36" rx="5"/><path d="M24 20v-6a8 8 0 0 1 16 0v6M10 34h44"/>',
+  cap: '<path d="M8 40c0-13 10-22 23-22s21 9 21 22z"/><path d="M52 40h7c3 0 3 5 0 5H8v-5M31 18v-3M24 20c2 6 2 14 1 20M38 20c-2 6-2 14-1 20"/>',
+  glove: '<path d="M18 58V30l-6-8c-2-3 2-6 4-4l4 4V10c0-3 5-3 5 0v14-18c0-3 5-3 5 0v18-16c0-3 5-3 5 0v16-12c0-3 5-3 5 0v26c0 8-4 14-10 16v6z"/>',
+  watch: '<rect x="18" y="18" width="28" height="28" rx="7"/><path d="M24 18l2-12h12l2 12M24 46l2 12h12l2-12M32 26v7l5 3"/>',
+  dumbbell: '<path d="M6 26v12M12 20v24h6V20zM46 20v24h6V20zM58 26v12M18 32h28"/>',
+  board: '<path d="M32 4c10 8 14 22 14 30s-4 20-14 26C22 54 18 42 18 34S22 12 32 4z"/><path d="M32 12v44"/>',
+  tag: '<path d="M8 8h22l26 26-22 22L8 30z"/><circle cx="20" cy="20" r="4"/>'
+};
+
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
 async function load() {
@@ -13,7 +31,7 @@ function productCard(p) {
   return `<article class="card">
     ${p.image
       ? `<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" onerror="this.onerror=null;this.src='${PLACEHOLDER}'">`
-      : `<div class="brand-tile" role="img" aria-label="${esc(p.name)}"><span class="brand-name">${esc(p.brand || p.retailer)}</span><span class="brand-where">Available on ${esc(p.retailer)}</span></div>`}
+      : `<div class="brand-tile" role="img" aria-label="${esc(p.name)}"><svg class="brand-icon" viewBox="0 0 64 64" aria-hidden="true">${ICONS[p.icon] || ICONS.tag}</svg><span class="brand-name">${esc(p.brand || p.retailer)}</span><span class="brand-where">Available on ${esc(p.retailer)}</span></div>`}
     <div class="card-body">
       <h3>${esc(p.name)}</h3>
       ${p.price ? `<p class="price">${esc(p.price)} <span>at ${esc(p.retailer)}</span></p>` : ""}

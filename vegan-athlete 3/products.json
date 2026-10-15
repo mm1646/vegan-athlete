@@ -529,7 +529,8 @@
       "image": "",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B0HGBXGCR8?tag=veganathlet01-21&linkCode=ll2",
-      "brand": "Mizuno"
+      "brand": "Mizuno",
+      "icon": "shoe"
     }
   ]
 }
