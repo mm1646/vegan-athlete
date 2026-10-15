@@ -80,80 +80,56 @@ footer strong{color:#fff}
   .hero-art{width:230px;margin:0 auto}
 }
 
-/* Cartoon athlete */
+/* Cartoon athlete: juggling kit from a different sport every 4 seconds */
 .athlete .limb{stroke:#d7efe2;stroke-width:15;stroke-linecap:round}
 .athlete .skin{fill:#d7efe2}
-.athlete .label{fill:#cfe8da;font:700 15px "Source Sans 3",system-ui,sans-serif;letter-spacing:.12em;text-transform:uppercase;text-anchor:middle}
 .athlete g,.athlete circle{transform-box:view-box}
-.athlete .scene{opacity:0;animation:scene-cycle 16s infinite}
-.athlete .s1{animation-delay:0s}.athlete .s2{animation-delay:-12s}.athlete .s3{animation-delay:-8s}.athlete .s4{animation-delay:-4s}
-@keyframes scene-cycle{0%{opacity:0}3%,22%{opacity:1}25%,100%{opacity:0}}
-
-/* running */
-.athlete .bob{animation:bob .36s ease-in-out infinite alternate}
-@keyframes bob{to{transform:translateY(-6px)}}
-.athlete .run-leg-a,.athlete .run-leg-b{transform-origin:150px 172px;animation:leg-swing .72s ease-in-out infinite alternate}
-.athlete .run-leg-b{animation-delay:-.72s}
-@keyframes leg-swing{from{transform:rotate(32deg)}to{transform:rotate(-32deg)}}
-.athlete .run-arm-a,.athlete .run-arm-b{transform-origin:150px 114px;animation:arm-swing .72s ease-in-out infinite alternate}
-.athlete .run-arm-a{animation-delay:-.72s}
-@keyframes arm-swing{from{transform:rotate(45deg)}to{transform:rotate(-45deg)}}
-
-/* tennis */
-.athlete .racket-arm{transform-origin:150px 114px;animation:forehand 1.6s ease-in-out infinite}
-@keyframes forehand{0%,38%{transform:rotate(70deg)}52%{transform:rotate(-60deg)}64%,84%{transform:rotate(-165deg)}100%{transform:rotate(70deg)}}
-.athlete .tennis-ball{animation:tennis-ball 1.6s linear infinite}
-@keyframes tennis-ball{0%{transform:translate(320px,110px);opacity:0}20%{opacity:1}52%{transform:translate(238px,163px)}74%{transform:translate(330px,60px);opacity:1}75%,100%{opacity:0;transform:translate(330px,60px)}}
-
-/* basketball */
-.athlete .dribble-arm{transform-origin:150px 114px;animation:dribble-arm .6s ease-in-out infinite alternate}
-@keyframes dribble-arm{from{transform:rotate(-48deg)}to{transform:rotate(-30deg)}}
-.athlete .bball{animation:bounce .6s cubic-bezier(.5,0,.5,1) infinite alternate}
-@keyframes bounce{to{transform:translateY(66px)}}
-
-/* golf */
-.athlete .golf-swing{transform-origin:150px 114px;animation:golf 2.4s ease-in-out infinite}
-@keyframes golf{0%,12%{transform:rotate(-14deg)}42%,50%{transform:rotate(125deg)}60%{transform:rotate(-14deg)}70%,88%{transform:rotate(-150deg)}100%{transform:rotate(-14deg)}}
-.athlete .golf-ball{animation:golf-ball 2.4s ease-out infinite}
-@keyframes golf-ball{0%,59%{transform:translate(0,0);opacity:1}80%{transform:translate(140px,-220px);opacity:0}100%{opacity:0;transform:translate(140px,-220px)}}
-
-@media (prefers-reduced-motion:reduce){
-  .ink span,.ink i,.athlete *{animation:none!important}
-  .balls{display:none}
-  .athlete .scene{opacity:0}.athlete .s2{opacity:1}
-  .athlete .tennis-ball{transform:translate(238px,163px)}
-}
-
-/* More sports: 7 scenes, 4 seconds each */
-.athlete .scene{animation:scene-cycle 28s infinite}
+.athlete .scene{opacity:0;animation:scene-cycle 28s infinite}
 .athlete .s1{animation-delay:0s}.athlete .s2{animation-delay:-24s}.athlete .s3{animation-delay:-20s}.athlete .s4{animation-delay:-16s}
 .athlete .s5{animation-delay:-12s}.athlete .s6{animation-delay:-8s}.athlete .s7{animation-delay:-4s}
 @keyframes scene-cycle{0%{opacity:0}1.5%,12.8%{opacity:1}14.3%,100%{opacity:0}}
-
-/* cycling */
-.athlete .wheel{animation:spin .9s linear infinite}
-.athlete .crank{animation:spin 1.2s linear infinite}
+@keyframes bounce-up{0%{transform:translateY(0);animation-timing-function:cubic-bezier(.2,.7,.4,1)}50%{transform:translateY(var(--h));animation-timing-function:cubic-bezier(.6,0,.8,.3)}100%{transform:translateY(0)}}
+@keyframes tap{0%,100%{transform:translateY(-5px)}12%,88%{transform:translateY(0)}}
 @keyframes spin{to{transform:rotate(360deg)}}
-.athlete .pedal-leg-a,.athlete .pedal-leg-b{transform-origin:130px 172px;animation:thigh 1.2s ease-in-out infinite}
-.athlete .pedal-leg-b{animation-delay:-.6s}
-@keyframes thigh{0%,100%{transform:rotate(-14deg)}50%{transform:rotate(14deg)}}
-.athlete .pedal-shin-a{transform-origin:162px 198px;animation:shin 1.2s ease-in-out infinite}
-.athlete .pedal-shin-b{transform-origin:152px 204px;animation:shin 1.2s ease-in-out infinite;animation-delay:-.6s}
-@keyframes shin{0%,100%{transform:rotate(18deg)}50%{transform:rotate(-14deg)}}
 
-/* kayaking */
+/* football: keepy-ups */
+.athlete .keepy-leg{transform-origin:150px 172px;animation:keepy 1s infinite}
+@keyframes keepy{0%,100%{transform:rotate(-38deg)}18%,82%{transform:rotate(-6deg)}}
+.athlete .j-foot{--h:-110px;animation:bounce-up 1s infinite}
+/* tennis: ball bouncing on the strings */
+.athlete .racket-tap{animation:tap .8s infinite}
+.athlete .j-racket{--h:-90px;animation:bounce-up .8s infinite}
+/* golf: ball bouncing on the club face */
+.athlete .club-tap{animation:tap .7s infinite}
+.athlete .j-club{--h:-75px;animation:bounce-up .7s infinite}
+/* basketball: spinning on a fingertip */
+.athlete .j-finger{--h:-16px;animation:bounce-up .9s infinite}
+.athlete .spin-ball{transform-origin:170px 38px;animation:spin .45s linear infinite}
+/* climbing: tossing a rope coil */
+.athlete .j-rope{--h:-80px;animation:bounce-up 1.4s infinite}
+.athlete .spin-rope{transform-origin:150px 44px;animation:spin 1.4s linear infinite}
+.athlete .toss-arm-l{transform-origin:136px 112px}.athlete .toss-arm-r{transform-origin:164px 112px}
+.athlete .toss-arm-l{animation:pump-l 1.4s infinite}.athlete .toss-arm-r{animation:pump-r 1.4s infinite}
+@keyframes pump-l{0%,100%{transform:rotate(-10deg)}10%,90%{transform:rotate(6deg)}}
+@keyframes pump-r{0%,100%{transform:rotate(10deg)}10%,90%{transform:rotate(-6deg)}}
+/* kayaking: tossing the paddle */
 .athlete .kayak-bob{animation:kayak-bob 2s ease-in-out infinite alternate;transform-origin:150px 236px}
 @keyframes kayak-bob{from{transform:translateY(-2px) rotate(-2deg)}to{transform:translateY(3px) rotate(2deg)}}
-.athlete .paddle{animation:paddle 1.6s ease-in-out infinite alternate}
-@keyframes paddle{from{transform:rotate(-24deg)}to{transform:rotate(24deg)}}
+.athlete .j-paddle{--h:-85px;animation:bounce-up 1.6s infinite}
+.athlete .spin-paddle{transform-origin:150px 116px;animation:spin 1.6s linear infinite}
 .athlete .waves{animation:waves 2s linear infinite}
 @keyframes waves{to{transform:translateX(-60px)}}
+/* gym: kettlebell flip */
+.athlete .kb-arm{transform-origin:150px 114px;animation:kb-arm 1.2s infinite}
+@keyframes kb-arm{0%,100%{transform:rotate(-60deg)}15%,85%{transform:rotate(-82deg)}}
+.athlete .j-kb{--h:-80px;animation:bounce-up 1.2s infinite}
+.athlete .spin-kb{transform-origin:198px 136px;animation:spin 1.2s linear infinite}
 
-/* football */
-.athlete .kick-leg{transform-origin:150px 172px;animation:kick 1.4s ease-in-out infinite}
-@keyframes kick{0%,20%{transform:rotate(40deg)}38%{transform:rotate(-55deg)}55%,100%{transform:rotate(0)}}
-.athlete .football{animation:ball-fly 1.4s ease-out infinite}
-@keyframes ball-fly{0%,34%{transform:translate(0,0);opacity:1}62%{transform:translate(120px,-150px);opacity:0}63%{transform:translate(0,0);opacity:0}80%,100%{opacity:1;transform:translate(0,0)}}
+@media (prefers-reduced-motion:reduce){
+  .ink span,.ink i,.athlete *{animation:none!important}
+  .ink span{opacity:.4;transform:none}.ink i{display:none}
+  .athlete .scene{opacity:0}.athlete .s2{opacity:1}
+}
 
 /* Moving ink background: shades of green spreading and rippling like ink in water */
 .ink{position:absolute;inset:-10%;overflow:hidden;filter:blur(26px);pointer-events:none}
@@ -177,19 +153,5 @@ footer strong{color:#fff}
 .ink i:nth-of-type(2){left:8%;top:20%;animation-delay:-2.4s}
 .ink i:nth-of-type(3){left:38%;top:25%;animation-delay:-4.8s;background:radial-gradient(circle,transparent 52%,rgba(46,158,107,.6) 58%,transparent 66%)}
 @keyframes ink-ripple{0%{transform:scale(.1);opacity:0}15%{opacity:1}100%{transform:scale(1.6);opacity:0}}
-@media (prefers-reduced-motion:reduce){.ink span{opacity:.4;transform:none}.ink i{display:none}}
 
-/* Balls flying across the hero, a different one each time, back and forth like a rally */
-.balls{position:absolute;left:0;right:0;top:62%;height:0;pointer-events:none}
-.ball{position:absolute;left:0;top:0;opacity:0;animation:fly-ltr 28s linear infinite;animation-delay:var(--d)}
-.ball.rtl{animation-name:fly-rtl}
-.ball .arc{animation:arc 28s infinite;animation-delay:var(--d)}
-.ball .spin{animation:ball-spin .9s linear infinite}
-.ball.rtl .spin{animation-direction:reverse}
-.ball svg{display:block;filter:drop-shadow(0 6px 6px rgba(0,0,0,.25))}
-@keyframes fly-ltr{0%{opacity:1;transform:translateX(-8vw)}10%{opacity:1;transform:translateX(104vw)}10.1%,100%{opacity:0;transform:translateX(104vw)}}
-@keyframes fly-rtl{0%{opacity:1;transform:translateX(104vw)}10%{opacity:1;transform:translateX(-8vw)}10.1%,100%{opacity:0;transform:translateX(-8vw)}}
-@keyframes arc{0%{transform:translateY(0);animation-timing-function:cubic-bezier(.2,.6,.4,1)}5%{transform:translateY(-170px);animation-timing-function:cubic-bezier(.6,0,.8,.4)}10%,100%{transform:translateY(10px)}}
-@keyframes ball-spin{to{transform:rotate(360deg)}}
-@media (max-width:760px){.balls{top:40%}.ball svg{transform:scale(.8)}}
-.ball.rtl .nospin{transform:scaleX(-1)}
+
