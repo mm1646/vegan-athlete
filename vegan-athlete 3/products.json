@@ -711,6 +711,17 @@
       "gender": "women",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B084DBHR18?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B09S3ZPP9R",
+      "category": "tennis",
+      "name": "Wilson Clash 100UL v2.0 Tennis Racket",
+      "price": "",
+      "image": "",
+      "brand": "Wilson",
+      "icon": "racket",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B09S3ZPP9R?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }
