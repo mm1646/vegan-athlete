@@ -36,6 +36,11 @@
       "blurb": "Goggles, kit and training gear"
     },
     {
+      "slug": "watersports",
+      "name": "Watersports",
+      "blurb": "Paddleboards, kayaks and kit for the water"
+    },
+    {
       "slug": "hiking",
       "name": "Hiking",
       "blurb": "Boots, packs and outdoor gear"
