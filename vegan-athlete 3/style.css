@@ -68,7 +68,7 @@ footer strong{color:#fff}
 .brand-where{font-size:.85rem;font-weight:700;padding:4px 12px;border-radius:99px;background:var(--leaf);color:var(--green-deep);position:relative}
 
 /* Slogan: keep each sentence on its own line */
-.hero h1{max-width:none;font-size:clamp(2.4rem,6vw,5rem)}
+.hero h1{max-width:none;font-size:clamp(2.2rem,5.4vw,4.4rem)}
 .hero-art{width:clamp(220px,27vw,340px)}
 .hero h1 .line{display:block;white-space:nowrap}
 @media (max-width:760px){.hero h1{font-size:min(8vw,3rem)}}
