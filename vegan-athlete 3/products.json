@@ -58,7 +58,7 @@
     {
       "slug": "gym",
       "name": "Gym equipment",
-      "blurb": "Weights, mats, yoga, resistance and recovery gear"
+      "blurb": "Weights, treadmills, mats, yoga, resistance and recovery gear"
     }
   ],
   "products": [
@@ -223,6 +223,51 @@
       "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/02/products-img_2355.jpg",
       "retailer": "Sport and Leisure UK",
       "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fironman-deluxe-home-multi-gym-with-smith-machine-and-cables-65kg-weight-stack%2F"
+    },
+    {
+      "id": "bodytrain-t118-treadmill",
+      "category": "gym",
+      "name": "BodyTrain T-118 Motorised Folding Bluetooth Treadmill",
+      "price": "£139.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2026/03/products-t118-7.jpg",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fbodytrain-t-118-motorised-folding-bluetooth-treadmill%2F"
+    },
+    {
+      "id": "bodytrain-a7-jet-gt-treadmill",
+      "category": "gym",
+      "name": "BodyTrain A7 Jet GT Folding Motorised Treadmill (with free fitness watch and water bottle)",
+      "price": "£189.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/09/products-7_1_7.jpg",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fbodytrain-a7-jet-gt-motorised-treadmill%2F"
+    },
+    {
+      "id": "bodytrain-t150-treadmill",
+      "category": "gym",
+      "name": "BodyTrain T150 Motorised Folding Bluetooth Treadmill",
+      "price": "£249.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2026/03/products-t150-main.jpg",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fbodytrain-t150-motorised-folding-bluetooth-treadmill%2F"
+    },
+    {
+      "id": "bodytrain-xerxes-pro-treadmill",
+      "category": "gym",
+      "name": "BodyTrain Xerxes Pro Motorised Folding Bluetooth Treadmill",
+      "price": "£479.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2023/11/products-mt80-apps.jpg",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fbodytrain-xerxes-motorised-folding-bluetooth-treadmill%2F"
+    },
+    {
+      "id": "bodytrain-mt196i-treadmill",
+      "category": "gym",
+      "name": "BodyTrain MT-196i Motorised Folding Bluetooth Treadmill",
+      "price": "£499.95",
+      "image": "https://www.sportandleisureuk.com/wp-content/uploads/2023/11/products-i196-treadmill.jpg",
+      "retailer": "Sport and Leisure UK",
+      "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fbodytrain-mt-196i-motorised-folding-bluetooth-treadmill%2F"
     },
     {
       "id": "hillman-pop-up-training-net",
