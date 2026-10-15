@@ -119,6 +119,7 @@ footer strong{color:#fff}
 
 @media (prefers-reduced-motion:reduce){
   .ink span,.ink i,.athlete *{animation:none!important}
+  .balls{display:none}
   .athlete .scene{opacity:0}.athlete .s2{opacity:1}
   .athlete .tennis-ball{transform:translate(238px,163px)}
 }
@@ -177,3 +178,18 @@ footer strong{color:#fff}
 .ink i:nth-of-type(3){left:38%;top:25%;animation-delay:-4.8s;background:radial-gradient(circle,transparent 52%,rgba(46,158,107,.6) 58%,transparent 66%)}
 @keyframes ink-ripple{0%{transform:scale(.1);opacity:0}15%{opacity:1}100%{transform:scale(1.6);opacity:0}}
 @media (prefers-reduced-motion:reduce){.ink span{opacity:.4;transform:none}.ink i{display:none}}
+
+/* Balls flying across the hero, a different one each time, back and forth like a rally */
+.balls{position:absolute;left:0;right:0;top:62%;height:0;pointer-events:none}
+.ball{position:absolute;left:0;top:0;opacity:0;animation:fly-ltr 28s linear infinite;animation-delay:var(--d)}
+.ball.rtl{animation-name:fly-rtl}
+.ball .arc{animation:arc 28s infinite;animation-delay:var(--d)}
+.ball .spin{animation:ball-spin .9s linear infinite}
+.ball.rtl .spin{animation-direction:reverse}
+.ball svg{display:block;filter:drop-shadow(0 6px 6px rgba(0,0,0,.25))}
+@keyframes fly-ltr{0%{opacity:1;transform:translateX(-8vw)}10%{opacity:1;transform:translateX(104vw)}10.1%,100%{opacity:0;transform:translateX(104vw)}}
+@keyframes fly-rtl{0%{opacity:1;transform:translateX(104vw)}10%{opacity:1;transform:translateX(-8vw)}10.1%,100%{opacity:0;transform:translateX(-8vw)}}
+@keyframes arc{0%{transform:translateY(0);animation-timing-function:cubic-bezier(.2,.6,.4,1)}5%{transform:translateY(-170px);animation-timing-function:cubic-bezier(.6,0,.8,.4)}10%,100%{transform:translateY(10px)}}
+@keyframes ball-spin{to{transform:rotate(360deg)}}
+@media (max-width:760px){.balls{top:40%}.ball svg{transform:scale(.8)}}
+.ball.rtl .nospin{transform:scaleX(-1)}
