@@ -4,6 +4,7 @@ const PLACEHOLDER = "data:image/svg+xml;utf8," + encodeURIComponent(
 /* White line icons shown on branded tiles (set "icon" on a product) */
 const ICONS = {
   shoe: '<path d="M6 38c1-7 3-12 6-16 3 4 6 5 9 2l3-5c6 5 14 9 22 11 7 2 12 4 14 8"/><path d="M6 38h54c2 3 0 7-5 7l-25 4c-10 1-18 1-21-1-3-2-4-6-3-10z"/><path d="M27 23l3 3M32 25l3 3M37 27l3 3M15 34l13-5M20 37l14-5"/>',
+  trainer: '<path d="M5 41c0-4 1-9 3-13l2-5c1-2 3-2 4-1l4 4c2 2 5 2 7 0l4-4c1-1 3-1 4 0l9 11 14 4c4 1 7 4 7 7v2H5z"/><path d="M5 47h58M27 26l3 4M32 23l3 4M37 25l3 4M5 41h58"/>',
   racket: '<ellipse cx="38" cy="22" rx="16" ry="20" transform="rotate(40 38 22)"/><path d="M26 36L9 57M24 37l4 4M27 11l20 22M22 20l17 18M34 6l15 16M22 30l12 12M44 10L26 30M51 18L34 37M38 6L23 22"/>',
   socks: '<path d="M22 6h16v26l12 10c4 3 4 9 0 12s-8 3-12 0L20 40c-2-2-3-4-3-7V6h5z"/><path d="M17 14h21"/>',
   top: '<path d="M22 8l-14 8 5 12 6-3v31h26V25l6 3 5-12-14-8c-2 4-6 6-10 6s-8-2-10-6z"/>',
