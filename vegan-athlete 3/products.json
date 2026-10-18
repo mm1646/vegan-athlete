@@ -745,6 +745,18 @@
       "gender": "men",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B000KDXOL4?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0B9BV6W6B",
+      "category": "football",
+      "name": "PUMA King Platinum 21 Vegan Men's Football Boots (FG/AG)",
+      "price": "",
+      "image": "",
+      "brand": "PUMA",
+      "icon": "boot",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0B9BV6W6B?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }
