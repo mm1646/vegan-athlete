@@ -868,6 +868,17 @@
       "icon": "glove",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B0FMST76X3?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0F4JVZS33",
+      "category": "football",
+      "name": "adidas Predator Training Goalkeeper Gloves",
+      "price": "",
+      "image": "",
+      "brand": "adidas",
+      "icon": "glove",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0F4JVZS33?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }
