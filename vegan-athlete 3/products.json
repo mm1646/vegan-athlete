@@ -802,6 +802,39 @@
       "icon": "bat",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B0G4D8WQRV?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B07JX12FQV",
+      "category": "cricket",
+      "name": "Gunn & Moore Mini Cricket Bat",
+      "price": "",
+      "image": "",
+      "brand": "Gunn & Moore",
+      "icon": "bat",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B07JX12FQV?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0CND9GSGR",
+      "category": "cricket",
+      "name": "Gunn & Moore Traditional Batting Pads",
+      "price": "",
+      "image": "",
+      "brand": "Gunn & Moore",
+      "icon": "pads",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0CND9GSGR?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B00WSM0SLE",
+      "category": "cricket",
+      "name": "Ram Crazy Cricket Set",
+      "price": "",
+      "image": "",
+      "brand": "Ram Cricket",
+      "icon": "stumps",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B00WSM0SLE?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }
