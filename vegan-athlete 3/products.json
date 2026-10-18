@@ -835,6 +835,39 @@
       "icon": "stumps",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B00WSM0SLE?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B09XJMV5FR",
+      "category": "football",
+      "name": "Reusch Attrakt Infinity Goalkeeper Gloves",
+      "price": "",
+      "image": "",
+      "brand": "Reusch",
+      "icon": "glove",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B09XJMV5FR?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0FTF5ZJWV",
+      "category": "football",
+      "name": "Reusch All-Round Goalkeeper Gloves",
+      "price": "",
+      "image": "",
+      "brand": "Reusch",
+      "icon": "glove",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0FTF5ZJWV?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0FMST76X3",
+      "category": "football",
+      "name": "PUMA Ultra Ultimate Goalkeeper Gloves",
+      "price": "",
+      "image": "",
+      "brand": "PUMA",
+      "icon": "glove",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0FMST76X3?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }
