@@ -769,6 +769,17 @@
       "gender": "men",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B0FV3C82KZ?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B07ZHJP2LL",
+      "category": "cricket",
+      "name": "Gray-Nicolls Atomic 360 Cricket Helmet",
+      "price": "",
+      "image": "",
+      "brand": "Gray-Nicolls",
+      "icon": "helmet",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B07ZHJP2LL?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }
