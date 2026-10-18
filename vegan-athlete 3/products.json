@@ -757,6 +757,18 @@
       "gender": "men",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B0B9BV6W6B?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0FV3C82KZ",
+      "category": "football",
+      "name": "Skechers Razor 2 Academy Men's Football Boots (FG)",
+      "price": "",
+      "image": "",
+      "brand": "Skechers",
+      "icon": "boot",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0FV3C82KZ?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }
