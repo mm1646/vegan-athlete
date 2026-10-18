@@ -780,6 +780,28 @@
       "icon": "helmet",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B07ZHJP2LL?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0G4MWBQZJ",
+      "category": "cricket",
+      "name": "Kookaburra Kahuna 6.4 Ultimate Cricket Bat",
+      "price": "",
+      "image": "",
+      "brand": "Kookaburra",
+      "icon": "bat",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0G4MWBQZJ?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0G4D8WQRV",
+      "category": "cricket",
+      "name": "Kookaburra Kahuna 9.1 Junior Cricket Bat",
+      "price": "",
+      "image": "",
+      "brand": "Kookaburra",
+      "icon": "bat",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0G4D8WQRV?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }
