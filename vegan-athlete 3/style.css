@@ -165,3 +165,5 @@ header.site .wrap{gap:16px}
 .region-switch select{font:inherit;color:#fff;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.3);border-radius:6px;padding:4px 8px}
 .region-switch select option{color:#10291f}
 @media (max-width:520px){.region-switch span{display:none}}
+header.site .wrap > a:not(.logo){white-space:nowrap}
+@media (max-width:420px){header.site .wrap{gap:10px}header.site .logo{font-size:1rem}header.site .wrap > a:not(.logo){font-size:.85rem}}
