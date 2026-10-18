@@ -23,7 +23,7 @@
     {
       "slug": "football",
       "name": "Football",
-      "blurb": "Boots, balls and gloves without leather"
+      "blurb": "Boots, goalkeeper gloves and shin pads"
     },
     {
       "slug": "cricket",
@@ -843,7 +843,7 @@
       "price": "",
       "image": "",
       "brand": "Reusch",
-      "icon": "glove",
+      "icon": "keeperglove",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B09XJMV5FR?tag=veganathlet01-21&linkCode=ll2"
     },
@@ -854,7 +854,7 @@
       "price": "",
       "image": "",
       "brand": "Reusch",
-      "icon": "glove",
+      "icon": "keeperglove",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B0FTF5ZJWV?tag=veganathlet01-21&linkCode=ll2"
     },
@@ -865,7 +865,7 @@
       "price": "",
       "image": "",
       "brand": "PUMA",
-      "icon": "glove",
+      "icon": "keeperglove",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B0FMST76X3?tag=veganathlet01-21&linkCode=ll2"
     },
@@ -876,9 +876,53 @@
       "price": "",
       "image": "",
       "brand": "adidas",
-      "icon": "glove",
+      "icon": "keeperglove",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B0F4JVZS33?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0B5HBWL23",
+      "category": "football",
+      "name": "Nike Mercurial Lite Shin Guards",
+      "price": "",
+      "image": "",
+      "brand": "Nike",
+      "icon": "shinpad",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0B5HBWL23?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0CP8MSPQM",
+      "category": "football",
+      "name": "adidas Tiro League Shin Guards",
+      "price": "",
+      "image": "",
+      "brand": "adidas",
+      "icon": "shinpad",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0CP8MSPQM?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0D2LHCR4F",
+      "category": "football",
+      "name": "PUMA Ultra Light Sleeve Shin Guards",
+      "price": "",
+      "image": "",
+      "brand": "PUMA",
+      "icon": "shinpad",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0D2LHCR4F?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0B8B4JMWG",
+      "category": "football",
+      "name": "G-Form Pro-S Shin Guards",
+      "price": "",
+      "image": "",
+      "brand": "G-Form",
+      "icon": "shinpad",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0B8B4JMWG?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }

@@ -24,6 +24,8 @@ const ICONS = {
   helmet: '<path d="M10 36c0-14 10-24 23-24s21 9 21 22v4H10z"/><path d="M16 38v8c0 6 4 10 10 10h12c6 0 10-4 11-10l1-8M16 46h34M27 38v18M38 38v18"/>',
   pads: '<rect x="18" y="6" width="28" height="52" rx="8"/><path d="M27 6v52M37 6v52M18 22h28M18 42h28"/>',
   cricketball: '<circle cx="32" cy="32" r="24"/><path d="M20 12c8 12 8 28 0 40M44 12c-8 12-8 28 0 40M22 18l-4 2M23 26l-5 1M23 34l-5-1M22 42l-4-2M42 18l4 2M41 26l5 1M41 34l5-1M42 42l4-2"/>',
+  shinpad: '<path d="M20 8c8-3 16-3 24 0l-2 34c-1 8-5 14-10 14s-9-6-10-14z"/><path d="M24 16c5-2 11-2 16 0M25 26h14M26 36h12"/>',
+  keeperglove: '<path d="M16 42V26c0-3 5-3 5 0v-14c0-3 5-3 5 0V8c0-3 5-3 5 0v4c0-3 5-3 5 0v4c0-3 5-3 5 0v14l4-5c2-3 7 0 5 3l-8 13v5z"/><path d="M15 44h33v12H15z"/><path d="M15 50h33M24 28v12M31 28v12M38 28v12"/>',
   stumps: '<path d="M18 16v42M32 16v42M46 16v42M15 12h15M34 12h15"/>',
   tag: '<path d="M8 8h22l26 26-22 22L8 30z"/><circle cx="20" cy="20" r="4"/>'
 };
