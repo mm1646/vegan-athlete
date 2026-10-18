@@ -41,6 +41,11 @@
       "blurb": "Paddleboards, kayaks and kit for the water"
     },
     {
+      "slug": "snowsports",
+      "name": "Snowsports",
+      "blurb": "Skis, snowboards & snowwear"
+    },
+    {
       "slug": "hiking",
       "name": "Hiking",
       "blurb": "Boots, packs and outdoor gear"
