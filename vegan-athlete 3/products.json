@@ -8,7 +8,7 @@
     {
       "slug": "cycling",
       "name": "Cycling",
-      "blurb": "Shoes, bib shorts, gloves and bar tape"
+      "blurb": "Shoes, helmets, saddles, bib shorts, gloves and bar tape"
     },
     {
       "slug": "tennis",
@@ -735,18 +735,6 @@
       "url": "https://www.amazon.co.uk/dp/B0DZ6XFTTY?tag=veganathlet01-21&linkCode=ll2"
     },
     {
-      "id": "amazon-B000KDXOL4",
-      "category": "cycling",
-      "name": "GOREWEAR C5 Opti Bib Shorts+ Men's",
-      "price": "",
-      "image": "",
-      "brand": "Gorewear",
-      "icon": "bib",
-      "gender": "men",
-      "retailer": "Amazon",
-      "url": "https://www.amazon.co.uk/dp/B000KDXOL4?tag=veganathlet01-21&linkCode=ll2"
-    },
-    {
       "id": "amazon-B0B9BV6W6B",
       "category": "football",
       "name": "PUMA King Platinum 21 Vegan Men's Football Boots (FG/AG)",
@@ -923,6 +911,175 @@
       "icon": "shinpad",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B0B8B4JMWG?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B000KDXOL4",
+      "category": "cycling",
+      "name": "GOREWEAR C5 Opti Bib Shorts+ Men's",
+      "price": "",
+      "image": "",
+      "brand": "Gorewear",
+      "icon": "bib",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B000KDXOL4?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B08HYVWR24",
+      "category": "cycling",
+      "name": "Shimano RC3 SPD-SL Men's Road Cycling Shoes",
+      "price": "",
+      "image": "",
+      "brand": "Shimano",
+      "icon": "cyclingshoe",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B08HYVWR24?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B085CMJ55X",
+      "category": "cycling",
+      "name": "Endura Xtract Lite Men's Bib Shorts",
+      "price": "",
+      "image": "",
+      "brand": "Endura",
+      "icon": "bib",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B085CMJ55X?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B08P6DGWQT",
+      "category": "cycling",
+      "name": "Shimano RC1 Women's Road Cycling Shoes",
+      "price": "",
+      "image": "",
+      "brand": "Shimano",
+      "icon": "cyclingshoe",
+      "gender": "women",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B08P6DGWQT?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0F9YJ3N46",
+      "category": "cycling",
+      "name": "MET Shelter Cycling Helmet",
+      "price": "",
+      "image": "",
+      "brand": "MET",
+      "icon": "bikehelmet",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0F9YJ3N46?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B09STYYCD7",
+      "category": "cycling",
+      "name": "MET Vinci Cycling Helmet",
+      "price": "",
+      "image": "",
+      "brand": "MET",
+      "icon": "bikehelmet",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B09STYYCD7?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B08HJXSL1H",
+      "category": "cycling",
+      "name": "MET Rivale Cycling Helmet",
+      "price": "",
+      "image": "",
+      "brand": "MET",
+      "icon": "bikehelmet",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B08HJXSL1H?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0GL2M2YW9",
+      "category": "cycling",
+      "name": "Giro Agilis Cycling Helmet",
+      "price": "",
+      "image": "",
+      "brand": "Giro",
+      "icon": "bikehelmet",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0GL2M2YW9?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0BTDL3NCF",
+      "category": "cycling",
+      "name": "Kask Sintesi Cycling Helmet",
+      "price": "",
+      "image": "",
+      "brand": "Kask",
+      "icon": "bikehelmet",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0BTDL3NCF?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B08255LQT4",
+      "category": "cycling",
+      "name": "Brooks Cambium C17 All Weather Saddle",
+      "price": "",
+      "image": "",
+      "brand": "Brooks",
+      "icon": "saddle",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B08255LQT4?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B072TQYY35",
+      "category": "cycling",
+      "name": "Endura Hummvee Plus Cycling Gloves",
+      "price": "",
+      "image": "",
+      "brand": "Endura",
+      "icon": "glove",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B072TQYY35?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B09N719DPG",
+      "category": "cycling",
+      "name": "Castelli Arenberg Gel 2 Cycling Gloves",
+      "price": "",
+      "image": "",
+      "brand": "Castelli",
+      "icon": "glove",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B09N719DPG?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0FTL8ZPMJ",
+      "category": "cycling",
+      "name": "Lizard Skins DSP 2.7mm Bar Tape",
+      "price": "",
+      "image": "",
+      "brand": "Lizard Skins",
+      "icon": "bartape",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0FTL8ZPMJ?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B012MR6OKS",
+      "category": "cycling",
+      "name": "Supacaz Super Sticky Kush Bar Tape",
+      "price": "",
+      "image": "",
+      "brand": "Supacaz",
+      "icon": "bartape",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B012MR6OKS?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B01N3SZORI",
+      "category": "cycling",
+      "name": "Supacaz Super Sticky Kush Bar Tape with Plugs",
+      "price": "",
+      "image": "",
+      "brand": "Supacaz",
+      "icon": "bartape",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B01N3SZORI?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }

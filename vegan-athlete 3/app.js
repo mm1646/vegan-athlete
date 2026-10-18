@@ -26,6 +26,10 @@ const ICONS = {
   cricketball: '<circle cx="32" cy="32" r="24"/><path d="M20 12c8 12 8 28 0 40M44 12c-8 12-8 28 0 40M22 18l-4 2M23 26l-5 1M23 34l-5-1M22 42l-4-2M42 18l4 2M41 26l5 1M41 34l5-1M42 42l4-2"/>',
   shinpad: '<path d="M20 8c8-3 16-3 24 0l-2 34c-1 8-5 14-10 14s-9-6-10-14z"/><path d="M24 16c5-2 11-2 16 0M25 26h14M26 36h12"/>',
   keeperglove: '<path d="M16 42V26c0-3 5-3 5 0v-14c0-3 5-3 5 0V8c0-3 5-3 5 0v4c0-3 5-3 5 0v4c0-3 5-3 5 0v14l4-5c2-3 7 0 5 3l-8 13v5z"/><path d="M15 44h33v12H15z"/><path d="M15 50h33M24 28v12M31 28v12M38 28v12"/>',
+  saddle: '<path d="M4 24c4-4 12-5 22-4l22 2c6 1 10 3 10 7 0 3-4 4-10 4-12 0-26-2-36-5-6-1-9-3-8-4z"/><path d="M20 34l8 8h12l6-9M34 42v14M26 57h16"/>',
+  bikehelmet: '<path d="M5 42c0-16 13-28 29-28 14 0 25 9 26 22 0 4-2 6-6 6z"/><path d="M14 30l10 3M23 21l8 9M37 17l3 11M50 22l-5 9M18 42l7 13h10l7-13"/>',
+  bartape: '<ellipse cx="20" cy="32" rx="10" ry="20"/><ellipse cx="20" cy="32" rx="4" ry="8"/><path d="M20 12h22c7 0 10 9 10 20s-3 20-10 20H20M42 52l16 6"/>',
+  cyclingshoe: '<path d="M5 40c0-7 2-12 6-16 4 3 8 3 12 0l4-4c8 6 18 10 28 12 5 1 7 4 7 8z"/><path d="M5 40h57v4H5zM27 44h15v5H27z"/><circle cx="34" cy="29" r="4"/><path d="M21 31l7-4M40 31l7 3"/>',
   stumps: '<path d="M18 16v42M32 16v42M46 16v42M15 12h15M34 12h15"/>',
   tag: '<path d="M8 8h22l26 26-22 22L8 30z"/><circle cx="20" cy="20" r="4"/>'
 };
