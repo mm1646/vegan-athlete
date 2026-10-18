@@ -25,6 +25,38 @@ const ICONS = {
 
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
+/* Amazon country switch: US visitors go to amazon.com, everyone else to amazon.co.uk */
+const AMAZON = {
+  uk: { label: "UK", flag: "\u{1F1EC}\u{1F1E7}", host: "www.amazon.co.uk", tag: "veganathlet01-21" },
+  us: { label: "US", flag: "\u{1F1FA}\u{1F1F8}", host: "www.amazon.com",   tag: "veganathlet01-20" }
+};
+const US_ZONES = /^(America\/(New_York|Chicago|Denver|Phoenix|Los_Angeles|Anchorage|Adak|Boise|Detroit|Juneau|Sitka|Metlakatla|Nome|Yakutat|Menominee|Indiana\/.+|Kentucky\/.+|North_Dakota\/.+)|Pacific\/Honolulu)$/;
+function guessRegion() {
+  try { const saved = localStorage.getItem("va-region"); if (saved && AMAZON[saved]) return saved; } catch (e) {}
+  try { if (US_ZONES.test(Intl.DateTimeFormat().resolvedOptions().timeZone || "")) return "us"; } catch (e) {}
+  return "uk";
+}
+let REGION = guessRegion();
+function productUrl(p) {
+  if (p.retailer !== "Amazon" || REGION === "uk") return p.url;
+  const r = AMAZON[REGION];
+  return `https://${r.host}/s?k=${encodeURIComponent(p.name)}&tag=${r.tag}`;
+}
+function addRegionSwitch(rerender) {
+  const bar = document.querySelector("header.site .wrap");
+  if (!bar || document.getElementById("region-switch")) return;
+  const wrap = document.createElement("label");
+  wrap.className = "region-switch"; wrap.id = "region-switch";
+  wrap.innerHTML = `<span>Shopping from</span><select aria-label="Choose your country">${Object.entries(AMAZON).map(([k, r]) => `<option value="${k}"${k === REGION ? " selected" : ""}>${r.flag} ${r.label}</option>`).join("")}</select>`;
+  wrap.querySelector("select").addEventListener("change", e => {
+    REGION = e.target.value;
+    try { localStorage.setItem("va-region", REGION); } catch (err) {}
+    rerender();
+  });
+  const allLink = bar.querySelector('a[href="index.html"]:not(.logo)');
+  bar.insertBefore(wrap, allLink || null);
+}
+
 async function load() {
   const res = await fetch("products.json?v=" + Date.now(), { cache: "no-store" });
   if (!res.ok) throw new Error("products.json returned " + res.status);
@@ -39,7 +71,7 @@ function productCard(p) {
     <div class="card-body">
       <h3>${esc(p.name)}</h3>
       ${p.price ? `<p class="price">${esc(p.price)} <span>at ${esc(p.retailer)}</span></p>` : ""}
-      <a class="btn" href="${esc(p.url)}" target="_blank" rel="sponsored nofollow noopener">${p.price ? "View at " + esc(p.retailer) : "Check price on " + esc(p.retailer)}</a>
+      <a class="btn" href="${esc(productUrl(p))}" target="_blank" rel="sponsored nofollow noopener">${p.price ? "View at " + esc(p.retailer) : "Check price on " + esc(p.retailer)}</a>
     </div>
   </article>`;
 }
@@ -72,6 +104,8 @@ function productCard(p) {
     document.getElementById("cat-title").textContent = cat.name;
     document.getElementById("cat-blurb").textContent = cat.blurb;
     const items = data.products.filter(p => p.category === slug);
-    list.innerHTML = items.length ? items.map(productCard).join("") : "<p>Products coming soon.</p>";
+    const render = () => { list.innerHTML = items.length ? items.map(productCard).join("") : "<p>Products coming soon.</p>"; };
+    render();
+    if (items.some(p => p.retailer === "Amazon")) addRegionSwitch(render);
   }
 })();
