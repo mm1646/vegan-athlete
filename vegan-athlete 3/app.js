@@ -103,6 +103,16 @@ const ICONS = {
   sunglasses: '<path d="M4 24h56M10 24c0 10 2 16 10 16s10-6 10-16M34 24c0 10 2 16 10 16s10-6 10-16M28 26h8"/>',
   bench: '<path d="M6 30h52v8H6zM14 38v18M50 38v18M10 56h8M46 56h8M40 30l8-20h6"/>',
   massagegun: '<path d="M10 14h36c6 0 8 4 8 8v4c0 4-2 8-8 8H10z"/><path d="M26 34l-4 24h12l2-24M54 24h6"/>',
+  skateboard: '<path d="M6 26c0-4 3-6 7-6h38c4 0 7 2 7 6s-3 6-7 6H13c-4 0-7-2-7-6z"/><path d="M16 32v6M48 32v6"/><circle cx="16" cy="44" r="5"/><circle cx="48" cy="44" r="5"/>',
+  rollerskate: '<path d="M16 6h16v18l14 6c6 2 10 6 10 12v4H12V10c0-2 2-4 4-4z"/><path d="M12 46h44M16 18h16"/><circle cx="20" cy="54" r="6"/><circle cx="48" cy="54" r="6"/>',
+  inlineskate: '<path d="M18 4h14v20l12 6c6 2 10 6 10 12v2H14V8c0-2 2-4 4-4z"/><path d="M12 48h44M18 16h14"/><circle cx="18" cy="56" r="4"/><circle cx="29" cy="56" r="4"/><circle cx="40" cy="56" r="4"/><circle cx="51" cy="56" r="4"/>',
+  bmx: '<circle cx="14" cy="44" r="10"/><circle cx="50" cy="44" r="10"/><path d="M14 44l12-16h18l6 16M26 28l6 16h-18M32 44l12-16M40 16l4 12M36 16h8M24 22h6"/>',
+  skatewheel: '<circle cx="32" cy="32" r="24"/><circle cx="32" cy="32" r="10"/><circle cx="32" cy="32" r="3"/>',
+  truck: '<path d="M6 40h52M14 40v-6h36v6M24 34l8-14 8 14M26 22h12"/><circle cx="10" cy="44" r="4"/><circle cx="54" cy="44" r="4"/>',
+  kneepad: '<path d="M18 8h28c4 0 6 3 6 6v30c0 8-8 14-20 14S12 52 12 44V14c0-3 2-6 6-6z"/><path d="M12 22h40M12 40h40"/><ellipse cx="32" cy="32" rx="12" ry="9"/>',
+  pedal: '<rect x="10" y="18" width="44" height="28" rx="6"/><path d="M18 18v28M46 18v28M10 32h-6M18 24h28M18 40h28"/>',
+  chain: '<rect x="4" y="22" width="20" height="20" rx="10"/><rect x="22" y="22" width="20" height="20" rx="10"/><rect x="40" y="22" width="20" height="20" rx="10"/>',
+  ramp: '<path d="M4 54h56V22C40 22 20 36 4 54z"/><path d="M60 22v-6M14 54v-4M28 54V40M44 54V28"/>',
   stumps: '<path d="M18 16v42M32 16v42M46 16v42M15 12h15M34 12h15"/>',
   tag: '<path d="M8 8h22l26 26-22 22L8 30z"/><circle cx="20" cy="20" r="4"/>'
 };
