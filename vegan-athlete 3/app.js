@@ -95,6 +95,14 @@ const ICONS = {
   neckwear: '<path d="M16 8h32v48H16z"/><path d="M16 8c6 4 26 4 32 0M16 56c6-4 26-4 32 0M20 22h24M20 42h24"/>',
   compass: '<rect x="10" y="4" width="44" height="56" rx="4"/><circle cx="32" cy="34" r="14"/><path d="M32 22l4 12-4 12-4-12z"/><path d="M16 12h32"/>',
   firstaid: '<rect x="6" y="16" width="52" height="40" rx="5"/><path d="M24 16v-6h16v6M32 26v20M22 36h20"/>',
+  trainerbike: '<path d="M10 50h44M18 50l6-20h16l6 20M32 30V14M24 14h16"/><circle cx="32" cy="30" r="8"/>',
+  bikelight: '<rect x="14" y="20" width="30" height="24" rx="6"/><path d="M44 26l14-6M44 32h16M44 38l14 6M22 44v8h14v-8"/>',
+  tool: '<path d="M14 50L42 22"/><circle cx="46" cy="18" r="10"/><path d="M42 12l8 8M10 54l6-6"/>',
+  lock: '<path d="M20 30V18c0-8 5-12 12-12s12 4 12 12v12"/><rect x="12" y="30" width="40" height="28" rx="5"/><circle cx="32" cy="42" r="4"/><path d="M32 46v6"/>',
+  tyre: '<circle cx="32" cy="32" r="26"/><circle cx="32" cy="32" r="16"/><path d="M32 6v6M32 52v6M6 32h6M52 32h6M14 14l4 4M46 46l4 4M14 50l4-4M46 18l4-4"/>',
+  sunglasses: '<path d="M4 24h56M10 24c0 10 2 16 10 16s10-6 10-16M34 24c0 10 2 16 10 16s10-6 10-16M28 26h8"/>',
+  bench: '<path d="M6 30h52v8H6zM14 38v18M50 38v18M10 56h8M46 56h8M40 30l8-20h6"/>',
+  massagegun: '<path d="M10 14h36c6 0 8 4 8 8v4c0 4-2 8-8 8H10z"/><path d="M26 34l-4 24h12l2-24M54 24h6"/>',
   stumps: '<path d="M18 16v42M32 16v42M46 16v42M15 12h15M34 12h15"/>',
   tag: '<path d="M8 8h22l26 26-22 22L8 30z"/><circle cx="20" cy="20" r="4"/>'
 };
