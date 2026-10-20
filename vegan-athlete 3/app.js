@@ -39,6 +39,18 @@ const ICONS = {
   fins: '<path d="M24 5h16v16l12 26c3 7-1 13-8 13H20c-7 0-11-6-8-13l12-26z"/><path d="M24 21h16M28 30l-3 26M36 30l3 26"/>',
   paddle: '<path d="M17 10c9-5 21-5 30 0 4 15 2 34-7 47H24c-9-13-11-32-7-47z"/><path d="M32 9v48M21 24h22M22 38h20"/>',
   snorkel: '<path d="M42 8v34c0 9-7 16-16 16h-10"/><path d="M36 6h12M16 52v12"/><rect x="8" y="24" width="22" height="14" rx="7"/>',
+  hikingboot: '<path d="M14 6h18v20l12 6c8 3 14 6 16 12v6H6v-8c0-4 4-6 8-8z"/><path d="M6 50h54v6H6zM14 14h10M14 20h10M32 26l-6 6"/>',
+  backpack: '<path d="M20 14c0-6 5-10 12-10s12 4 12 10"/><rect x="14" y="14" width="36" height="44" rx="9"/><path d="M22 34h20v14H22zM24 14v-2M40 14v-2"/>',
+  poles: '<path d="M20 4l6 54M44 4l-6 54"/><path d="M17 4h7M40 4h7M18 16h8M38 16h8M22 50l8 2M42 50l-8 2"/>',
+  headlamp: '<path d="M6 34c0-12 12-20 26-20s26 8 26 20"/><rect x="22" y="26" width="20" height="16" rx="4"/><circle cx="32" cy="34" r="4"/><path d="M32 46v8M24 44l-4 6M40 44l4 6"/>',
+  filter: '<rect x="22" y="18" width="20" height="40" rx="5"/><path d="M26 18v-8h12v8M28 6h8M22 30h20M22 46h20"/>',
+  ski: '<path d="M14 58L44 4c3-2 6 0 5 3L20 60c-2 2-6 1-6-2z"/><path d="M26 34l8 4M30 26l8 4"/>',
+  snowboard: '<rect x="20" y="4" width="24" height="56" rx="12"/><path d="M24 20h16M24 44h16M28 18v6M36 18v6M28 42v6M36 42v6"/>',
+  binding: '<path d="M14 50h36c4 0 6-3 6-6V30l-10-6v14H22l-8 6z"/><path d="M14 50v6h42v-6M30 30h14M46 24l4-12"/>',
+  skigoggles: '<path d="M8 22c16-6 32-6 48 0 3 8 3 16 0 22-6 2-12 0-16-4-4-3-12-3-16 0-4 4-10 6-16 4-3-6-3-14 0-22z"/><path d="M8 32H2M56 32h6"/>',
+  skihelmet: '<path d="M8 44c0-18 11-30 25-30 13 0 23 11 23 26v4z"/><path d="M8 44h48M34 14v8M18 22l5 5M50 24l-6 4"/>',
+  jacket: '<path d="M22 6l-12 8-4 40h12V30v28h28V30v24h12l-4-40-12-8c-2 4-6 6-10 6s-8-2-10-6z"/><path d="M32 12v46M27 24h-6M43 24h-6"/>',
+  trousers: '<path d="M16 6h32l4 52H38l-6-36-6 36H12z"/><path d="M16 14h32M24 6v8M40 6v8"/>',
   stumps: '<path d="M18 16v42M32 16v42M46 16v42M15 12h15M34 12h15"/>',
   tag: '<path d="M8 8h22l26 26-22 22L8 30z"/><circle cx="20" cy="20" r="4"/>'
 };
