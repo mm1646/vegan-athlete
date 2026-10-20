@@ -33,7 +33,7 @@
     {
       "slug": "swimming",
       "name": "Swimming",
-      "blurb": "Goggles, kit and training gear"
+      "blurb": "Goggles, caps, swimwear and training aids"
     },
     {
       "slug": "watersports",
@@ -1085,6 +1085,221 @@
       "icon": "bartape",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B01N3SZORI?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B094DQPQKC",
+      "category": "swimming",
+      "name": "Speedo Men's Endurance+ Jammer",
+      "price": "",
+      "image": "",
+      "brand": "Speedo",
+      "icon": "shorts",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B094DQPQKC?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B094DNTCB9",
+      "category": "swimming",
+      "name": "Speedo Men's Endurance+ 7cm Swim Briefs",
+      "price": "",
+      "image": "",
+      "brand": "Speedo",
+      "icon": "briefs",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B094DNTCB9?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B094DPTCDW",
+      "category": "swimming",
+      "name": "Speedo Men's Endurance+ Aquashort",
+      "price": "",
+      "image": "",
+      "brand": "Speedo",
+      "icon": "shorts",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B094DPTCDW?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B094DQCZGZ",
+      "category": "swimming",
+      "name": "Speedo Women's Eco Endurance+ Medalist Swimsuit",
+      "price": "",
+      "image": "",
+      "brand": "Speedo",
+      "icon": "swimsuit",
+      "gender": "women",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B094DQCZGZ?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0B1N5XT6K",
+      "category": "swimming",
+      "name": "Arena Women's Team Swim Challenge Solid Swimsuit",
+      "price": "",
+      "image": "",
+      "brand": "Arena",
+      "icon": "swimsuit",
+      "gender": "women",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0B1N5XT6K?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0CQPCMTLY",
+      "category": "swimming",
+      "name": "Speedo Women's Biofuse 2.0 Swimming Goggles",
+      "price": "",
+      "image": "",
+      "brand": "Speedo",
+      "icon": "goggles",
+      "gender": "women",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0CQPCMTLY?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0BK1Y38RD",
+      "category": "swimming",
+      "name": "Speedo Biofuse 2.0 Swimming Goggles",
+      "price": "",
+      "image": "",
+      "brand": "Speedo",
+      "icon": "goggles",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0BK1Y38RD?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B07R5BY1H3",
+      "category": "swimming",
+      "name": "Arena Cobra Ultra Swipe Mirror Racing Goggles",
+      "price": "",
+      "image": "",
+      "brand": "Arena",
+      "icon": "goggles",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B07R5BY1H3?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B07DNZG8ZY",
+      "category": "swimming",
+      "name": "Arena The One Mirror Swimming Goggles",
+      "price": "",
+      "image": "",
+      "brand": "Arena",
+      "icon": "goggles",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B07DNZG8ZY?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B00U7NVN2O",
+      "category": "swimming",
+      "name": "Zoggs Panorama Swimming Goggles",
+      "price": "",
+      "image": "",
+      "brand": "Zoggs",
+      "icon": "goggles",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B00U7NVN2O?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B077VX8Q12",
+      "category": "swimming",
+      "name": "Zoggs Super Seal Kids Swimming Goggles",
+      "price": "",
+      "image": "",
+      "brand": "Zoggs",
+      "icon": "goggles",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B077VX8Q12?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B00070QEAS",
+      "category": "swimming",
+      "name": "Speedo Silicone Swim Cap",
+      "price": "",
+      "image": "",
+      "brand": "Speedo",
+      "icon": "swimcap",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B00070QEAS?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B01LX7M2J1",
+      "category": "swimming",
+      "name": "Speedo Long Hair Swim Cap",
+      "price": "",
+      "image": "",
+      "brand": "Speedo",
+      "icon": "swimcap",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B01LX7M2J1?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0DXQ15CWQ",
+      "category": "swimming",
+      "name": "Speedo Kickboard",
+      "price": "",
+      "image": "",
+      "brand": "Speedo",
+      "icon": "kickboard",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0DXQ15CWQ?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0172GZWIE",
+      "category": "swimming",
+      "name": "Speedo Pullbuoy",
+      "price": "",
+      "image": "",
+      "brand": "Speedo",
+      "icon": "pullbuoy",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0172GZWIE?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0D3TSWZP4",
+      "category": "swimming",
+      "name": "Speedo Biofuse Swimming Training Fins",
+      "price": "",
+      "image": "",
+      "brand": "Speedo",
+      "icon": "fins",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0D3TSWZP4?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B001GQ2CJO",
+      "category": "swimming",
+      "name": "FINIS Freestyler Hand Paddles",
+      "price": "",
+      "image": "",
+      "brand": "FINIS",
+      "icon": "paddle",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B001GQ2CJO?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B08HD6P8G2",
+      "category": "swimming",
+      "name": "Arena Swim Snorkel Pro III",
+      "price": "",
+      "image": "",
+      "brand": "Arena",
+      "icon": "snorkel",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B08HD6P8G2?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0058M5WJY",
+      "category": "swimming",
+      "name": "Speedo Pool Mesh Kit Bag",
+      "price": "",
+      "image": "",
+      "brand": "Speedo",
+      "icon": "bag",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0058M5WJY?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }

@@ -30,6 +30,15 @@ const ICONS = {
   bikehelmet: '<path d="M5 42c0-16 13-28 29-28 14 0 25 9 26 22 0 4-2 6-6 6z"/><path d="M14 30l10 3M23 21l8 9M37 17l3 11M50 22l-5 9M18 42l7 13h10l7-13"/>',
   bartape: '<ellipse cx="20" cy="32" rx="10" ry="20"/><ellipse cx="20" cy="32" rx="4" ry="8"/><path d="M20 12h22c7 0 10 9 10 20s-3 20-10 20H20M42 52l16 6"/>',
   cyclingshoe: '<path d="M5 40c0-7 2-12 6-16 4 3 8 3 12 0l4-4c8 6 18 10 28 12 5 1 7 4 7 8z"/><path d="M5 40h57v4H5zM27 44h15v5H27z"/><circle cx="34" cy="29" r="4"/><path d="M21 31l7-4M40 31l7 3"/>',
+  goggles: '<path d="M2 32h7M55 32h7M28 31c2-3 6-3 8 0"/><rect x="9" y="21" width="19" height="21" rx="9"/><rect x="36" y="21" width="19" height="21" rx="9"/>',
+  swimcap: '<path d="M8 46c0-18 11-31 24-31s24 13 24 31z"/><path d="M8 46h48M22 20c5 7 7 16 7 26"/>',
+  swimsuit: '<path d="M22 6v11c0 5-4 9-4 15v5l9 19h10l9-19v-5c0-6-4-10-4-15V6"/><path d="M22 17c3 5 7 7 10 7s7-2 10-7"/>',
+  briefs: '<path d="M8 22h48l-5 13c-7 2-12 8-13 15H26c-1-7-6-13-13-15z"/><path d="M8 28h48"/>',
+  kickboard: '<path d="M14 58V22c0-10 8-16 18-16s18 6 18 16v36z"/><rect x="23" y="15" width="18" height="7" rx="3.5"/>',
+  pullbuoy: '<rect x="12" y="6" width="40" height="20" rx="10"/><rect x="12" y="38" width="40" height="20" rx="10"/><path d="M26 26v12M38 26v12"/>',
+  fins: '<path d="M24 5h16v16l12 26c3 7-1 13-8 13H20c-7 0-11-6-8-13l12-26z"/><path d="M24 21h16M28 30l-3 26M36 30l3 26"/>',
+  paddle: '<path d="M17 10c9-5 21-5 30 0 4 15 2 34-7 47H24c-9-13-11-32-7-47z"/><path d="M32 9v48M21 24h22M22 38h20"/>',
+  snorkel: '<path d="M42 8v34c0 9-7 16-16 16h-10"/><path d="M36 6h12M16 52v12"/><rect x="8" y="24" width="22" height="14" rx="7"/>',
   stumps: '<path d="M18 16v42M32 16v42M46 16v42M15 12h15M34 12h15"/>',
   tag: '<path d="M8 8h22l26 26-22 22L8 30z"/><circle cx="20" cy="20" r="4"/>'
 };
