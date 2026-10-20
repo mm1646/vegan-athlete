@@ -109,7 +109,7 @@ const ICONS = {
   bmx: '<circle cx="14" cy="44" r="10"/><circle cx="50" cy="44" r="10"/><path d="M14 44l12-16h18l6 16M26 28l6 16h-18M32 44l12-16M40 16l4 12M36 16h8M24 22h6"/>',
   skatewheel: '<circle cx="32" cy="32" r="24"/><circle cx="32" cy="32" r="10"/><circle cx="32" cy="32" r="3"/>',
   truck: '<path d="M6 40h52M14 40v-6h36v6M24 34l8-14 8 14M26 22h12"/><circle cx="10" cy="44" r="4"/><circle cx="54" cy="44" r="4"/>',
-  kneepad: '<path d="M18 8h28c4 0 6 3 6 6v30c0 8-8 14-20 14S12 52 12 44V14c0-3 2-6 6-6z"/><path d="M12 22h40M12 40h40"/><ellipse cx="32" cy="32" rx="12" ry="9"/>',
+  kneepad: '<path d="M22 8h20c6 0 10 6 10 14v18c0 10-8 18-20 18S12 50 12 40V22c0-8 4-14 10-14z"/><path d="M21 24c4-6 18-6 22 0v14c-4 6-18 6-22 0z"/><path d="M12 18H4v9h8M52 18h8v9h-8M12 40H4v9h9M52 40h8v9h-9"/>',
   pedal: '<rect x="10" y="18" width="44" height="28" rx="6"/><path d="M18 18v28M46 18v28M10 32h-6M18 24h28M18 40h28"/>',
   chain: '<rect x="4" y="22" width="20" height="20" rx="10"/><rect x="22" y="22" width="20" height="20" rx="10"/><rect x="40" y="22" width="20" height="20" rx="10"/>',
   ramp: '<path d="M4 54h56V22C40 22 20 36 4 54z"/><path d="M60 22v-6M14 54v-4M28 54V40M44 54V28"/>',
