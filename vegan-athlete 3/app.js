@@ -92,6 +92,9 @@ const ICONS = {
   kayakpaddle: '<path d="M12 52L52 12"/><path d="M4 50c2-6 8-10 12-8s0 10-6 12-8 0-6-4zM60 14c-2 6-8 10-12 8s0-10 6-12 8 0 6 4z"/>',
   drybag: '<path d="M18 16h28v38c0 3-3 6-6 6H24c-3 0-6-3-6-6z"/><path d="M16 10h32v6H16zM20 10c0-4 4-6 12-6s12 2 12 6M18 30h28"/>',
   pouch: '<rect x="16" y="8" width="32" height="50" rx="5"/><rect x="22" y="16" width="20" height="32" rx="2"/><path d="M16 14h32M32 2v6"/>',
+  neckwear: '<path d="M16 8h32v48H16z"/><path d="M16 8c6 4 26 4 32 0M16 56c6-4 26-4 32 0M20 22h24M20 42h24"/>',
+  compass: '<rect x="10" y="4" width="44" height="56" rx="4"/><circle cx="32" cy="34" r="14"/><path d="M32 22l4 12-4 12-4-12z"/><path d="M16 12h32"/>',
+  firstaid: '<rect x="6" y="16" width="52" height="40" rx="5"/><path d="M24 16v-6h16v6M32 26v20M22 36h20"/>',
   stumps: '<path d="M18 16v42M32 16v42M46 16v42M15 12h15M34 12h15"/>',
   tag: '<path d="M8 8h22l26 26-22 22L8 30z"/><circle cx="20" cy="20" r="4"/>'
 };
