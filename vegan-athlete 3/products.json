@@ -13,7 +13,7 @@
     {
       "slug": "tennis",
       "name": "Tennis",
-      "blurb": "Rackets, shoes, grips and bags"
+      "blurb": "Rackets, shoes, strings, grips and bags"
     },
     {
       "slug": "golf",
@@ -716,28 +716,6 @@
       "gender": "women",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B084DBHR18?tag=veganathlet01-21&linkCode=ll2"
-    },
-    {
-      "id": "amazon-B09S3ZPP9R",
-      "category": "tennis",
-      "name": "Wilson Clash 100UL v2.0 Tennis Racket",
-      "price": "",
-      "image": "",
-      "brand": "Wilson",
-      "icon": "racket",
-      "retailer": "Amazon",
-      "url": "https://www.amazon.co.uk/dp/B09S3ZPP9R?tag=veganathlet01-21&linkCode=ll2"
-    },
-    {
-      "id": "amazon-B0DZ6XFTTY",
-      "category": "tennis",
-      "name": "Babolat Pure Drive Gen 11 Tennis Racket",
-      "price": "",
-      "image": "",
-      "brand": "Babolat",
-      "icon": "racket",
-      "retailer": "Amazon",
-      "url": "https://www.amazon.co.uk/dp/B0DZ6XFTTY?tag=veganathlet01-21&linkCode=ll2"
     },
     {
       "id": "amazon-B0B9BV6W6B",
@@ -1603,6 +1581,359 @@
       "icon": "skigoggles",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B0BXPLJQB7?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0F8V45258",
+      "category": "tennis",
+      "name": "ASICS Gel-Resolution 8 Men's Tennis Shoes",
+      "price": "",
+      "image": "",
+      "brand": "ASICS",
+      "icon": "trainer",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0F8V45258?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0G2X4DHCZ",
+      "category": "tennis",
+      "name": "ASICS Gel-Dedicate 9 Men's Tennis Shoes",
+      "price": "",
+      "image": "",
+      "brand": "ASICS",
+      "icon": "trainer",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0G2X4DHCZ?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0FW57JR3G",
+      "category": "tennis",
+      "name": "adidas Barricade 14 Men's Tennis Shoes",
+      "price": "",
+      "image": "",
+      "brand": "adidas",
+      "icon": "trainer",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0FW57JR3G?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0C3JQY48T",
+      "category": "tennis",
+      "name": "adidas CourtJam Control 3 Men's Tennis Shoes",
+      "price": "",
+      "image": "",
+      "brand": "adidas",
+      "icon": "trainer",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0C3JQY48T?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0F2GXVGGS",
+      "category": "tennis",
+      "name": "Nike Zoom Vapor Pro 3 Men's Tennis Shoes",
+      "price": "",
+      "image": "",
+      "brand": "Nike",
+      "icon": "trainer",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0F2GXVGGS?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B08M1272N4",
+      "category": "tennis",
+      "name": "New Balance Fresh Foam X Lav V2 Men's Tennis Shoes",
+      "price": "",
+      "image": "",
+      "brand": "New Balance",
+      "icon": "trainer",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B08M1272N4?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0G644WC34",
+      "category": "tennis",
+      "name": "Babolat Jet Mach 4 Men's Tennis Shoes",
+      "price": "",
+      "image": "",
+      "brand": "Babolat",
+      "icon": "trainer",
+      "gender": "men",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0G644WC34?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0D5H7589B",
+      "category": "tennis",
+      "name": "ASICS Solution Speed FF 3 Women's Tennis Shoes",
+      "price": "",
+      "image": "",
+      "brand": "ASICS",
+      "icon": "trainer",
+      "gender": "women",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0D5H7589B?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0H4WF7WZ3",
+      "category": "tennis",
+      "name": "ASICS Gel-Dedicate 9 Women's Tennis Shoes",
+      "price": "",
+      "image": "",
+      "brand": "ASICS",
+      "icon": "trainer",
+      "gender": "women",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0H4WF7WZ3?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B09HZCWH31",
+      "category": "tennis",
+      "name": "adidas CourtJam Control Women's Tennis Shoes",
+      "price": "",
+      "image": "",
+      "brand": "adidas",
+      "icon": "trainer",
+      "gender": "women",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B09HZCWH31?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B09YG95F71",
+      "category": "tennis",
+      "name": "New Balance Fresh Foam X Lav V2 Women's Tennis Shoes",
+      "price": "",
+      "image": "",
+      "brand": "New Balance",
+      "icon": "trainer",
+      "gender": "women",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B09YG95F71?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0G63Z228B",
+      "category": "tennis",
+      "name": "Babolat Jet Mach 4 Women's Tennis Shoes",
+      "price": "",
+      "image": "",
+      "brand": "Babolat",
+      "icon": "trainer",
+      "gender": "women",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0G63Z228B?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B09S3ZPP9R",
+      "category": "tennis",
+      "name": "Wilson Clash 100UL v2.0 Tennis Racket",
+      "price": "",
+      "image": "",
+      "brand": "Wilson",
+      "icon": "racket",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B09S3ZPP9R?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0DZ6XFTTY",
+      "category": "tennis",
+      "name": "Babolat Pure Drive Gen 11 Tennis Racket",
+      "price": "",
+      "image": "",
+      "brand": "Babolat",
+      "icon": "racket",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0DZ6XFTTY?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B08D6X7583",
+      "category": "tennis",
+      "name": "Head Geo Speed Tennis Racket",
+      "price": "",
+      "image": "",
+      "brand": "Head",
+      "icon": "racket",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B08D6X7583?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0DT7LX1DB",
+      "category": "tennis",
+      "name": "Head IG Speed Xceed Tennis Racket",
+      "price": "",
+      "image": "",
+      "brand": "Head",
+      "icon": "racket",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0DT7LX1DB?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0CJ4KZCYC",
+      "category": "tennis",
+      "name": "Head IG Boom Xceed Tennis Racket",
+      "price": "",
+      "image": "",
+      "brand": "Head",
+      "icon": "racket",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0CJ4KZCYC?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0G1V7D4LQ",
+      "category": "tennis",
+      "name": "Wilson Blade 98 16x19 V10 Tennis Racket",
+      "price": "",
+      "image": "",
+      "brand": "Wilson",
+      "icon": "racket",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0G1V7D4LQ?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0FWKQZHLC",
+      "category": "tennis",
+      "name": "Wilson Clash 108 V3 Tennis Racket",
+      "price": "",
+      "image": "",
+      "brand": "Wilson",
+      "icon": "racket",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0FWKQZHLC?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0GP2VLZ27",
+      "category": "tennis",
+      "name": "Babolat Boost Aero Tennis Racket",
+      "price": "",
+      "image": "",
+      "brand": "Babolat",
+      "icon": "racket",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0GP2VLZ27?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0BQLMHGKM",
+      "category": "tennis",
+      "name": "Babolat Pure Drive Junior 26 Tennis Racket",
+      "price": "",
+      "image": "",
+      "brand": "Babolat",
+      "icon": "racket",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0BQLMHGKM?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0DT9WMV8N",
+      "category": "tennis",
+      "name": "Yonex Ezone 100 Tennis Racket",
+      "price": "",
+      "image": "",
+      "brand": "Yonex",
+      "icon": "racket",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0DT9WMV8N?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B00CIYKVMS",
+      "category": "tennis",
+      "name": "Babolat RPM Blast Tennis String",
+      "price": "",
+      "image": "",
+      "brand": "Babolat",
+      "icon": "strings",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B00CIYKVMS?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B000PEFZNI",
+      "category": "tennis",
+      "name": "Luxilon Alu Power Rough Tennis String",
+      "price": "",
+      "image": "",
+      "brand": "Luxilon",
+      "icon": "strings",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B000PEFZNI?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B00GKQFVHK",
+      "category": "tennis",
+      "name": "Wilson Pro Overgrip (3 Pack)",
+      "price": "",
+      "image": "",
+      "brand": "Wilson",
+      "icon": "overgrip",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B00GKQFVHK?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0006PRN86",
+      "category": "tennis",
+      "name": "Tourna Grip Overgrip",
+      "price": "",
+      "image": "",
+      "brand": "Tourna",
+      "icon": "overgrip",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0006PRN86?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B00AXLO3C2",
+      "category": "tennis",
+      "name": "Head Hydrosorb Pro Replacement Grip",
+      "price": "",
+      "image": "",
+      "brand": "Head",
+      "icon": "overgrip",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B00AXLO3C2?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0F3P65TVF",
+      "category": "tennis",
+      "name": "Wilson Shock Trap Vibration Dampener",
+      "price": "",
+      "image": "",
+      "brand": "Wilson",
+      "icon": "dampener",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0F3P65TVF?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B08SMN6ZTL",
+      "category": "tennis",
+      "name": "Wilson Pro Feel Ultra Dampeners",
+      "price": "",
+      "image": "",
+      "brand": "Wilson",
+      "icon": "dampener",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B08SMN6ZTL?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B00B13IX86",
+      "category": "tennis",
+      "name": "Wilson Performance Tennis Racket Case",
+      "price": "",
+      "image": "",
+      "brand": "Wilson",
+      "icon": "bag",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B00B13IX86?tag=veganathlet01-21&linkCode=ll2"
+    },
+    {
+      "id": "amazon-B0B15K6RRT",
+      "category": "tennis",
+      "name": "Babolat Pure Drive Tennis Backpack",
+      "price": "",
+      "image": "",
+      "brand": "Babolat",
+      "icon": "backpack",
+      "retailer": "Amazon",
+      "url": "https://www.amazon.co.uk/dp/B0B15K6RRT?tag=veganathlet01-21&linkCode=ll2"
     }
   ]
 }

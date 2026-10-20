@@ -51,6 +51,9 @@ const ICONS = {
   skihelmet: '<path d="M8 44c0-18 11-32 25-32 14 0 23 12 23 28v4z"/><path d="M8 33h30M12 44v5c0 4 3 7 7 7h5c4 0 6-3 6-6v-6M21 17l4 6M33 12v8"/><rect x="38" y="27" width="22" height="13" rx="5"/>',
   jacket: '<path d="M22 6l-12 8-4 40h12V30v28h28V30v24h12l-4-40-12-8c-2 4-6 6-10 6s-8-2-10-6z"/><path d="M32 12v46M27 24h-6M43 24h-6"/>',
   trousers: '<path d="M16 6h32l4 52H38l-6-36-6 36H12z"/><path d="M16 14h32M24 6v8M40 6v8"/>',
+  strings: '<circle cx="30" cy="34" r="22"/><circle cx="30" cy="34" r="7"/><path d="M30 12c12 0 22 10 22 22M52 34c6-4 8-12 6-20"/>',
+  overgrip: '<rect x="23" y="4" width="18" height="56" rx="4"/><path d="M23 12l18 7M23 22l18 7M23 32l18 7M23 42l18 7M23 52l18 7"/>',
+  dampener: '<path d="M8 18h48M8 32h48M8 46h48M18 8v48M32 8v48M46 8v48"/><rect x="22" y="23" width="20" height="18" rx="8"/>',
   stumps: '<path d="M18 16v42M32 16v42M46 16v42M15 12h15M34 12h15"/>',
   tag: '<path d="M8 8h22l26 26-22 22L8 30z"/><circle cx="20" cy="20" r="4"/>'
 };
