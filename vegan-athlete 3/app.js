@@ -147,7 +147,7 @@ function addRegionSwitch(rerender) {
     try { localStorage.setItem("va-region", REGION); } catch (err) {}
     rerender();
   });
-  const allLink = bar.querySelector('a[href="index.html"]:not(.logo)');
+  const allLink = bar.querySelector('.why-link') || bar.querySelector('a[href="index.html"]:not(.logo)');
   bar.insertBefore(wrap, allLink || null);
 }
 
