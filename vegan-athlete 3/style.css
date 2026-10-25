@@ -194,3 +194,34 @@ header.site .wrap > a:not(.logo){white-space:nowrap}
   header.site .wrap:has(.region-switch, .why-link ~ a) .region-switch{margin-left:0}
   header.site .wrap:has(.region-switch, .why-link ~ a) .why-link{margin-left:auto}
 }
+
+/* Merch / pre-order page */
+.merch{display:grid;grid-template-columns:1.15fr 1fr;gap:40px;align-items:start;padding:40px 0 24px}
+.merch-art{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.tee-card{margin:0;background:#e7f3fc;border:1px solid #c6e0f2;border-radius:10px;padding:14px 10px 8px;text-align:center}
+.tee-card svg{display:block;width:100%;height:auto}
+.tee-card figcaption{font-family:"Unbounded","Archivo",sans-serif;font-weight:700;font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:#1E4FD8;padding:4px 0}
+.art-note{grid-column:1/-1;margin:0;font-size:.9rem;color:var(--muted)}
+.drop-tag{display:inline-block;margin:0 0 12px;padding:3px 12px;border-radius:99px;background:#FFD23F;color:#10204F;border:2px solid #1E4FD8;font-family:"Unbounded","Archivo",sans-serif;font-weight:700;font-size:.72rem;letter-spacing:.1em;text-transform:uppercase}
+.merch-info h1{font-size:clamp(2rem,5vw,3rem);font-weight:900;letter-spacing:-.02em}
+.merch-price{font-family:"Archivo",sans-serif;font-weight:900;font-size:2rem;margin:14px 0 4px}
+.merch-price span{display:inline-block;margin-left:10px;vertical-align:middle;font-family:"Source Sans 3",sans-serif;font-weight:700;font-size:.85rem;padding:3px 10px;border-radius:99px;background:var(--mint);color:var(--ink)}
+.merch-points{list-style:none;padding:0;margin:18px 0}
+.merch-points li{position:relative;padding:8px 0 8px 26px;border-bottom:1px solid var(--line)}
+.merch-points li::before{content:"";position:absolute;left:3px;top:17px;width:11px;height:11px;border-radius:50%;background:#1E4FD8}
+.size-label{margin:18px 0 8px;font-weight:700}.size-label span{font-weight:400;color:var(--muted)}
+.sizes{list-style:none;display:flex;flex-wrap:wrap;gap:8px;padding:0;margin:0 0 20px}
+.sizes li{min-width:48px;text-align:center;padding:7px 10px;border:1.5px solid var(--line);border-radius:6px;font-weight:700;background:var(--card)}
+.btn-buy{background:#1E4FD8;font-size:1.1rem;padding:15px;cursor:pointer}
+.btn-buy:hover,.btn-buy:focus-visible{background:#FFD23F;color:#10204F}
+.btn-buy.is-off{background:var(--line);color:var(--muted);cursor:default;pointer-events:none}
+.buy-note{margin:8px 0 0;font-size:.9rem;color:var(--muted);text-align:center}
+.steps-wrap{padding:24px 0 56px}
+.steps-wrap h2{font-size:1.5rem;font-weight:800;margin-bottom:16px}
+.steps{list-style:none;counter-reset:s;padding:0;margin:0;display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.steps li{counter-increment:s;background:var(--card);border:1px solid var(--line);border-top:5px solid #1E4FD8;border-radius:8px;padding:20px}
+.steps li::before{content:counter(s);display:inline-grid;place-items:center;width:30px;height:30px;border-radius:50%;background:#FFD23F;color:#10204F;font-weight:900;margin-bottom:8px;border:2px solid #1E4FD8}
+.steps strong{display:block;font-family:"Archivo",sans-serif;font-size:1.1rem}
+.steps span{color:var(--muted)}
+@media (prefers-color-scheme:dark){.tee-card{background:#16303f;border-color:#24485e}.tee-card figcaption{color:#9FD3F5}.merch-points li::before{background:#9FD3F5}}
+@media (max-width:800px){.merch{grid-template-columns:1fr;gap:24px;padding-top:24px}.steps{grid-template-columns:1fr}}
