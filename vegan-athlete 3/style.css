@@ -12,7 +12,6 @@ header.site .wrap{display:flex;justify-content:space-between;align-items:center;
 .logo{font-size:1.15rem;text-decoration:none;color:#fff;font-style:italic;font-stretch:125%;text-transform:uppercase;letter-spacing:.05em;display:inline-flex;align-items:center}
 .logo-1{font-weight:300}
 .logo-2{font-weight:900;margin-left:.35em}
-.logo::before{content:"V";font-style:normal;font-weight:900;font-stretch:100%;display:inline-block;margin-right:8px;padding:0 7px;background:var(--leaf);color:var(--green-deep);border-radius:4px;font-size:1.1rem;line-height:1.5;vertical-align:2px}
 
 /* Hero: green band with a faint repeating V pattern */
 .hero{padding:64px 0 56px;color:#fff;background-color:var(--green);position:relative;overflow:hidden}

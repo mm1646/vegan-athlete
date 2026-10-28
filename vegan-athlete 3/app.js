@@ -189,6 +189,7 @@ function productCard(p) {
         <h3>${esc(c.name)}</h3><p>${esc(c.blurb)}</p><span>${n} product${n === 1 ? "" : "s"}</span></a>`;
     }).join("");
   }
+  if (home) addRegionSwitch(() => {});
   const list = document.getElementById("products");
   if (list) {
     const slug = new URLSearchParams(location.search).get("c");
