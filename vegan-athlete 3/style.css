@@ -182,7 +182,7 @@ header.site .wrap > a:not(.logo){white-space:nowrap}
 .card img[src*="cdn.dam.salomon.com"]{object-fit:contain;background:#fff;padding:10px}
 
 /* Slogan second line: smaller, in the accent colour, allowed to wrap */
-.hero h1 .line-2{color:var(--lime)}
+.hero h1 .line-2{white-space:normal;color:var(--lime);font-size:.52em;letter-spacing:-.01em;margin-top:.35em;max-width:16em;line-height:1.08}
 
 /* Text that sits straight on the blue page background */
 .page-head h1{color:#fff}.page-head p{color:#dbe4ff}
