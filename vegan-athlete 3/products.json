@@ -6729,16 +6729,28 @@
       "url": "https://www.amazon.co.uk/dp/B085HKT11M?tag=veganathlet01-21&linkCode=ll2"
     },
     {
-      "id": "amazon-B079RM4PYS",
+      "id": "salomon-l49276500",
       "category": "snowsports",
-      "name": "Burton Women's Snowboard Boots",
-      "price": "",
-      "image": "",
-      "brand": "Burton",
+      "name": "Salomon Pearl BOA Women's Snowboard Boots",
+      "price": "£280",
+      "image": "https://cdn.dam.salomon.com/18d05f7c-7f2f-4ecc-86c0-b36001091640/L49276500/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
+      "brand": "Salomon",
       "icon": "hikingboot",
       "gender": "women",
-      "retailer": "Amazon",
-      "url": "https://www.amazon.co.uk/dp/B079RM4PYS?tag=veganathlet01-21&linkCode=ll2"
+      "retailer": "Salomon",
+      "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fpearl-boa-li9113%2FL49276500"
+    },
+    {
+      "id": "salomon-l49262500",
+      "category": "snowsports",
+      "name": "Salomon Kiana Dual BOA Women's Snowboard Boots",
+      "price": "£420",
+      "image": "https://cdn.dam.salomon.com/048a58d1-4d36-4bb2-bec4-b40c010d97df/L49262500/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
+      "brand": "Salomon",
+      "icon": "hikingboot",
+      "gender": "women",
+      "retailer": "Salomon",
+      "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fkiana-dual-boa-li9154%2FL49262500"
     },
     {
       "id": "amazon-B0CLQ92BXR",
@@ -7066,17 +7078,6 @@
       "icon": "skigoggles",
       "retailer": "Amazon",
       "url": "https://www.amazon.co.uk/dp/B0BXPLJQB7?tag=veganathlet01-21&linkCode=ll2"
-    },
-    {
-      "id": "amazon-B0F9LS2D79",
-      "category": "snowsports",
-      "name": "Atomic HAWX Magna 80 Ski Boots",
-      "price": "",
-      "image": "",
-      "brand": "Atomic",
-      "icon": "hikingboot",
-      "retailer": "Amazon",
-      "url": "https://www.amazon.co.uk/dp/B0F9LS2D79?tag=veganathlet01-21&linkCode=ll2"
     },
     {
       "id": "amazon-B0DFRJ941N",
