@@ -198,3 +198,4 @@ header.site .wrap > a:not(.logo){white-space:nowrap}
 /* Contact page */
 .article .contact-meta{color:#dbe4ff;font-size:1rem;margin-top:22px}
 footer a{color:#fff;font-weight:700}
+.article a:not(.btn){color:var(--lime)}
