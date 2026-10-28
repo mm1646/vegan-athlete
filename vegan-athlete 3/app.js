@@ -1,5 +1,5 @@
 const PLACEHOLDER = "data:image/svg+xml;utf8," + encodeURIComponent(
-  '<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450"><rect width="100%" height="100%" fill="#dfe8e3"/><text x="50%" y="50%" text-anchor="middle" fill="#0e2a22" font-family="sans-serif" font-size="28">Image coming soon</text></svg>');
+  '<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450"><rect width="100%" height="100%" fill="#e3eaff"/><text x="50%" y="50%" text-anchor="middle" fill="#0a2491" font-family="sans-serif" font-size="28">Image coming soon</text></svg>');
 
 /* White line icons shown on branded tiles (set "icon" on a product) */
 const ICONS = {
