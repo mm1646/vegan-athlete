@@ -194,3 +194,6 @@ header.site .wrap > a:not(.logo){white-space:nowrap}
   header.site .wrap:has(.region-switch, .why-link ~ a) .region-switch{margin-left:0}
   header.site .wrap:has(.region-switch, .why-link ~ a) .why-link{margin-left:auto}
 }
+
+/* Salomon photos: show the whole product, not cropped */
+.card img[src*="cdn.dam.salomon.com"]{object-fit:contain;background:#fff;padding:10px}
