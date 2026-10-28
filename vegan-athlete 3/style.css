@@ -190,3 +190,7 @@ header.site .wrap > a:not(.logo){white-space:nowrap}
 .article .tagline{color:var(--lime)}
 .article .btn{background:var(--lime);color:var(--navy)}.article .btn:hover,.article .btn:focus-visible{background:#fff;color:var(--navy)}
 #products > p, .grid > p{color:#fff}
+
+/* Sport names in the same style as the Vegan Athlete logo */
+.tile h3,.page-head h1{font-style:italic;font-stretch:125%;text-transform:uppercase;letter-spacing:.04em;font-weight:900}
+.tile h3{font-size:1.3rem}
