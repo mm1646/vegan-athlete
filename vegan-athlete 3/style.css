@@ -1,6 +1,6 @@
 :root{--bg:#f4f6ff;--ink:#0d1b4a;--muted:#4a5784;--blue:#1646e8;--navy:#0a2491;--lime:#d7ff1a;--sky:#e3eaff;--card:#fff;--line:#d3dcf5}
 *{box-sizing:border-box}
-body{margin:0;background:#fff repeating-linear-gradient(135deg,#ffffff 0 26px,#efffb0 26px 52px) fixed;color:var(--ink);font:17px/1.6 "Source Sans 3",system-ui,sans-serif}
+body{margin:0;background:var(--blue);color:var(--ink);font:17px/1.6 "Source Sans 3",system-ui,sans-serif}
 h1,h2,h3,.logo{font-family:"Archivo",system-ui,sans-serif;line-height:1.1;margin:0}
 a{color:inherit}
 .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
@@ -183,3 +183,10 @@ header.site .wrap > a:not(.logo){white-space:nowrap}
 
 /* Slogan second line: smaller, in the accent colour, allowed to wrap */
 .hero h1 .line-2{white-space:normal;color:var(--lime);font-size:.52em;letter-spacing:-.01em;margin-top:.35em;max-width:16em;line-height:1.08}
+
+/* Text that sits straight on the blue page background */
+.page-head h1{color:#fff}.page-head p{color:#dbe4ff}
+.article{color:#fff}.article .lead{color:#fff}.article li{border-bottom-color:rgba(255,255,255,.25)}
+.article .tagline{color:var(--lime)}
+.article .btn{background:var(--lime);color:var(--navy)}.article .btn:hover,.article .btn:focus-visible{background:#fff;color:var(--navy)}
+#products > p, .grid > p{color:#fff}
