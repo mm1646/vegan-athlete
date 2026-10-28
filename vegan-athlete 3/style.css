@@ -194,3 +194,7 @@ header.site .wrap > a:not(.logo){white-space:nowrap}
 /* Sport names in the same style as the Vegan Athlete logo */
 .tile h3,.page-head h1{font-style:italic;font-stretch:125%;text-transform:uppercase;letter-spacing:.04em;font-weight:900}
 .tile h3{font-size:1.3rem}
+
+/* Contact page */
+.article .contact-meta{color:#dbe4ff;font-size:1rem;margin-top:22px}
+footer a{color:#fff;font-weight:700}
