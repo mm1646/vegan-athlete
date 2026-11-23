@@ -186,7 +186,7 @@ function productCard(p) {
     home.innerHTML = data.categories.map(c => {
       const n = data.products.filter(p => p.category === c.slug).length;
       return `<a class="tile" href="category.html?c=${c.slug}">
-        <h3>${esc(c.name)}</h3><p>${esc(c.blurb)}</p><span>${n} product${n === 1 ? "" : "s"}</span></a>`;
+        <h3>${esc(c.name)}</h3><p>${esc(c.blurb)}</p><span>${n ? `${n} product${n === 1 ? "" : "s"}` : "Coming soon"}</span></a>`;
     }).join("");
   }
   const list = document.getElementById("products");
@@ -198,7 +198,7 @@ function productCard(p) {
     document.getElementById("cat-title").textContent = cat.name;
     document.getElementById("cat-blurb").textContent = cat.blurb;
     const items = data.products.filter(p => p.category === slug);
-    const render = () => { list.innerHTML = items.length ? items.map(productCard).join("") : "<p>Products coming soon.</p>"; };
+    const render = () => { list.innerHTML = items.length ? items.map(productCard).join("") : "<p>Vegan products for this sport are coming soon. <a href='index.html'>Browse other sports</a></p>"; };
     render();
     if (items.some(p => p.retailer === "Amazon")) addRegionSwitch(render);
   }
