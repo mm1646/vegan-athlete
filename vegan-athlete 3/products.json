@@ -1869,6 +1869,222 @@
    "image": "https://aicdn.speedsize.com/4190f681-07cb-43aa-92d2-6096b01e7b62/https://checkout.ribblecycles.co.uk/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/f/t/ftp_f_freewheel_imagesmadisonfwaccessoriesprsba0072_2.png?speedsize=fltn_FFFFFF,r_contain,w_600,h_600",
    "retailer": "Ribble Cycles",
    "url": "https://www.awin1.com/cread.php?awinmid=5923&awinaffid=3123983&ued=https%3A%2F%2Fwww.ribblecycles.co.uk%2Fperformance-saddle-bag-medium%2F"
+  },
+  {
+   "id": "jtx-movelight",
+   "category": "gym",
+   "name": "JTX MoveLight Under-Desk Walking Pad",
+   "price": "£449",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/under-desk-treadmill-jtx_e3fd2157-121a-44e1-bbf2-064a221e44fa.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-movelight"
+  },
+  {
+   "id": "jtx-slimline",
+   "category": "gym",
+   "name": "JTX SlimLine Fold-Away Treadmill",
+   "price": "£479",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/slimline-flat-fold-away_ac4e1d5d-e12b-4678-9ca8-c2711814ec54.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-slimline"
+  },
+  {
+   "id": "jtx-runrise",
+   "category": "gym",
+   "name": "JTX RunRise Incline Treadmill",
+   "price": "£724",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/jtx-runrise-with-incline_b7e3faa5-8fb1-4967-a259-7aaa00ea6c09.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-runrise"
+  },
+  {
+   "id": "jtx-runrise-xl",
+   "category": "gym",
+   "name": "JTX RunRise XL Incline Treadmill",
+   "price": "£899",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/runrise-xl-incline-treadmill_50568e9f-5a80-48fe-bc49-315e2d5fd781.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-runrise-xl"
+  },
+  {
+   "id": "jtx-sprint-7",
+   "category": "gym",
+   "name": "JTX Sprint-7 Smart Treadmill",
+   "price": "£1,099",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/jtx-sprint7-treadmill.png?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-sprint-7"
+  },
+  {
+   "id": "jtx-sprint-8-pro",
+   "category": "gym",
+   "name": "JTX Sprint-8 Pro Smart Treadmill",
+   "price": "£1,324",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/sprint8pro-smart-treadmill_00cd780a-a307-4495-abd0-a49bc326e336.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-sprint-8-pro"
+  },
+  {
+   "id": "jtx-sprint-9-pro",
+   "category": "gym",
+   "name": "JTX Sprint-9 Pro Smart Treadmill",
+   "price": "£1,499",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/sprint9-pro-smart-gym-treadmill_06f31d5c-43c8-47ef-bd5b-ba3c3fb43120.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-sprint-9-pro"
+  },
+  {
+   "id": "jtx-club-pro-commercial-treadmill",
+   "category": "gym",
+   "name": "JTX Club-Pro Commercial Treadmill",
+   "price": "£2,249",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/jtx-club-pro-treadmill.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-club-pro-commercial-treadmill"
+  },
+  {
+   "id": "jtx-strider-x8",
+   "category": "gym",
+   "name": "JTX Strider-X8 Compact Cross Trainer",
+   "price": "£424",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/jtx-compact-home-trainer_4a5a6b90-dd2d-477b-b5e4-354b239e7bfd.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-strider-x8"
+  },
+  {
+   "id": "jtx-pace-f6",
+   "category": "gym",
+   "name": "JTX Pace-F6 Folding Cross Trainer",
+   "price": "£549",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/jtx-fitness-folding-cross-trainer-pacef6.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-pace-f6"
+  },
+  {
+   "id": "jtx-zenith-rise",
+   "category": "gym",
+   "name": "JTX Zenith Rise Smart Cross Trainer",
+   "price": "£1,099",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/zenith-rise-smart-cross-trainer_d5317476-0392-4a43-a97b-01e0cf6686b4.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-zenith-rise"
+  },
+  {
+   "id": "jtx-ignite-airx-skier-ski-machine",
+   "category": "gym",
+   "name": "JTX Ignite AirX Skier Ski Machine",
+   "price": "£445",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/airx-skier-ski-machine.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fignite-airx-skier-ski-machine"
+  },
+  {
+   "id": "jtx-14kg-adjustable-dumbbells",
+   "category": "gym",
+   "name": "JTX Adjustable Dumbbells 14.4kg (Pair)",
+   "price": "£169",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/14kg-adjustable-dumbbells-jtx.png?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-14kg-adjustable-dumbbells"
+  },
+  {
+   "id": "jtx-22-5kg-adjustable-dumbbells",
+   "category": "gym",
+   "name": "JTX Adjustable Dumbbells 22.5kg (Pair)",
+   "price": "£254",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/22.5kg-adjustable-dumbbells-pair.png?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-22-5kg-adjustable-dumbbells"
+  },
+  {
+   "id": "jtx-adjustable-dumbbell-stand-14kg-adjustable-dumbbells",
+   "category": "gym",
+   "name": "JTX 14.4kg Adjustable Dumbbells with Stand",
+   "price": "£233",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/14kg-dumbbells-with-stand.png?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-adjustable-dumbbell-stand-14kg-adjustable-dumbbells"
+  },
+  {
+   "id": "jtx-22-5kg-adjustable-dumbbells-with-stand",
+   "category": "gym",
+   "name": "JTX 22.5kg Adjustable Dumbbells with Stand",
+   "price": "£313",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/22.5kg-dumbbells-with-stand.png?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-22-5kg-adjustable-dumbbells-with-stand"
+  },
+  {
+   "id": "jtx-adjustable-kettlebell",
+   "category": "gym",
+   "name": "JTX Adjustable Kettlebell 13.6kg",
+   "price": "£89",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/jtx-adjustable-kettlebell.png?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-adjustable-kettlebell"
+  },
+  {
+   "id": "jtx-dumbbells",
+   "category": "gym",
+   "name": "JTX Hex Rubber Dumbbells",
+   "price": "From £20",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/hex-rubber-dumbbell-range.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fdumbbells"
+  },
+  {
+   "id": "jtx-floor-mat",
+   "category": "gym",
+   "name": "JTX Equipment Floor Mats",
+   "price": "From £29",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/floor-mats-fitness-equipment.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Ffloor-mat"
+  },
+  {
+   "id": "jtx-foam-roller",
+   "category": "gym",
+   "name": "JTX Foam Roller",
+   "price": "£18",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/foam-roller.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Ffoam-roller"
+  },
+  {
+   "id": "jtx-power-band",
+   "category": "gym",
+   "name": "JTX Power Band",
+   "price": "£10",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/power-band.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fpower-band"
+  },
+  {
+   "id": "jtx-resistance-bands",
+   "category": "gym",
+   "name": "JTX Resistance Band Set",
+   "price": "£5",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/resistance-bands.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fresistance-bands"
+  },
+  {
+   "id": "jtx-polar-h10-heart-rate-sensor",
+   "category": "gym",
+   "name": "Polar H10 Heart Rate Sensor",
+   "price": "£80",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/polar-h10-chest-strap.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fpolar-h10-heart-rate-sensor"
+  },
+  {
+   "id": "jtx-spd-pedals",
+   "category": "cycling",
+   "name": "JTX SPD Pedals",
+   "price": "£39",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/spd-pedals.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fspd-pedals"
   }
  ]
 }
