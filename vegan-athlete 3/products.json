@@ -11,6 +11,11 @@
    "blurb": "Shoes, helmets, kit, saddles, lights and accessories"
   },
   {
+   "slug": "gym",
+   "name": "Gym equipment",
+   "blurb": "Weights, benches, shoes, belts, mats and recovery gear"
+  },
+  {
    "slug": "skate-bmx",
    "name": "Skate & BMX",
    "blurb": "Skateboards, BMX bikes, skates, helmets, pads and shoes"
@@ -64,11 +69,6 @@
    "slug": "basketball",
    "name": "Basketball",
    "blurb": "Balls, shoes, hoops and training gear"
-  },
-  {
-   "slug": "gym",
-   "name": "Gym equipment",
-   "blurb": "Weights, benches, shoes, belts, mats and recovery gear"
   }
  ],
  "products": [

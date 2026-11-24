@@ -183,7 +183,10 @@ function productCard(p) {
   if (pills) pills.innerHTML = data.categories.map(c => `<a class="pill" href="category.html?c=${c.slug}">${esc(c.name)}</a>`).join("");
   const home = document.getElementById("categories");
   if (home) {
-    home.innerHTML = data.categories.map(c => {
+    /* Sports with products first (in products.json order), "Coming soon" ones last */
+    const count = s => data.products.filter(p => p.category === s).length;
+    const ordered = [...data.categories.filter(c => count(c.slug)), ...data.categories.filter(c => !count(c.slug))];
+    home.innerHTML = ordered.map(c => {
       const n = data.products.filter(p => p.category === c.slug).length;
       return `<a class="tile" href="category.html?c=${c.slug}">
         <h3>${esc(c.name)}</h3><p>${esc(c.blurb)}</p><span>${n ? `${n} product${n === 1 ? "" : "s"}` : "Coming soon"}</span></a>`;
