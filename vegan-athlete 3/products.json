@@ -483,6 +483,24 @@
    "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fignite-airx-skier-ski-machine"
   },
   {
+   "id": "boogie-1738",
+   "category": "gym",
+   "name": "Boogie Bounce Elite Rebounder Trampoline Bundle",
+   "price": "£124.00",
+   "image": "https://www.boogiebounce.com/wp-content/uploads/2021/07/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Yellow-Modern-Zumba-Class-Instagram-Post.png",
+   "retailer": "Boogie Bounce",
+   "url": "https://www.awin1.com/cread.php?awinmid=38676&awinaffid=3123983&ued=https%3A%2F%2Fwww.boogiebounce.com%2Fshop%2Frebounders%2Felite-rebounder-trampoline%2F"
+  },
+  {
+   "id": "boogie-34241",
+   "category": "gym",
+   "name": "Boogie Bounce Studio Rebounder Trampoline Bundle",
+   "price": "£79.00",
+   "image": "https://www.boogiebounce.com/wp-content/uploads/2022/11/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Yellow-Modern-Zumba-Class-Instagram-Post-1.png",
+   "retailer": "Boogie Bounce",
+   "url": "https://www.awin1.com/cread.php?awinmid=38676&awinaffid=3123983&ued=https%3A%2F%2Fwww.boogiebounce.com%2Fshop%2Frebounders%2Fstudio-rebounder-bundle%2F"
+  },
+  {
    "id": "bodytrain-multi-gym-65kg",
    "category": "gym",
    "name": "BodyTrain Single Station Home Multi Gym with 65kg Weight Stack",
@@ -517,24 +535,6 @@
    "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/02/products-img_2355.jpg",
    "retailer": "Sport and Leisure UK",
    "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fironman-deluxe-home-multi-gym-with-smith-machine-and-cables-65kg-weight-stack%2F"
-  },
-  {
-   "id": "ironman-100kg-bumper-set",
-   "category": "gym",
-   "name": "Ironman 100kg Olympic Bumper Weight Set with 7ft Olympic Bar",
-   "price": "£229.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2023/02/products-100kg_2_1.jpg",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fironman-100kg-olympic-bumper-weight-set-with-72-olympic-weight-bar%2F"
-  },
-  {
-   "id": "wfl-york-50kg-cast-iron-barbell-dumbbell-weight-set",
-   "category": "gym",
-   "name": "York 50kg Cast Iron Barbell & Dumbbell Weight Set",
-   "price": "£109.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/york-50kg-cast-iron-barbell-dumbbell-weights-set.jpg?width=600",
-   "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fyork-50kg-cast-iron-barbell-dumbbell-weight-set"
   },
   {
    "id": "salomon-l49226400",
@@ -1876,6 +1876,24 @@
    "url": "https://www.awin1.com/cread.php?awinmid=6821&awinaffid=3123983&ued=https%3A%2F%2Fwww.tredz.co.uk%2F.Surge-Tubeless-Floor-Pump-with-Gauge_202766.htm"
   },
   {
+   "id": "ironman-100kg-bumper-set",
+   "category": "gym",
+   "name": "Ironman 100kg Olympic Bumper Weight Set with 7ft Olympic Bar",
+   "price": "£229.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2023/02/products-100kg_2_1.jpg",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fironman-100kg-olympic-bumper-weight-set-with-72-olympic-weight-bar%2F"
+  },
+  {
+   "id": "wfl-york-50kg-cast-iron-barbell-dumbbell-weight-set",
+   "category": "gym",
+   "name": "York 50kg Cast Iron Barbell & Dumbbell Weight Set",
+   "price": "£109.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/york-50kg-cast-iron-barbell-dumbbell-weights-set.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fyork-50kg-cast-iron-barbell-dumbbell-weight-set"
+  },
+  {
    "id": "wfl-hxgn-20kg-adjustable-barbell-weight-set",
    "category": "gym",
    "name": "HXGN 20kg Adjustable Barbell Weight Set",
@@ -2065,6 +2083,15 @@
    "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Freebok-ab-mat"
   },
   {
+   "id": "tredz-109146",
+   "category": "cycling",
+   "name": "Topeak Joe Blow Booster Tubeless Floor Pump",
+   "price": "£129.99",
+   "image": "https://assets.tredz.co.uk/prodimg/109146/1/resize=width:1000.jpg",
+   "retailer": "Tredz",
+   "url": "https://www.awin1.com/cread.php?awinmid=6821&awinaffid=3123983&ued=https%3A%2F%2Fwww.tredz.co.uk%2F.Joe-Blow-Booster-Tubeless-Floor-Pump_109146.htm"
+  },
+  {
    "id": "wfl-adidas-premium-push-up-bars",
    "category": "gym",
    "name": "Adidas Premium Push Up Bars",
@@ -2081,15 +2108,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/hxgn-adjustable-pull-up-bar-with-fittings.jpg?width=600",
    "retailer": "Workout For Less",
    "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fhxgn-adjustable-pull-up-bar"
-  },
-  {
-   "id": "tredz-109146",
-   "category": "cycling",
-   "name": "Topeak Joe Blow Booster Tubeless Floor Pump",
-   "price": "£129.99",
-   "image": "https://assets.tredz.co.uk/prodimg/109146/1/resize=width:1000.jpg",
-   "retailer": "Tredz",
-   "url": "https://www.awin1.com/cread.php?awinmid=6821&awinaffid=3123983&ued=https%3A%2F%2Fwww.tredz.co.uk%2F.Joe-Blow-Booster-Tubeless-Floor-Pump_109146.htm"
   },
   {
    "id": "wfl-adidas-door-gym",
@@ -2153,6 +2171,24 @@
    "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/fitness-mad-mini-power-loops-set-of-3.jpg?width=600",
    "retailer": "Workout For Less",
    "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ffitness-mad-mini-power-loops-set-of-3"
+  },
+  {
+   "id": "boogie-47945",
+   "category": "gym",
+   "name": "Boogie Bounce Boogie Band Resistance Band",
+   "price": "£7.99",
+   "image": "https://www.boogiebounce.com/wp-content/uploads/2024/12/untitled-1648-Edit-Edit.png",
+   "retailer": "Boogie Bounce",
+   "url": "https://www.awin1.com/cread.php?awinmid=38676&awinaffid=3123983&ued=https%3A%2F%2Fwww.boogiebounce.com%2Fshop%2Ffitness-equipment%2Fboogie-band-single%2F"
+  },
+  {
+   "id": "boogie-1475",
+   "category": "gym",
+   "name": "Boogie Bounce Strength & Tone Resistance Band Set",
+   "price": "£19.99",
+   "image": "https://www.boogiebounce.com/wp-content/uploads/2022/03/Strength-and-tone-all-items.jpg",
+   "retailer": "Boogie Bounce",
+   "url": "https://www.awin1.com/cread.php?awinmid=38676&awinaffid=3123983&ued=https%3A%2F%2Fwww.boogiebounce.com%2Fshop%2Ffitness-equipment%2Fstrength-tone-bands%2F"
   },
   {
    "id": "wfl-york-barbell-adjustable-speed-rope",
@@ -2288,42 +2324,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/foam-roller.jpg?width=600",
    "retailer": "JTX Fitness",
    "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Ffoam-roller"
-  },
-  {
-   "id": "wfl-fitness-mad-studio-pro-epp-45cm-foam-roller",
-   "category": "gym",
-   "name": "Fitness Mad Studio Pro EPP 45cm Foam Roller",
-   "price": "£15.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/fitness-mad-epp-foam-roller-45cm.jpg?width=600",
-   "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ffitness-mad-studio-pro-epp-45cm-foam-roller"
-  },
-  {
-   "id": "wfl-adidas-foam-roller",
-   "category": "gym",
-   "name": "Adidas Foam Roller",
-   "price": "£14.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/adidas-foam-roller_9c5b28a4-e24c-484e-aec3-17a16f9c4537.jpg?width=600",
-   "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fadidas-foam-roller"
-  },
-  {
-   "id": "wfl-fitness-mad-trigger-point-massage-balls-set-of-3",
-   "category": "gym",
-   "name": "Fitness Mad Trigger Point Massage Balls - Set of 3",
-   "price": "£13.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/fitness-mad-trigger-point-massage-balls-set-of-3.jpg?width=600",
-   "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ffitness-mad-trigger-point-massage-balls-set-of-3"
-  },
-  {
-   "id": "jtx-polar-h10-heart-rate-sensor",
-   "category": "gym",
-   "name": "Polar H10 Heart Rate Sensor",
-   "price": "£80",
-   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/polar-h10-chest-strap.jpg?width=600",
-   "retailer": "JTX Fitness",
-   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fpolar-h10-heart-rate-sensor"
   },
   {
    "id": "wfl-molten-vantaggio-1000-essential-football",
@@ -2675,6 +2675,42 @@
    "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/spd-pedals.jpg?width=600",
    "retailer": "JTX Fitness",
    "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fspd-pedals"
+  },
+  {
+   "id": "wfl-fitness-mad-studio-pro-epp-45cm-foam-roller",
+   "category": "gym",
+   "name": "Fitness Mad Studio Pro EPP 45cm Foam Roller",
+   "price": "£15.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/fitness-mad-epp-foam-roller-45cm.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ffitness-mad-studio-pro-epp-45cm-foam-roller"
+  },
+  {
+   "id": "wfl-adidas-foam-roller",
+   "category": "gym",
+   "name": "Adidas Foam Roller",
+   "price": "£14.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/adidas-foam-roller_9c5b28a4-e24c-484e-aec3-17a16f9c4537.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fadidas-foam-roller"
+  },
+  {
+   "id": "wfl-fitness-mad-trigger-point-massage-balls-set-of-3",
+   "category": "gym",
+   "name": "Fitness Mad Trigger Point Massage Balls - Set of 3",
+   "price": "£13.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/fitness-mad-trigger-point-massage-balls-set-of-3.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ffitness-mad-trigger-point-massage-balls-set-of-3"
+  },
+  {
+   "id": "jtx-polar-h10-heart-rate-sensor",
+   "category": "gym",
+   "name": "Polar H10 Heart Rate Sensor",
+   "price": "£80",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/polar-h10-chest-strap.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fpolar-h10-heart-rate-sensor"
   }
  ]
 }
