@@ -46,6 +46,21 @@
    "blurb": "Bats, pads, helmets, shoes, protection and training gear"
   },
   {
+   "slug": "rugby",
+   "name": "Rugby",
+   "blurb": "Balls, posts, tackle bags and training gear"
+  },
+  {
+   "slug": "hockey",
+   "name": "Hockey",
+   "blurb": "Sticks, balls, goals, pads and training gear"
+  },
+  {
+   "slug": "netball",
+   "name": "Netball",
+   "blurb": "Balls, posts, rings and training gear"
+  },
+  {
    "slug": "swimming",
    "name": "Swimming",
    "blurb": "Goggles, caps, swimwear and training aids"
@@ -3481,6 +3496,312 @@
    "image": "https://nwscdn.com/media/catalog/product/cache/hxw/s/o/soft-flask-config-main.jpg",
    "retailer": "Net World Sports",
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fsoft-hydration-flasks.html"
+  },
+  {
+   "id": "nws-forza-international-match-rugby-balls",
+   "category": "rugby",
+   "name": "FORZA International Match Rugby Balls (Union/League)",
+   "price": "From £19.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/m/a/main---international-match-rugby-ball_18.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-international-match-rugby-balls.html"
+  },
+  {
+   "id": "nws-forza-club-rugby-ball",
+   "category": "rugby",
+   "name": "FORZA Club Rugby Ball",
+   "price": "From £9.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/a/family-image_1.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-club-rugby-ball.html"
+  },
+  {
+   "id": "nws-full-height-rugby-tackle-bag",
+   "category": "rugby",
+   "name": "FORZA Full-Height Rugby Tackle Bag",
+   "price": "£99.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/u/full_height_tackle_bag_-_gloss.png",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Ffull-height-rugby-tackle-bag.html"
+  },
+  {
+   "id": "nws-rugby-tackle-shield-with-top-wedge",
+   "category": "rugby",
+   "name": "FORZA Rugby Tackle Shield With Top Wedge",
+   "price": "£39.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/t/a/tackle_shield_with_top_wedge_-_gloss.png",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Frugby-tackle-shield-with-top-wedge.html"
+  },
+  {
+   "id": "nws-steel76-rugby-posts-socketed",
+   "category": "rugby",
+   "name": "FORZA Steel76 Rugby Posts",
+   "price": "From £949.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-steel-rugby-posts-9m-socketed_01_1.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fsteel76-rugby-posts-socketed.html"
+  },
+  {
+   "id": "nws-6-x-4ft-forza-combi-rugby-football-goal-posts",
+   "category": "rugby",
+   "name": "6 x 4 FORZA Combi Rugby Posts & Football Goal",
+   "price": "£59.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/p/v/pvc-mains-6x4-main-in-britain.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2F6-x-4ft-forza-combi-rugby-football-goal-posts.html"
+  },
+  {
+   "id": "nws-3v3-mini-combi-rugby-football-goals",
+   "category": "rugby",
+   "name": "FORZA Mini Combi Rugby Posts & Football Goals",
+   "price": "From £39.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/p/v/pvc-3v3-mini-main-mib.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2F3v3-mini-combi-rugby-football-goals.html"
+  },
+  {
+   "id": "nws-kicking-net-with-target-sheets",
+   "category": "rugby",
+   "name": "FORZA Kicking Net (8ft x 4ft) + Target Sheets",
+   "price": "£79.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza_8x4_kicking_net_01_1_1.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fkicking-net-with-target-sheets.html"
+  },
+  {
+   "id": "nws-portable-pro-kicking-net",
+   "category": "rugby",
+   "name": "FORZA Pro Kicking Net",
+   "price": "£129.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza_kicking_net_11x8_1.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fportable-pro-kicking-net.html"
+  },
+  {
+   "id": "nws-8x4ft-throwing-target-net",
+   "category": "rugby",
+   "name": "FORZA Throwing Target & Passing Trainer",
+   "price": "£49.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forzatargetnet-main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2F8x4ft-throwing-target-net.html"
+  },
+  {
+   "id": "nws-rugby-lineout-hoop-net",
+   "category": "rugby",
+   "name": "FORZA 2in1 Rugby Lineout Hoop Net & Target",
+   "price": "£99.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-lineout-hoop-with-net-new-main-with-bubble.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Frugby-lineout-hoop-net.html"
+  },
+  {
+   "id": "nws-gumshield",
+   "category": "rugby",
+   "name": "FORZA Mouthguard",
+   "price": "£3.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-gumsheilds-main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fgumshield.html"
+  },
+  {
+   "id": "nws-forza-w100-hockey-sticks",
+   "category": "hockey",
+   "name": "FORZA W100 Hockey Sticks",
+   "price": "From £14.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/y/e/yellow-main_4.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-w100-hockey-sticks.html"
+  },
+  {
+   "id": "nws-forza-f100-fibreglass-hockey-sticks",
+   "category": "hockey",
+   "name": "FORZA F100 Hockey Sticks",
+   "price": "From £29.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/p/i/pink-f100-main_8.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-f100-fibreglass-hockey-sticks.html"
+  },
+  {
+   "id": "nws-forza-c95-carbon-hockey-sticks",
+   "category": "hockey",
+   "name": "FORZA C95 Hockey Sticks",
+   "price": "From £54.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/b/l/black-c70-main_1_18.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-c95-carbon-hockey-sticks.html"
+  },
+  {
+   "id": "nws-forza-match-dimple-hockey-balls",
+   "category": "hockey",
+   "name": "FORZA 5-Star International Match Hockey Balls",
+   "price": "From £3.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/w/h/white-international-match-main-withswatch.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-match-dimple-hockey-balls.html"
+  },
+  {
+   "id": "nws-forza-pro-hockey-shin-pads",
+   "category": "hockey",
+   "name": "FORZA Pro Hockey Shin Pads",
+   "price": "From £14.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-hockey-shinpads---pro---grey---front_1_6.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-pro-hockey-shin-pads.html"
+  },
+  {
+   "id": "nws-forza-pu-hockey-gloves",
+   "category": "hockey",
+   "name": "FORZA Hockey Gloves",
+   "price": "From £11.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-gloves---main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-pu-hockey-gloves.html"
+  },
+  {
+   "id": "nws-forza-proflex-hockey-goals-3-sizes",
+   "category": "hockey",
+   "name": "FORZA ProFlex Pop Up Hockey Goals",
+   "price": "From £89.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/p/r/proflex-hockey-goal---threequarter_2.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-proflex-hockey-goals-3-sizes.html"
+  },
+  {
+   "id": "nws-forza-pvc-mini-hockey-goal",
+   "category": "hockey",
+   "name": "FORZA PVC Mini Hockey Goal",
+   "price": "£69.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/i/m/img_7857.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-pvc-mini-hockey-goal.html"
+  },
+  {
+   "id": "nws-forza-10-x-6-field-hockey-goal",
+   "category": "hockey",
+   "name": "FORZA 10 x 6 Hockey Goal",
+   "price": "£99.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/i/m/img_7766.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-10-x-6-field-hockey-goal.html"
+  },
+  {
+   "id": "nws-hockey-foam-rebounder",
+   "category": "hockey",
+   "name": "FORZA Hockey Foam Rebounder",
+   "price": "£99.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-hockey-foam-rebounder_01.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fhockey-foam-rebounder.html"
+  },
+  {
+   "id": "nws-individual-hockey-control-mat",
+   "category": "hockey",
+   "name": "FORZA Individual Hockey Control Mat",
+   "price": "£39.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza_hockey_individual_control_mat_main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Findividual-hockey-control-mat.html"
+  },
+  {
+   "id": "nws-elite-team-hockey-control-mat",
+   "category": "hockey",
+   "name": "FORZA Elite Team Hockey Control Mat",
+   "price": "£59.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza_elite_team_control_mat_hockey_main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Felite-team-hockey-control-mat.html"
+  },
+  {
+   "id": "nws-plastic-hockey-set",
+   "category": "hockey",
+   "name": "FORZA Plastic Hockey Set",
+   "price": "£49.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-plastic-hockey-set-main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fplastic-hockey-set.html"
+  },
+  {
+   "id": "nws-forza-international-match-netball",
+   "category": "netball",
+   "name": "FORZA International Match Netballs",
+   "price": "From £22.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/n/e/netball-internationalmatch-mainsize5.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-international-match-netball.html"
+  },
+  {
+   "id": "nws-forza-all-weather-training-netball",
+   "category": "netball",
+   "name": "FORZA All Weather Club Training Netballs",
+   "price": "From £14.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/c/l/club-match-ball-main-size5.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-all-weather-training-netball.html"
+  },
+  {
+   "id": "nws-forza-adjustable-netball-posts-freestanding",
+   "category": "netball",
+   "name": "FORZA Adjustable Netball Posts",
+   "price": "£49.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/a/d/adjustablenetbhallposts-comp-netballandpump.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-adjustable-netball-posts-freestanding.html"
+  },
+  {
+   "id": "nws-freestanding-netball-posts-school-standard",
+   "category": "netball",
+   "name": "FORZA Steel50 Freestanding Netball Posts (School Standard)",
+   "price": "£139.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/s/c/schools-netball-freestanding_netball_post_2.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Ffreestanding-netball-posts-school-standard.html"
+  },
+  {
+   "id": "nws-socketed-netball-posts",
+   "category": "netball",
+   "name": "FORZA Steel50 Socketed Netball Posts (School Standard)",
+   "price": "£84.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/s/o/socketed_netball_post_1.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fsocketed-netball-posts.html"
+  },
+  {
+   "id": "nws-alu80-freestanding-netball-posts",
+   "category": "netball",
+   "name": "FORZA Alu80 Freestanding Netball Posts (Competition Grade)",
+   "price": "£310.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/m/a/main-new-slightly-better_3.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Falu80-freestanding-netball-posts.html"
+  },
+  {
+   "id": "nws-adjustable-netball-practice-net",
+   "category": "netball",
+   "name": "FORZA Adjustable Netball Shooting Practice Net",
+   "price": "£69.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/n/e/netballpractice-main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fadjustable-netball-practice-net.html"
+  },
+  {
+   "id": "nws-wall-mounted-netball-ring-net",
+   "category": "netball",
+   "name": "Wall Mounted Netball Ring & Net",
+   "price": "£31.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/m/a/main_164_2.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fwall-mounted-netball-ring-net.html"
+  },
+  {
+   "id": "nws-netball-post-protector-padding",
+   "category": "netball",
+   "name": "Netball Post Protection Padding",
+   "price": "From £22.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/n/e/netballpostpadding-configmain.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fnetball-post-protector-padding.html"
   }
  ]
 }
