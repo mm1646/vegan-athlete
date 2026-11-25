@@ -2090,6 +2090,312 @@
    "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/spd-pedals.jpg?width=600",
    "retailer": "JTX Fitness",
    "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fspd-pedals"
+  },
+  {
+   "id": "wfl-hxgn-20kg-cast-iron-dumbbell-weight-set",
+   "category": "gym",
+   "name": "HXGN 20kg Cast Iron Dumbbell Weight Set",
+   "price": "£45.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/hxgn-20kg-cast-iron-weight-set-2.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fhxgn-20kg-cast-iron-dumbbell-weight-set"
+  },
+  {
+   "id": "wfl-hxgn-pro-hex-dumbbells-2-x-10kg",
+   "category": "gym",
+   "name": "HXGN Pro Hex Dumbbells 2 x 10kg",
+   "price": "£39.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/HXGN-Hex-DB-10kg_2ec261a6-51f1-4552-84ab-371c459671fe.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fhxgn-pro-hex-dumbbells-2-x-10kg"
+  },
+  {
+   "id": "wfl-york-neoprene-hex-dumbbells-2-x-10kg",
+   "category": "gym",
+   "name": "York Neoprene Hex Dumbbells 2 x 10kg",
+   "price": "£59.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/york-10kg-neoprene-hex-dumbbells.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fyork-neoprene-hex-dumbbells-2-x-10kg"
+  },
+  {
+   "id": "wfl-york-50kg-cast-iron-barbell-dumbbell-weight-set",
+   "category": "gym",
+   "name": "York 50kg Cast Iron Barbell & Dumbbell Weight Set",
+   "price": "£109.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/york-50kg-cast-iron-barbell-dumbbell-weights-set.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fyork-50kg-cast-iron-barbell-dumbbell-weight-set"
+  },
+  {
+   "id": "wfl-hxgn-20kg-adjustable-barbell-weight-set",
+   "category": "gym",
+   "name": "HXGN 20kg Adjustable Barbell Weight Set",
+   "price": "£36.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/hxgn-20kg-barbell-set-main_4f92c698-d913-4e08-8ab6-d308d33434c6.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fhxgn-20kg-adjustable-barbell-weight-set"
+  },
+  {
+   "id": "wfl-york-7ft-olympic-barbell-20kg",
+   "category": "gym",
+   "name": "York 7ft Olympic Barbell - 20kg",
+   "price": "£95.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/york-7ft-olympic-barbell.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fyork-7ft-olympic-barbell-20kg"
+  },
+  {
+   "id": "wfl-york-olympic-rubber-bumper-plate-1-x-20kg",
+   "category": "gym",
+   "name": "York Olympic Rubber Bumper Plate 1 x 20kg",
+   "price": "£49.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/york-20kg-rubber-bumper-plate-blue.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fyork-olympic-rubber-bumper-plate-1-x-20kg"
+  },
+  {
+   "id": "wfl-adidas-12kg-cast-iron-kettlebell",
+   "category": "gym",
+   "name": "Adidas 12kg Cast Iron Kettlebell",
+   "price": "£49.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/adidas-12kg-kettlebell-vector.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fadidas-12kg-cast-iron-kettlebell"
+  },
+  {
+   "id": "wfl-york-20kg-kettlebell-set",
+   "category": "gym",
+   "name": "York Vinyl Kettlebell Set 2,4,6,8kg",
+   "price": "£29.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/york-20kg-vinyl-kettlebell-set-1.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fyork-20kg-kettlebell-set"
+  },
+  {
+   "id": "wfl-york-barbell-20-52kg-power-band",
+   "category": "gym",
+   "name": "York Barbell 20-52kg Power Band",
+   "price": "£23.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/york-barbell-power-band-black-1.png?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fyork-barbell-20-52kg-power-band"
+  },
+  {
+   "id": "wfl-fitness-mad-mini-power-loops-set-of-3",
+   "category": "gym",
+   "name": "Fitness Mad Mini Power Loops - Set of 3",
+   "price": "£9.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/fitness-mad-mini-power-loops-set-of-3.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ffitness-mad-mini-power-loops-set-of-3"
+  },
+  {
+   "id": "wfl-adidas-10mm-yoga-mat",
+   "category": "gym",
+   "name": "Adidas 10mm Yoga Mat",
+   "price": "£22.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/Adidas-10mm-Yoga-Mat-Multi.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fadidas-10mm-yoga-mat"
+  },
+  {
+   "id": "wfl-reebok-15mm-training-mat",
+   "category": "gym",
+   "name": "Reebok 15mm Training Mat",
+   "price": "£24.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/reebok-15mm-training-mat-colours.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Freebok-15mm-training-mat"
+  },
+  {
+   "id": "wfl-reebok-ab-mat",
+   "category": "gym",
+   "name": "Reebok Ab Mat",
+   "price": "£19.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/reebok-ab-wedge-1.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Freebok-ab-mat"
+  },
+  {
+   "id": "wfl-fitness-mad-studio-pro-epp-45cm-foam-roller",
+   "category": "gym",
+   "name": "Fitness Mad Studio Pro EPP 45cm Foam Roller",
+   "price": "£15.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/fitness-mad-epp-foam-roller-45cm.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ffitness-mad-studio-pro-epp-45cm-foam-roller"
+  },
+  {
+   "id": "wfl-adidas-foam-roller",
+   "category": "gym",
+   "name": "Adidas Foam Roller",
+   "price": "£14.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/adidas-foam-roller_9c5b28a4-e24c-484e-aec3-17a16f9c4537.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fadidas-foam-roller"
+  },
+  {
+   "id": "wfl-fitness-mad-trigger-point-massage-balls-set-of-3",
+   "category": "gym",
+   "name": "Fitness Mad Trigger Point Massage Balls - Set of 3",
+   "price": "£13.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/fitness-mad-trigger-point-massage-balls-set-of-3.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ffitness-mad-trigger-point-massage-balls-set-of-3"
+  },
+  {
+   "id": "wfl-adidas-premium-push-up-bars",
+   "category": "gym",
+   "name": "Adidas Premium Push Up Bars",
+   "price": "£19.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/adidas-premium-push-up-bars.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fadidas-premium-push-up-bars"
+  },
+  {
+   "id": "wfl-hxgn-adjustable-pull-up-bar",
+   "category": "gym",
+   "name": "HXGN Adjustable Pull Up Bar",
+   "price": "£14.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/hxgn-adjustable-pull-up-bar-with-fittings.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fhxgn-adjustable-pull-up-bar"
+  },
+  {
+   "id": "wfl-adidas-door-gym",
+   "category": "gym",
+   "name": "Adidas Door Gym",
+   "price": "£35.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/adidas-door-gym.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fadidas-door-gym"
+  },
+  {
+   "id": "wfl-york-barbell-adjustable-speed-rope",
+   "category": "gym",
+   "name": "York Barbell Adjustable Speed Rope",
+   "price": "£12.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/york-barbell-adjustable-speed-rope-4.png?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fyork-barbell-adjustable-speed-rope"
+  },
+  {
+   "id": "wfl-adidas-weighted-skipping-rope",
+   "category": "gym",
+   "name": "Adidas Weighted Skipping Rope",
+   "price": "£22.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/adidas-weighted-skipping-rope.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fadidas-weighted-skipping-rope"
+  },
+  {
+   "id": "wfl-reebok-65cm-gym-ball",
+   "category": "gym",
+   "name": "Reebok 65cm Gym Ball",
+   "price": "£15.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/reebok-gym-ball-65cm.png?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Freebok-65cm-gym-ball"
+  },
+  {
+   "id": "wfl-reebok-5kg-medicine-ball",
+   "category": "gym",
+   "name": "Reebok 5kg Medicine Ball",
+   "price": "£32.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/reebok-5kg-medicine-ball.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Freebok-5kg-medicine-ball"
+  },
+  {
+   "id": "wfl-adidas-step",
+   "category": "gym",
+   "name": "Adidas Step",
+   "price": "£69.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/adidas-step.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fadidas-step"
+  },
+  {
+   "id": "wfl-fitness-mad-neoprene-ankle-wrist-weights-2-x-1kg",
+   "category": "gym",
+   "name": "Fitness Mad Neoprene Ankle Wrist Weights 2 x 1kg",
+   "price": "£14.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/FANKLEB2_2.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ffitness-mad-neoprene-ankle-wrist-weights-2-x-1kg"
+  },
+  {
+   "id": "wfl-molten-vantaggio-1000-essential-football",
+   "category": "football",
+   "name": "Molten Vantaggio 1000 Essential Football",
+   "price": "£15.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/143510_julian_black0039.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fmolten-vantaggio-1000-essential-football"
+  },
+  {
+   "id": "wfl-uhlsport-training-football-red",
+   "category": "football",
+   "name": "Uhlsport Training Football - Red",
+   "price": "£13.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/uhlsport-training-ball-red.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fuhlsport-training-football-red"
+  },
+  {
+   "id": "wfl-molten-bg3000-indoor-outdoor-leather-basketball",
+   "category": "basketball",
+   "name": "Molten BG3000 Indoor & Outdoor Synthetic Basketball",
+   "price": "£32.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/b7g3000_m1_4.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fmolten-bg3000-indoor-outdoor-leather-basketball"
+  },
+  {
+   "id": "wfl-molten-bg2000-indoor-outdoor-basketball",
+   "category": "basketball",
+   "name": "Molten BG2000 Indoor & Outdoor Basketball",
+   "price": "£22.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/b7g2000_m1_7.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fmolten-bg2000-indoor-outdoor-basketball"
+  },
+  {
+   "id": "wfl-molten-bgr-basketball-black-yellow",
+   "category": "basketball",
+   "name": "Molten BGR Basketball - Black/Yellow",
+   "price": "£22.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/MoltenBGRBlack-Yellow1.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fmolten-bgr-basketball-black-yellow"
+  },
+  {
+   "id": "wfl-net1-xplode-basketball-hoop",
+   "category": "basketball",
+   "name": "NET1 Xplode Basketball Hoop",
+   "price": "£129.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/net1j.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fnet1-xplode-basketball-hoop"
+  },
+  {
+   "id": "wfl-tecnifbre-atp-vibra-clip",
+   "category": "tennis",
+   "name": "Tecnifibre ATP Vibra Clip Dampener",
+   "price": "£8.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/TecnifibreVibraClip.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ftecnifbre-atp-vibra-clip"
+  },
+  {
+   "id": "wfl-tecnifibre-logo-dampener-tricolour",
+   "category": "tennis",
+   "name": "Tecnifibre Logo Dampener Tricolour",
+   "price": "£8.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/tecnifibrelogodampner.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ftecnifibre-logo-dampener-tricolour"
   }
  ]
 }
