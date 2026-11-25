@@ -74,6 +74,11 @@
    "slug": "basketball",
    "name": "Basketball",
    "blurb": "Balls, shoes, hoops and training gear"
+  },
+  {
+   "slug": "not-technically-sportswear",
+   "name": "Not Technically Sportswear",
+   "blurb": "…but you can do sports in them anyway"
   }
  ],
  "products": [
@@ -2711,6 +2716,123 @@
    "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/polar-h10-chest-strap.jpg?width=600",
    "retailer": "JTX Fitness",
    "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fpolar-h10-heart-rate-sensor"
+  },
+  {
+   "id": "barekind-save-the-robin-bamboo-socks",
+   "category": "not-technically-sportswear",
+   "name": "Bare Kind Save the Robin Bamboo Socks",
+   "price": "£15.99",
+   "image": "https://cdn.shopify.com/s/files/1/0025/9027/7685/files/Robin_1.jpg?width=600",
+   "retailer": "Bare Kind",
+   "url": "https://www.awin1.com/cread.php?awinmid=30533&awinaffid=3123983&ued=https%3A%2F%2Fwww.barekind.com%2Fproducts%2Fsave-the-robin-bamboo-socks"
+  },
+  {
+   "id": "barekind-save-the-green-puffin-bamboo-socks",
+   "category": "not-technically-sportswear",
+   "name": "Bare Kind Save the Green Puffin Bamboo Socks",
+   "price": "£15.99",
+   "image": "https://cdn.shopify.com/s/files/1/0025/9027/7685/files/Green_puffin_socks.jpg?width=600",
+   "retailer": "Bare Kind",
+   "url": "https://www.awin1.com/cread.php?awinmid=30533&awinaffid=3123983&ued=https%3A%2F%2Fwww.barekind.com%2Fproducts%2Fsave-the-green-puffin-bamboo-socks"
+  },
+  {
+   "id": "barekind-save-the-highland-cow-bamboo-socks",
+   "category": "not-technically-sportswear",
+   "name": "Bare Kind Save the Highland Cow Bamboo Socks",
+   "price": "£15.99",
+   "image": "https://cdn.shopify.com/s/files/1/0025/9027/7685/files/Blue_highland_cow.jpg?width=600",
+   "retailer": "Bare Kind",
+   "url": "https://www.awin1.com/cread.php?awinmid=30533&awinaffid=3123983&ued=https%3A%2F%2Fwww.barekind.com%2Fproducts%2Fsave-the-highland-cow-bamboo-socks"
+  },
+  {
+   "id": "barekind-save-the-striped-hedgehog-bamboo-socks",
+   "category": "not-technically-sportswear",
+   "name": "Bare Kind Save the Striped Hedgehog Bamboo Socks",
+   "price": "£15.99",
+   "image": "https://cdn.shopify.com/s/files/1/0025/9027/7685/files/Hedgehog_stripes_socks.jpg?width=600",
+   "retailer": "Bare Kind",
+   "url": "https://www.awin1.com/cread.php?awinmid=30533&awinaffid=3123983&ued=https%3A%2F%2Fwww.barekind.com%2Fproducts%2Fsave-the-striped-hedgehog-bamboo-socks"
+  },
+  {
+   "id": "barekind-save-the-capybara-bamboo-socks",
+   "category": "not-technically-sportswear",
+   "name": "Bare Kind Save the Capybara Bamboo Socks",
+   "price": "£15.99",
+   "image": "https://cdn.shopify.com/s/files/1/0025/9027/7685/files/capybara-bamboo-socks.jpg?width=600",
+   "retailer": "Bare Kind",
+   "url": "https://www.awin1.com/cread.php?awinmid=30533&awinaffid=3123983&ued=https%3A%2F%2Fwww.barekind.com%2Fproducts%2Fsave-the-capybara-bamboo-socks"
+  },
+  {
+   "id": "barekind-save-the-orangutans-bamboo-socks",
+   "category": "not-technically-sportswear",
+   "name": "Bare Kind Save the Orangutans Bamboo Socks",
+   "price": "£15.99",
+   "image": "https://cdn.shopify.com/s/files/1/0025/9027/7685/files/Orangutan.jpg?width=600",
+   "retailer": "Bare Kind",
+   "url": "https://www.awin1.com/cread.php?awinmid=30533&awinaffid=3123983&ued=https%3A%2F%2Fwww.barekind.com%2Fproducts%2Fsave-the-orangutans-bamboo-socks"
+  },
+  {
+   "id": "barekind-save-the-gannet-bamboo-socks",
+   "category": "not-technically-sportswear",
+   "name": "Bare Kind Save the Gannet Bamboo Socks",
+   "price": "£15.99",
+   "image": "https://cdn.shopify.com/s/files/1/0025/9027/7685/files/gannet_16.jpg?width=600",
+   "retailer": "Bare Kind",
+   "url": "https://www.awin1.com/cread.php?awinmid=30533&awinaffid=3123983&ued=https%3A%2F%2Fwww.barekind.com%2Fproducts%2Fsave-the-gannet-bamboo-socks"
+  },
+  {
+   "id": "barekind-save-the-blue-seals-bamboo-socks",
+   "category": "not-technically-sportswear",
+   "name": "Bare Kind Save the Blue Seals Bamboo Socks",
+   "price": "£15.99",
+   "image": "https://cdn.shopify.com/s/files/1/0025/9027/7685/files/Blue_seal.jpg?width=600",
+   "retailer": "Bare Kind",
+   "url": "https://www.awin1.com/cread.php?awinmid=30533&awinaffid=3123983&ued=https%3A%2F%2Fwww.barekind.com%2Fproducts%2Fsave-the-blue-seals-bamboo-socks"
+  },
+  {
+   "id": "barekind-save-the-butterfly-bamboo-socks",
+   "category": "not-technically-sportswear",
+   "name": "Bare Kind Save the Butterfly Bamboo Socks",
+   "price": "£15.99",
+   "image": "https://cdn.shopify.com/s/files/1/0025/9027/7685/files/butterfly.jpg?width=600",
+   "retailer": "Bare Kind",
+   "url": "https://www.awin1.com/cread.php?awinmid=30533&awinaffid=3123983&ued=https%3A%2F%2Fwww.barekind.com%2Fproducts%2Fsave-the-butterfly-bamboo-socks"
+  },
+  {
+   "id": "barekind-save-the-beavers-bamboo-socks",
+   "category": "not-technically-sportswear",
+   "name": "Bare Kind Save the Beavers Bamboo Socks",
+   "price": "£15.99",
+   "image": "https://cdn.shopify.com/s/files/1/0025/9027/7685/files/Beaver_2.jpg?width=600",
+   "retailer": "Bare Kind",
+   "url": "https://www.awin1.com/cread.php?awinmid=30533&awinaffid=3123983&ued=https%3A%2F%2Fwww.barekind.com%2Fproducts%2Fsave-the-beavers-bamboo-socks"
+  },
+  {
+   "id": "barekind-black-white-ribbed-2-pack-bamboo-sock-set",
+   "category": "not-technically-sportswear",
+   "name": "Bare Kind Black & White Ribbed Bamboo Socks (2 Pack)",
+   "price": "£37.98",
+   "image": "https://cdn.shopify.com/s/files/1/0025/9027/7685/files/Black_WhiteRibbed2PackBambooSockSet-02.jpg?width=600",
+   "retailer": "Bare Kind",
+   "url": "https://www.awin1.com/cread.php?awinmid=30533&awinaffid=3123983&ued=https%3A%2F%2Fwww.barekind.com%2Fproducts%2Fblack-white-ribbed-2-pack-bamboo-sock-set"
+  },
+  {
+   "id": "barekind-uk-wildlife-bamboo-socks-gift-box-of-3",
+   "category": "not-technically-sportswear",
+   "name": "Bare Kind UK Wildlife Bamboo Socks Gift Box of 3",
+   "price": "£44.99",
+   "image": "https://cdn.shopify.com/s/files/1/0025/9027/7685/files/UKWildlifeBambooSocksGiftBoxof3.jpg?width=600",
+   "retailer": "Bare Kind",
+   "url": "https://www.awin1.com/cread.php?awinmid=30533&awinaffid=3123983&ued=https%3A%2F%2Fwww.barekind.com%2Fproducts%2Fuk-wildlife-bamboo-socks-gift-box-of-3"
+  },
+  {
+   "id": "barekind-the-ultimate-bestselling-trio-bundle-of-3",
+   "category": "not-technically-sportswear",
+   "name": "Bare Kind Bestselling Trio Bamboo Socks Bundle",
+   "price": "£44.97",
+   "image": "https://cdn.shopify.com/s/files/1/0025/9027/7685/files/triobundle.jpg?width=600",
+   "retailer": "Bare Kind",
+   "url": "https://www.awin1.com/cread.php?awinmid=30533&awinaffid=3123983&ued=https%3A%2F%2Fwww.barekind.com%2Fproducts%2Fthe-ultimate-bestselling-trio-bundle-of-3"
   }
  ]
 }
