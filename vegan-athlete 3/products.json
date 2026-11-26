@@ -467,6 +467,24 @@
    "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fjtx-club-pro-commercial-treadmill"
   },
   {
+   "id": "sportsafe-54889",
+   "category": "gym",
+   "name": "Impulse Fitness RT700 Treadmill",
+   "price": "£3,813.43",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2022/05/MaximumShopifySize_65.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fimpulse-fitness-rt700-treadmill%2F"
+  },
+  {
+   "id": "sportsafe-93392",
+   "category": "gym",
+   "name": "Impulse AC2990 Commercial Treadmill",
+   "price": "£2,768.30",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2026/09/AC2990_7.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fimpulse-ac2990-commercial-treadmill%2F"
+  },
+  {
    "id": "jtx-strider-x8",
    "category": "gym",
    "name": "JTX Strider-X8 Compact Cross Trainer",
@@ -537,24 +555,6 @@
    "image": "https://www.sportandleisureuk.com/wp-content/uploads/2026/06/products-es-422-65kg-home.jpg",
    "retailer": "Sport and Leisure UK",
    "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fbodytrain-es-422-single-station-home-multi-gym-65kg-weight-stack%2F"
-  },
-  {
-   "id": "ironman-4-station-multi-gym",
-   "category": "gym",
-   "name": "Iron Man Advanced 4 Station Home Multi Gym with 100kg Weight Stack",
-   "price": "£499.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/02/products-0p7a9122.jpg",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Firon-man-advanced-4-station-home-multi-gym%2F"
-  },
-  {
-   "id": "ironman-deluxe-multi-gym-smith",
-   "category": "gym",
-   "name": "IronMan Deluxe Home Multi Gym with Smith Machine and Cables, 65kg Weight Stack",
-   "price": "£729.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/02/products-img_2355.jpg",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fironman-deluxe-home-multi-gym-with-smith-machine-and-cables-65kg-weight-stack%2F"
   },
   {
    "id": "salomon-l49226400",
@@ -2247,6 +2247,24 @@
    "url": "https://www.awin1.com/cread.php?awinmid=131380&awinaffid=3123983&ued=https%3A%2F%2Fwww.emokobike.com%2Fproducts%2Febike-seat-for-emoko-c91"
   },
   {
+   "id": "ironman-4-station-multi-gym",
+   "category": "gym",
+   "name": "Iron Man Advanced 4 Station Home Multi Gym with 100kg Weight Stack",
+   "price": "£499.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/02/products-0p7a9122.jpg",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Firon-man-advanced-4-station-home-multi-gym%2F"
+  },
+  {
+   "id": "ironman-deluxe-multi-gym-smith",
+   "category": "gym",
+   "name": "IronMan Deluxe Home Multi Gym with Smith Machine and Cables, 65kg Weight Stack",
+   "price": "£729.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/02/products-img_2355.jpg",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fironman-deluxe-home-multi-gym-with-smith-machine-and-cables-65kg-weight-stack%2F"
+  },
+  {
    "id": "ironman-100kg-bumper-set",
    "category": "gym",
    "name": "Ironman 100kg Olympic Bumper Weight Set with 7ft Olympic Bar",
@@ -2308,6 +2326,42 @@
    "image": "https://nwscdn.com/media/catalog/product/cache/hxw/2/5/25kg_red_01.jpg",
    "retailer": "Net World Sports",
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fcompetition-olympic-bumper-plates.html"
+  },
+  {
+   "id": "sportsafe-92904",
+   "category": "gym",
+   "name": "Origin 15kg Olympic Barbell",
+   "price": "£166.14",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2026/09/OF-WLB15-V2-1.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Forigin-15kg-olympic-barbell%2F"
+  },
+  {
+   "id": "sportsafe-92912",
+   "category": "gym",
+   "name": "Origin EZ Curl Bar",
+   "price": "£92.30",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2026/09/OF-EZCB-10-V2-1.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Forigin-ez-curl-bar%2F"
+  },
+  {
+   "id": "sportsafe-92955",
+   "category": "gym",
+   "name": "Origin 25kg Trap Bar",
+   "price": "£129.23",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2026/09/OF-WLB-HT-25-V2-1.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Forigin-25kg-trap-bar%2F"
+  },
+  {
+   "id": "sportsafe-93653",
+   "category": "gym",
+   "name": "Origin Olympic Spring Collars",
+   "price": "£5.52",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2026/09/OriginOlympicSpringCollars-WEB.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Forigin-olympic-spring-collars%2F"
   },
   {
    "id": "jtx-14kg-adjustable-dumbbells",
@@ -2427,6 +2481,24 @@
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fmetis-dumbbell-rack-sets-3-tier.html"
   },
   {
+   "id": "sportsafe-56523",
+   "category": "gym",
+   "name": "Polyurethane Covered Dumbbells",
+   "price": "From £39.60",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/Polyurethane-Covered-Dumbbells-Main.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fpolyurethane-covered-dumbbells%2F"
+  },
+  {
+   "id": "sportsafe-58973",
+   "category": "gym",
+   "name": "Urban Fitness Hex Dumbbells – 2 Kilograms",
+   "price": "£20.04",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/HE1869202_1433456-DAV-SPT-P01.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Furban-fitness-hex-dumbbells-2-kilograms%2F"
+  },
+  {
    "id": "ironman-kettlebell-set-4-6-8",
    "category": "gym",
    "name": "Ironman Cast Iron Coated Kettlebell Set (4kg, 6kg, 8kg)",
@@ -2479,6 +2551,24 @@
    "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/york-20kg-vinyl-kettlebell-set-1.jpg?width=600",
    "retailer": "Workout For Less",
    "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fyork-20kg-kettlebell-set"
+  },
+  {
+   "id": "sportsafe-92456",
+   "category": "gym",
+   "name": "Origin Rubber Kettlebell",
+   "price": "From £18.44",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2026/09/OriginKettlebells-RubberKettlebell4_14650f0c-8e57-4f1c-acc4-5d0843fded5f.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Forigin-rubber-kettlebell%2F"
+  },
+  {
+   "id": "sportsafe-56616",
+   "category": "gym",
+   "name": "Neoprene Covered Kettlebell",
+   "price": "From £30.12",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/Neoprene-Covered-Kettlebell-Main.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fneoprene-covered-kettlebell%2F"
   },
   {
    "id": "ironman-three-tier-kettlebell-rack",
@@ -2589,15 +2679,6 @@
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fgym-sled-pull-rope.html"
   },
   {
-   "id": "nws-wall-ball-targets",
-   "category": "gym",
-   "name": "FORZA Wall Ball Targets",
-   "price": "From £29.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza_wall_ball_target_config_main.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fwall-ball-targets.html"
-  },
-  {
    "id": "nws-water-weight-bag",
    "category": "gym",
    "name": "FORZA Water Weight Power Bag",
@@ -2605,87 +2686,6 @@
    "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza_aqua_bags_main.jpg",
    "retailer": "Net World Sports",
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fwater-weight-bag.html"
-  },
-  {
-   "id": "nws-water-weight-ball",
-   "category": "gym",
-   "name": "FORZA Water Weight Medicine Ball",
-   "price": "From £24.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza_pvc_aqua_ball_main.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fwater-weight-ball.html"
-  },
-  {
-   "id": "wfl-york-barbell-20-52kg-power-band",
-   "category": "gym",
-   "name": "York Barbell 20-52kg Power Band",
-   "price": "£23.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/york-barbell-power-band-black-1.png?width=600",
-   "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fyork-barbell-20-52kg-power-band"
-  },
-  {
-   "id": "proiron-resistance-loop-bands",
-   "category": "gym",
-   "name": "PROIRON Resistance Loop Band Set – 5 Exercise Bands",
-   "price": "£12.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2021/07/products-pro-iron-resistance-bands.png",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fproiron-resistance-loop-band-set-5-exercise-bands%2F"
-  },
-  {
-   "id": "proiron-resistance-band-set-handles",
-   "category": "gym",
-   "name": "PROIRON Resistance Band Set with Handles, Ankle Straps and Door Anchor",
-   "price": "£19.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2021/07/products-resistance-band-set-main.png",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fproiron-resistance-band-set-with-handles-ankle-straps-and-door-anchor%2F"
-  },
-  {
-   "id": "jtx-power-band",
-   "category": "gym",
-   "name": "JTX Power Band",
-   "price": "£10",
-   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/power-band.jpg?width=600",
-   "retailer": "JTX Fitness",
-   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fpower-band"
-  },
-  {
-   "id": "jtx-resistance-bands",
-   "category": "gym",
-   "name": "JTX Resistance Band Set",
-   "price": "£5",
-   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/resistance-bands.jpg?width=600",
-   "retailer": "JTX Fitness",
-   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fresistance-bands"
-  },
-  {
-   "id": "wfl-fitness-mad-mini-power-loops-set-of-3",
-   "category": "gym",
-   "name": "Fitness Mad Mini Power Loops - Set of 3",
-   "price": "£9.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/fitness-mad-mini-power-loops-set-of-3.jpg?width=600",
-   "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ffitness-mad-mini-power-loops-set-of-3"
-  },
-  {
-   "id": "boogie-47945",
-   "category": "gym",
-   "name": "Boogie Bounce Boogie Band Resistance Band",
-   "price": "£7.99",
-   "image": "https://www.boogiebounce.com/wp-content/uploads/2024/12/untitled-1648-Edit-Edit.png",
-   "retailer": "Boogie Bounce",
-   "url": "https://www.awin1.com/cread.php?awinmid=38676&awinaffid=3123983&ued=https%3A%2F%2Fwww.boogiebounce.com%2Fshop%2Ffitness-equipment%2Fboogie-band-single%2F"
-  },
-  {
-   "id": "boogie-1475",
-   "category": "gym",
-   "name": "Boogie Bounce Strength & Tone Resistance Band Set",
-   "price": "£19.99",
-   "image": "https://www.boogiebounce.com/wp-content/uploads/2022/03/Strength-and-tone-all-items.jpg",
-   "retailer": "Boogie Bounce",
-   "url": "https://www.awin1.com/cread.php?awinmid=38676&awinaffid=3123983&ued=https%3A%2F%2Fwww.boogiebounce.com%2Fshop%2Ffitness-equipment%2Fstrength-tone-bands%2F"
   },
   {
    "id": "wfl-molten-vantaggio-1000-essential-football",
@@ -2760,40 +2760,40 @@
    "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ftecnifibre-logo-dampener-tricolour"
   },
   {
-   "id": "wfl-adidas-weighted-skipping-rope",
+   "id": "nws-water-weight-ball",
    "category": "gym",
-   "name": "Adidas Weighted Skipping Rope",
-   "price": "£22.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/adidas-weighted-skipping-rope.jpg?width=600",
-   "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fadidas-weighted-skipping-rope"
+   "name": "FORZA Water Weight Medicine Ball",
+   "price": "From £24.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza_pvc_aqua_ball_main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fwater-weight-ball.html"
   },
   {
-   "id": "wfl-reebok-65cm-gym-ball",
+   "id": "sportsafe-92451",
    "category": "gym",
-   "name": "Reebok 65cm Gym Ball",
-   "price": "£15.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/reebok-gym-ball-65cm.png?width=600",
-   "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Freebok-65cm-gym-ball"
+   "name": "Origin Sandbags",
+   "price": "From £55.37",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2026/09/10kg-sandbag.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Forigin-sandbags%2F"
   },
   {
-   "id": "wfl-reebok-5kg-medicine-ball",
+   "id": "wfl-york-barbell-20-52kg-power-band",
    "category": "gym",
-   "name": "Reebok 5kg Medicine Ball",
-   "price": "£32.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/reebok-5kg-medicine-ball.jpg?width=600",
+   "name": "York Barbell 20-52kg Power Band",
+   "price": "£23.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/york-barbell-power-band-black-1.png?width=600",
    "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Freebok-5kg-medicine-ball"
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fyork-barbell-20-52kg-power-band"
   },
   {
-   "id": "wfl-adidas-step",
+   "id": "proiron-resistance-loop-bands",
    "category": "gym",
-   "name": "Adidas Step",
-   "price": "£69.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/adidas-step.jpg?width=600",
-   "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fadidas-step"
+   "name": "PROIRON Resistance Loop Band Set – 5 Exercise Bands",
+   "price": "£12.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2021/07/products-pro-iron-resistance-bands.png",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fproiron-resistance-loop-band-set-5-exercise-bands%2F"
   },
   {
    "id": "barekind-save-the-robin-bamboo-socks",
@@ -3255,6 +3255,105 @@
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fanti-vandal-steel-basketball-backboard.html"
   },
   {
+   "id": "proiron-resistance-band-set-handles",
+   "category": "gym",
+   "name": "PROIRON Resistance Band Set with Handles, Ankle Straps and Door Anchor",
+   "price": "£19.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2021/07/products-resistance-band-set-main.png",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fproiron-resistance-band-set-with-handles-ankle-straps-and-door-anchor%2F"
+  },
+  {
+   "id": "jtx-power-band",
+   "category": "gym",
+   "name": "JTX Power Band",
+   "price": "£10",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/power-band.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fpower-band"
+  },
+  {
+   "id": "jtx-resistance-bands",
+   "category": "gym",
+   "name": "JTX Resistance Band Set",
+   "price": "£5",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/resistance-bands.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fresistance-bands"
+  },
+  {
+   "id": "wfl-fitness-mad-mini-power-loops-set-of-3",
+   "category": "gym",
+   "name": "Fitness Mad Mini Power Loops - Set of 3",
+   "price": "£9.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/fitness-mad-mini-power-loops-set-of-3.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ffitness-mad-mini-power-loops-set-of-3"
+  },
+  {
+   "id": "boogie-47945",
+   "category": "gym",
+   "name": "Boogie Bounce Boogie Band Resistance Band",
+   "price": "£7.99",
+   "image": "https://www.boogiebounce.com/wp-content/uploads/2024/12/untitled-1648-Edit-Edit.png",
+   "retailer": "Boogie Bounce",
+   "url": "https://www.awin1.com/cread.php?awinmid=38676&awinaffid=3123983&ued=https%3A%2F%2Fwww.boogiebounce.com%2Fshop%2Ffitness-equipment%2Fboogie-band-single%2F"
+  },
+  {
+   "id": "boogie-1475",
+   "category": "gym",
+   "name": "Boogie Bounce Strength & Tone Resistance Band Set",
+   "price": "£19.99",
+   "image": "https://www.boogiebounce.com/wp-content/uploads/2022/03/Strength-and-tone-all-items.jpg",
+   "retailer": "Boogie Bounce",
+   "url": "https://www.awin1.com/cread.php?awinmid=38676&awinaffid=3123983&ued=https%3A%2F%2Fwww.boogiebounce.com%2Fshop%2Ffitness-equipment%2Fstrength-tone-bands%2F"
+  },
+  {
+   "id": "nws-wall-ball-targets",
+   "category": "gym",
+   "name": "FORZA Wall Ball Targets",
+   "price": "From £29.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza_wall_ball_target_config_main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fwall-ball-targets.html"
+  },
+  {
+   "id": "wfl-adidas-weighted-skipping-rope",
+   "category": "gym",
+   "name": "Adidas Weighted Skipping Rope",
+   "price": "£22.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/adidas-weighted-skipping-rope.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fadidas-weighted-skipping-rope"
+  },
+  {
+   "id": "wfl-reebok-65cm-gym-ball",
+   "category": "gym",
+   "name": "Reebok 65cm Gym Ball",
+   "price": "£15.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/reebok-gym-ball-65cm.png?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Freebok-65cm-gym-ball"
+  },
+  {
+   "id": "wfl-reebok-5kg-medicine-ball",
+   "category": "gym",
+   "name": "Reebok 5kg Medicine Ball",
+   "price": "£32.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/reebok-5kg-medicine-ball.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Freebok-5kg-medicine-ball"
+  },
+  {
+   "id": "wfl-adidas-step",
+   "category": "gym",
+   "name": "Adidas Step",
+   "price": "£69.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/adidas-step.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fadidas-step"
+  },
+  {
    "id": "wfl-fitness-mad-neoprene-ankle-wrist-weights-2-x-1kg",
    "category": "gym",
    "name": "Fitness Mad Neoprene Ankle Wrist Weights 2 x 1kg",
@@ -3280,6 +3379,42 @@
    "image": "https://nwscdn.com/media/catalog/product/cache/hxw/p/i/pilatesring-new-swatch.jpg",
    "retailer": "Net World Sports",
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-pilates-exercise-ring.html"
+  },
+  {
+   "id": "sportsafe-92460",
+   "category": "gym",
+   "name": "Origin Wall Ball",
+   "price": "From £55.37",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2026/09/OriginWallBalls_0001_Group_c4552e75-2615-452d-b635-386626e2eefb.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Forigin-wall-ball%2F"
+  },
+  {
+   "id": "sportsafe-56594",
+   "category": "gym",
+   "name": "Slam Ball",
+   "price": "From £26.15",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/Slam-Ball-Main.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fslam-ball%2F"
+  },
+  {
+   "id": "sportsafe-93219",
+   "category": "gym",
+   "name": "Origin Multi Sided Plyo Box",
+   "price": "£275.39",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2026/09/MultiSidedPlyoBox_NTS-MPLYOB-V2.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Forigin-multi-sided-plyo-box-black%2F"
+  },
+  {
+   "id": "sportsafe-55724",
+   "category": "gym",
+   "name": "Reebok Studio Step",
+   "price": "£149.60",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/Reebok-Studio-Step-Main.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Freebok-studio-step%2F"
   },
   {
    "id": "bodytrain-gym-mat",
@@ -3325,141 +3460,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/Adidas-10mm-Yoga-Mat-Multi.jpg?width=600",
    "retailer": "Workout For Less",
    "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fadidas-10mm-yoga-mat"
-  },
-  {
-   "id": "wfl-reebok-15mm-training-mat",
-   "category": "gym",
-   "name": "Reebok 15mm Training Mat",
-   "price": "£24.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/reebok-15mm-training-mat-colours.jpg?width=600",
-   "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Freebok-15mm-training-mat"
-  },
-  {
-   "id": "nws-forza-cork-yoga-mat",
-   "category": "gym",
-   "name": "FORZA Cork Yoga Mat",
-   "price": "From £14.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-cork-mat-main.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-cork-yoga-mat.html"
-  },
-  {
-   "id": "nws-forza-pu-yoga-mat",
-   "category": "gym",
-   "name": "FORZA PU Yoga Mat",
-   "price": "From £17.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/y/o/yogapumat-new-swatch.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-pu-yoga-mat.html"
-  },
-  {
-   "id": "nws-forza-pvc-yoga-mat",
-   "category": "gym",
-   "name": "FORZA PVC Yoga Mat",
-   "price": "From £5.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/y/o/yogapvcmat-new-swatch-main.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-pvc-yoga-mat.html"
-  },
-  {
-   "id": "nws-forza-extra-thick-yoga-mat-15mm",
-   "category": "gym",
-   "name": "FORZA Extra Thick Yoga Mat",
-   "price": "£9.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-nbr-yoga-mat_main.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-extra-thick-yoga-mat-15mm.html"
-  },
-  {
-   "id": "nws-50cm-gym-flooring-tiles",
-   "category": "gym",
-   "name": "FORZA Rubber Gym Flooring Mats (Pack of 4)",
-   "price": "From £16.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-rubber-gym-flooring-mats-main.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2F50cm-gym-flooring-tiles.html"
-  },
-  {
-   "id": "proiron-blue-yoga-blocks",
-   "category": "gym",
-   "name": "PROIRON Blue Yoga Blocks",
-   "price": "From £9.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2021/07/products-blue-block.png",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fproiron-blue-yoga-blocks%2F"
-  },
-  {
-   "id": "proiron-foam-roller",
-   "category": "gym",
-   "name": "PROIRON Foam Roller Massager",
-   "price": "£19.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2021/07/products-black-foam-roller.png",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fproiron-foam-roller-massager-black%2F"
-  },
-  {
-   "id": "jtx-foam-roller",
-   "category": "gym",
-   "name": "JTX Foam Roller",
-   "price": "£18",
-   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/foam-roller.jpg?width=600",
-   "retailer": "JTX Fitness",
-   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Ffoam-roller"
-  },
-  {
-   "id": "wfl-fitness-mad-studio-pro-epp-45cm-foam-roller",
-   "category": "gym",
-   "name": "Fitness Mad Studio Pro EPP 45cm Foam Roller",
-   "price": "£15.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/fitness-mad-epp-foam-roller-45cm.jpg?width=600",
-   "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ffitness-mad-studio-pro-epp-45cm-foam-roller"
-  },
-  {
-   "id": "wfl-adidas-foam-roller",
-   "category": "gym",
-   "name": "Adidas Foam Roller",
-   "price": "£14.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/adidas-foam-roller_9c5b28a4-e24c-484e-aec3-17a16f9c4537.jpg?width=600",
-   "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fadidas-foam-roller"
-  },
-  {
-   "id": "wfl-fitness-mad-trigger-point-massage-balls-set-of-3",
-   "category": "gym",
-   "name": "Fitness Mad Trigger Point Massage Balls - Set of 3",
-   "price": "£13.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/fitness-mad-trigger-point-massage-balls-set-of-3.jpg?width=600",
-   "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ffitness-mad-trigger-point-massage-balls-set-of-3"
-  },
-  {
-   "id": "nws-forza-cork-roller",
-   "category": "gym",
-   "name": "FORZA Cork Roller",
-   "price": "£9.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forzacorkroller-main.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-cork-roller.html"
-  },
-  {
-   "id": "nws-forza-cork-yoga-block-pack-of-2",
-   "category": "gym",
-   "name": "FORZA Cork Yoga Block",
-   "price": "From £5.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forzacorkblock-main.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-cork-yoga-block-pack-of-2.html"
-  },
-  {
-   "id": "jtx-polar-h10-heart-rate-sensor",
-   "category": "gym",
-   "name": "Polar H10 Heart Rate Sensor",
-   "price": "£80",
-   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/polar-h10-chest-strap.jpg?width=600",
-   "retailer": "JTX Fitness",
-   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fpolar-h10-heart-rate-sensor"
   },
   {
    "id": "nws-forza-running-belt",
@@ -4108,6 +4108,456 @@
    "image": "https://cdn.shopify.com/s/files/1/0023/0083/8000/files/black-harem-style-trouser-front-cottsbury_6c88aa0d-e71a-4a32-90bf-47849347cf6d.png",
    "retailer": "Cottsbury",
    "url": "https://www.awin1.com/cread.php?awinmid=71217&awinaffid=3123983&ued=https%3A%2F%2Fcottsbury.com%2Fproducts%2Fharem-style-trouser"
+  },
+  {
+   "id": "wfl-reebok-15mm-training-mat",
+   "category": "gym",
+   "name": "Reebok 15mm Training Mat",
+   "price": "£24.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/reebok-15mm-training-mat-colours.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Freebok-15mm-training-mat"
+  },
+  {
+   "id": "nws-forza-cork-yoga-mat",
+   "category": "gym",
+   "name": "FORZA Cork Yoga Mat",
+   "price": "From £14.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-cork-mat-main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-cork-yoga-mat.html"
+  },
+  {
+   "id": "nws-forza-pu-yoga-mat",
+   "category": "gym",
+   "name": "FORZA PU Yoga Mat",
+   "price": "From £17.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/y/o/yogapumat-new-swatch.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-pu-yoga-mat.html"
+  },
+  {
+   "id": "nws-forza-pvc-yoga-mat",
+   "category": "gym",
+   "name": "FORZA PVC Yoga Mat",
+   "price": "From £5.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/y/o/yogapvcmat-new-swatch-main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-pvc-yoga-mat.html"
+  },
+  {
+   "id": "nws-forza-extra-thick-yoga-mat-15mm",
+   "category": "gym",
+   "name": "FORZA Extra Thick Yoga Mat",
+   "price": "£9.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-nbr-yoga-mat_main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-extra-thick-yoga-mat-15mm.html"
+  },
+  {
+   "id": "nws-50cm-gym-flooring-tiles",
+   "category": "gym",
+   "name": "FORZA Rubber Gym Flooring Mats (Pack of 4)",
+   "price": "From £16.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-rubber-gym-flooring-mats-main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2F50cm-gym-flooring-tiles.html"
+  },
+  {
+   "id": "sportsafe-60943",
+   "category": "gym",
+   "name": "UFE 4mm Yoga Mat – Blue",
+   "price": "£26.21",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/HE1689346_184588-DAV-SPT-P01.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fufe-4mm-yoga-mat-blue-183cm-x-61cm-x-4mm%2F"
+  },
+  {
+   "id": "sportsafe-57829",
+   "category": "gym",
+   "name": "Fitness Mad Studio Pro Aerobic Mat – 10mm",
+   "price": "£26.21",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2024/11/Fitness_Mad_Studio_Aerobic_Mat_kTgwW0Fvm0.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Ffitness-mad-studio-pro-aerobic-mat-10-millimeters%2F"
+  },
+  {
+   "id": "proiron-blue-yoga-blocks",
+   "category": "gym",
+   "name": "PROIRON Blue Yoga Blocks",
+   "price": "From £9.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2021/07/products-blue-block.png",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fproiron-blue-yoga-blocks%2F"
+  },
+  {
+   "id": "proiron-foam-roller",
+   "category": "gym",
+   "name": "PROIRON Foam Roller Massager",
+   "price": "£19.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2021/07/products-black-foam-roller.png",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fproiron-foam-roller-massager-black%2F"
+  },
+  {
+   "id": "jtx-foam-roller",
+   "category": "gym",
+   "name": "JTX Foam Roller",
+   "price": "£18",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/foam-roller.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Ffoam-roller"
+  },
+  {
+   "id": "wfl-fitness-mad-studio-pro-epp-45cm-foam-roller",
+   "category": "gym",
+   "name": "Fitness Mad Studio Pro EPP 45cm Foam Roller",
+   "price": "£15.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/products/fitness-mad-epp-foam-roller-45cm.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ffitness-mad-studio-pro-epp-45cm-foam-roller"
+  },
+  {
+   "id": "wfl-adidas-foam-roller",
+   "category": "gym",
+   "name": "Adidas Foam Roller",
+   "price": "£14.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/adidas-foam-roller_9c5b28a4-e24c-484e-aec3-17a16f9c4537.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fadidas-foam-roller"
+  },
+  {
+   "id": "wfl-fitness-mad-trigger-point-massage-balls-set-of-3",
+   "category": "gym",
+   "name": "Fitness Mad Trigger Point Massage Balls - Set of 3",
+   "price": "£13.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/fitness-mad-trigger-point-massage-balls-set-of-3.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Ffitness-mad-trigger-point-massage-balls-set-of-3"
+  },
+  {
+   "id": "nws-forza-cork-roller",
+   "category": "gym",
+   "name": "FORZA Cork Roller",
+   "price": "£9.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forzacorkroller-main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-cork-roller.html"
+  },
+  {
+   "id": "nws-forza-cork-yoga-block-pack-of-2",
+   "category": "gym",
+   "name": "FORZA Cork Yoga Block",
+   "price": "From £5.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forzacorkblock-main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-cork-yoga-block-pack-of-2.html"
+  },
+  {
+   "id": "sportsafe-56273",
+   "category": "gym",
+   "name": "Origin Foam Roller",
+   "price": "From £34.19",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/Origin-Foam-Roller-Main.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Forigin-foam-roller%2F"
+  },
+  {
+   "id": "sportsafe-61938",
+   "category": "gym",
+   "name": "Fitness Mad Hi-density Yoga Brick – Blue",
+   "price": "£12.32",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2024/11/YBREVA_BLU_5_cB_M_K226E.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Ffitness-mad-hi-density-yoga-brick-blue%2F"
+  },
+  {
+   "id": "jtx-polar-h10-heart-rate-sensor",
+   "category": "gym",
+   "name": "Polar H10 Heart Rate Sensor",
+   "price": "£80",
+   "image": "https://cdn.shopify.com/s/files/1/0981/6863/5724/files/polar-h10-chest-strap.jpg?width=600",
+   "retailer": "JTX Fitness",
+   "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fpolar-h10-heart-rate-sensor"
+  },
+  {
+   "id": "sportsafe-58499",
+   "category": "basketball",
+   "name": "Molten BGR Basketball – Size 7",
+   "price": "£27.76",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/HE1554108_161125-DAV-SPT-P01.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fmolten-bgr-red-silver-basketball-size-7%2F"
+  },
+  {
+   "id": "sportsafe-58570",
+   "category": "basketball",
+   "name": "Molten BG1600 Basketball – Size 7",
+   "price": "£23.12",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/HE1839546_1430664-DAV-SPT-P01.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fmolten-bg1600-basketball-size-7-tan%2F"
+  },
+  {
+   "id": "sportsafe-54964",
+   "category": "basketball",
+   "name": "Baden All-Star Basketball",
+   "price": "£16.75",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/Baden-All-Star-Basketball-Main.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fbaden-all-star-basketball%2F"
+  },
+  {
+   "id": "sportsafe-54986",
+   "category": "basketball",
+   "name": "Baden Contender Basketball",
+   "price": "£70.33",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/Baden-Contender-Main.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fbaden-contender-basketball%2F"
+  },
+  {
+   "id": "sportsafe-91925",
+   "category": "basketball",
+   "name": "Sure Shot Easishot Portable Basketball Unit",
+   "price": "From £193.40",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2026/08/sure-shot-easishot-63553x.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fsure-shot-easishot-portable-basketball-unit%2F"
+  },
+  {
+   "id": "sportsafe-91930",
+   "category": "basketball",
+   "name": "Sure Shot Jump Shot Portable Basketball Unit",
+   "price": "From £220.01",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2026/08/sure-shot-jump-shot-63517x.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fsure-shot-jump-shot-portable-basketball-unit%2F"
+  },
+  {
+   "id": "sportsafe-91920",
+   "category": "basketball",
+   "name": "Sure Shot Little Shot Basketball Unit",
+   "price": "From £131.56",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2026/08/sure-shot-little-shot-63700x.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fsure-shot-little-shot-basketball-unit%2F"
+  },
+  {
+   "id": "sportsafe-63726",
+   "category": "basketball",
+   "name": "Kompetitor Portable Basketball System",
+   "price": "£385.69",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/HE1553107_161084-DAV-SPT-P01.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fkompetitor-portable-basketball-system%2F"
+  },
+  {
+   "id": "sportsafe-54994",
+   "category": "basketball",
+   "name": "Sure Shot Institutional Ring & Net Set",
+   "price": "£103.73",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/Sure-Shot-Institutional-ring-net-set-main.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fsure-shot-institutional-ring-net-set%2F"
+  },
+  {
+   "id": "sportsafe-80275",
+   "category": "padel",
+   "name": "FZ Forza Power Padel Racket",
+   "price": "£89.52",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/07/fz-forza-power-padel-ball-racket-p1669-7251_medium.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Ffz-forza-power-padel-ball-racket%2F"
+  },
+  {
+   "id": "sportsafe-80274",
+   "category": "padel",
+   "name": "FZ Forza Furious Padel Racket",
+   "price": "£113.45",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/07/fz-forza-furious-padel-ball-racket-p2106-9612_medium.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Ffz-forza-furious-padel-ball-racket%2F"
+  },
+  {
+   "id": "sportsafe-80272",
+   "category": "padel",
+   "name": "FZ Forza Aero X3 Padel Racket",
+   "price": "£109.21",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/07/fz-forza-aero-x3-padel-ball-racket-p2104-9609_medium.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fforza-fz-forza-aero-x3-padel-ball-racket%2F"
+  },
+  {
+   "id": "sportsafe-80270",
+   "category": "padel",
+   "name": "FZ Forza Aero X9 Spin Padel Racket",
+   "price": "£119.87",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/07/fz-forza-aero-x9-spin-padel-ball-racket-p1673-7259_medium.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Ffz-forza-aero-x9-spin-padel-ball-racket%2F"
+  },
+  {
+   "id": "sportsafe-80266",
+   "category": "padel",
+   "name": "FZ Forza Blast Power Padel Racket",
+   "price": "£135.05",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/07/fz-forza-blast-power-padel-ball-racket-p1665-7241_medium.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fforza-fz-forza-blast-power-padel-ball-racket%2F"
+  },
+  {
+   "id": "sportsafe-80265",
+   "category": "padel",
+   "name": "FZ Forza Ultra Spin 2.0 Padel Racket",
+   "price": "£142.64",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/07/fz-forza-ultra-spin-2-0-padel-ball-racket-p1671-7255_medium.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fforzafz-forza-ultra-spin-2-0-padel-ball-racket%2F"
+  },
+  {
+   "id": "sportsafe-80262",
+   "category": "padel",
+   "name": "FZ Forza Brace Power Padel Racket",
+   "price": "£165.41",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/07/fz-forza-brace-power-padel-ball-racket-p1667-7245_medium.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fforza-fz-forza-brace-power-padel-ball-racket%2F"
+  },
+  {
+   "id": "sportsafe-55174",
+   "category": "tennis",
+   "name": "P2 Black Club Tennis Net",
+   "price": "£185.48",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/P2-Black-Club-Tennis-Net-Main1.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fp2-black-club-tennis-net%2F"
+  },
+  {
+   "id": "sportsafe-55184",
+   "category": "tennis",
+   "name": "P1B Black Tournament Tennis Net",
+   "price": "£354.35",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/P1B-Black-Tournament-Net-Main.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fp1b-black-tournament-net%2F"
+  },
+  {
+   "id": "sportsafe-55188",
+   "category": "tennis",
+   "name": "S8 76mm Square Tennis Posts",
+   "price": "From £606.85",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/S8-76mm-Square-Tennis-Posts-3-1.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fs8-76mm-square-tennis-posts%2F"
+  },
+  {
+   "id": "sportsafe-58673",
+   "category": "football",
+   "name": "Mitre Calcio Football – Size 5",
+   "price": "£12.32",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/5B01800C21Y1_A0pNam6_8E-scaled-1.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fmitre-calcio-football-size-5-white-blue-black%2F"
+  },
+  {
+   "id": "sportsafe-58412",
+   "category": "football",
+   "name": "Mitre Ultimatch One Football – Size 5",
+   "price": "£27.76",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/5B01789C60Y1_TK7U2_UFE-scaled-1.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fmitre-ultimatch-one-size-5-yellow-black-grey%2F"
+  },
+  {
+   "id": "sportsafe-62334",
+   "category": "football",
+   "name": "Samba Aluminium Folding Goal – 6ft x 4ft",
+   "price": "£370.27",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/PFBP01212_102755-DAV-SPT-W01-1.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Faluminium-folding-goal-6ft-x-4ft%2F"
+  },
+  {
+   "id": "sportsafe-57584",
+   "category": "football",
+   "name": "Samba 8 x 6 Trainer Goal – Locking uPVC",
+   "price": "£148.09",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/HE1785976_1424477-DAV-SPT-P01.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fsamba-8-x-6-trainer-goal-locking-upvc%2F"
+  },
+  {
+   "id": "sportsafe-58728",
+   "category": "hockey",
+   "name": "Mercian Scorpion Hockey Stick – 36 Inch",
+   "price": "£15.41",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2024/11/Scorpion_Rear_Full_HS3518_SG8ukTUKS0-scaled.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fmercian-scorpion-hockey-stick-36-inches%2F"
+  },
+  {
+   "id": "sportsafe-57808",
+   "category": "hockey",
+   "name": "Eurohoc 36 Intro Hockey Stick",
+   "price": "£13.87",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/HE1827038_1430651-DAV-SPT-W01_l0KGc9F0rk.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Feurohoc-36-intro-hockey-stick%2F"
+  },
+  {
+   "id": "sportsafe-62554",
+   "category": "rugby",
+   "name": "Centurion Nemesis Match Rugby Ball – Size 5",
+   "price": "£21.59",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/03/HE1562831_162031-DAV-SPT-P01.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fcenturion-nemesis-match-rugby-ball-size-5%2F"
+  },
+  {
+   "id": "sportsafe-61323",
+   "category": "rugby",
+   "name": "Samba Rugby Posts",
+   "price": "£277.69",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/r76bMaHg_7akPpNmFj0-scaled-1.jpeg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fsamba-rugby-posts%2F"
+  },
+  {
+   "id": "sportsafe-56855",
+   "category": "netball",
+   "name": "Sure Shot Prime Shot Netball Unit",
+   "price": "£105.41",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2023/07/66509-NP-Prime-Shot_Max-Height-scaled.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fsure-shot-prime-shot-netball-unit%2F"
+  },
+  {
+   "id": "sportsafe-56061",
+   "category": "netball",
+   "name": "Sure Shot Goal Shot Netball Unit",
+   "price": "£115.04",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/66503-Goal-Shot-Unit-3.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fgoal-shot-netball-unit%2F"
+  },
+  {
+   "id": "sportsafe-55063",
+   "category": "netball",
+   "name": "Sure Shot Transportable Netball Unit",
+   "price": "£268.43",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/Sure-Shot-Transportable-Netball-Unit-Main-1.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fsure-shot-transportable-netball-unit%2F"
+  },
+  {
+   "id": "sportsafe-56409",
+   "category": "netball",
+   "name": "Socketed Netball Posts",
+   "price": "From £379.03",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/Socketed-Netball-Posts-Main.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fsocketed-netball-posts%2F"
   }
  ]
 }
