@@ -3624,6 +3624,15 @@
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fgumshield.html"
   },
   {
+   "id": "sportsafe-57808",
+   "category": "hockey",
+   "name": "Eurohoc 36 Intro Hockey Stick",
+   "price": "£13.87",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/HE1827038_1430651-DAV-SPT-W01_l0KGc9F0rk.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Feurohoc-36-intro-hockey-stick%2F"
+  },
+  {
    "id": "nws-forza-w100-hockey-sticks",
    "category": "hockey",
    "name": "FORZA W100 Hockey Sticks",
@@ -3631,6 +3640,15 @@
    "image": "https://nwscdn.com/media/catalog/product/cache/hxw/y/e/yellow-main_4.jpg",
    "retailer": "Net World Sports",
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-w100-hockey-sticks.html"
+  },
+  {
+   "id": "sportsafe-58728",
+   "category": "hockey",
+   "name": "Mercian Scorpion Hockey Stick – 36 Inch",
+   "price": "£15.41",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2024/11/Scorpion_Rear_Full_HS3518_SG8ukTUKS0-scaled.webp",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fmercian-scorpion-hockey-stick-36-inches%2F"
   },
   {
    "id": "nws-forza-f100-fibreglass-hockey-sticks",
@@ -3651,6 +3669,15 @@
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-c95-carbon-hockey-sticks.html"
   },
   {
+   "id": "nws-plastic-hockey-set",
+   "category": "hockey",
+   "name": "FORZA Plastic Hockey Set",
+   "price": "£49.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-plastic-hockey-set-main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fplastic-hockey-set.html"
+  },
+  {
    "id": "nws-forza-match-dimple-hockey-balls",
    "category": "hockey",
    "name": "FORZA 5-Star International Match Hockey Balls",
@@ -3658,15 +3685,6 @@
    "image": "https://nwscdn.com/media/catalog/product/cache/hxw/w/h/white-international-match-main-withswatch.jpg",
    "retailer": "Net World Sports",
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-match-dimple-hockey-balls.html"
-  },
-  {
-   "id": "nws-forza-pro-hockey-shin-pads",
-   "category": "hockey",
-   "name": "FORZA Pro Hockey Shin Pads",
-   "price": "From £14.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-hockey-shinpads---pro---grey---front_1_6.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-pro-hockey-shin-pads.html"
   },
   {
    "id": "nws-forza-pu-hockey-gloves",
@@ -3678,13 +3696,13 @@
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-pu-hockey-gloves.html"
   },
   {
-   "id": "nws-forza-proflex-hockey-goals-3-sizes",
+   "id": "nws-forza-pro-hockey-shin-pads",
    "category": "hockey",
-   "name": "FORZA ProFlex Pop Up Hockey Goals",
-   "price": "From £89.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/p/r/proflex-hockey-goal---threequarter_2.jpg",
+   "name": "FORZA Pro Hockey Shin Pads",
+   "price": "From £14.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-hockey-shinpads---pro---grey---front_1_6.jpg",
    "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-proflex-hockey-goals-3-sizes.html"
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-pro-hockey-shin-pads.html"
   },
   {
    "id": "nws-forza-pvc-mini-hockey-goal",
@@ -3696,6 +3714,15 @@
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-pvc-mini-hockey-goal.html"
   },
   {
+   "id": "nws-forza-proflex-hockey-goals-3-sizes",
+   "category": "hockey",
+   "name": "FORZA ProFlex Pop Up Hockey Goals",
+   "price": "From £89.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/p/r/proflex-hockey-goal---threequarter_2.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-proflex-hockey-goals-3-sizes.html"
+  },
+  {
    "id": "nws-forza-10-x-6-field-hockey-goal",
    "category": "hockey",
    "name": "FORZA 10 x 6 Hockey Goal",
@@ -3705,15 +3732,6 @@
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fforza-10-x-6-field-hockey-goal.html"
   },
   {
-   "id": "nws-hockey-foam-rebounder",
-   "category": "hockey",
-   "name": "FORZA Hockey Foam Rebounder",
-   "price": "£99.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-hockey-foam-rebounder_01.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fhockey-foam-rebounder.html"
-  },
-  {
    "id": "nws-individual-hockey-control-mat",
    "category": "hockey",
    "name": "FORZA Individual Hockey Control Mat",
@@ -3721,24 +3739,6 @@
    "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza_hockey_individual_control_mat_main.jpg",
    "retailer": "Net World Sports",
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Findividual-hockey-control-mat.html"
-  },
-  {
-   "id": "nws-elite-team-hockey-control-mat",
-   "category": "hockey",
-   "name": "FORZA Elite Team Hockey Control Mat",
-   "price": "£59.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza_elite_team_control_mat_hockey_main.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Felite-team-hockey-control-mat.html"
-  },
-  {
-   "id": "nws-plastic-hockey-set",
-   "category": "hockey",
-   "name": "FORZA Plastic Hockey Set",
-   "price": "£49.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-plastic-hockey-set-main.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fplastic-hockey-set.html"
   },
   {
    "id": "nws-forza-international-match-netball",
@@ -4488,22 +4488,22 @@
    "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fsamba-8-x-6-trainer-goal-locking-upvc%2F"
   },
   {
-   "id": "sportsafe-58728",
+   "id": "nws-elite-team-hockey-control-mat",
    "category": "hockey",
-   "name": "Mercian Scorpion Hockey Stick – 36 Inch",
-   "price": "£15.41",
-   "image": "https://sportsafeuk.com/wp-content/uploads/2024/11/Scorpion_Rear_Full_HS3518_SG8ukTUKS0-scaled.webp",
-   "retailer": "Sportsafe",
-   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fmercian-scorpion-hockey-stick-36-inches%2F"
+   "name": "FORZA Elite Team Hockey Control Mat",
+   "price": "£59.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza_elite_team_control_mat_hockey_main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Felite-team-hockey-control-mat.html"
   },
   {
-   "id": "sportsafe-57808",
+   "id": "nws-hockey-foam-rebounder",
    "category": "hockey",
-   "name": "Eurohoc 36 Intro Hockey Stick",
-   "price": "£13.87",
-   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/HE1827038_1430651-DAV-SPT-W01_l0KGc9F0rk.jpg",
-   "retailer": "Sportsafe",
-   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Feurohoc-36-intro-hockey-stick%2F"
+   "name": "FORZA Hockey Foam Rebounder",
+   "price": "£99.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-hockey-foam-rebounder_01.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fhockey-foam-rebounder.html"
   },
   {
    "id": "sportsafe-62554",
