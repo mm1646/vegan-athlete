@@ -98,31 +98,31 @@
  ],
  "products": [
   {
-   "id": "air-league-hb10-junior",
+   "id": "nws-flair-rubber-basketballs",
    "category": "basketball",
-   "name": "Air League HB10 Junior Adjustable Basketball Stand",
-   "price": "£39.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/12/products-hb10-free-ball.jpg",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fair-league-hb10-junior-adjustable-basketball-stand%2F"
+   "name": "FORZA Flair Rubber Basketballs",
+   "price": "From £5.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-flair---main-swatch.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fflair-rubber-basketballs.html"
   },
   {
-   "id": "air-league-hb06",
+   "id": "sportsafe-54964",
    "category": "basketball",
-   "name": "Air League HB06 Adjustable Basketball Stand",
-   "price": "£49.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2026/01/products-hb6-free-ball.jpg",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fair-league-hb06-adjustable-basketball-stand%2F"
+   "name": "Baden All-Star Basketball",
+   "price": "£16.75",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/Baden-All-Star-Basketball-Main.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fbaden-all-star-basketball%2F"
   },
   {
-   "id": "air-league-hb01-pro",
+   "id": "wfl-molten-bg2000-indoor-outdoor-basketball",
    "category": "basketball",
-   "name": "Air League HB01 PRO Basketball Stand",
-   "price": "£79.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/12/products-1aba8f7f05a2619b716c25389ec2dd15_3.jpg",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fair-league-hb01-pro-basketball-stand%2F"
+   "name": "Molten BG2000 Indoor & Outdoor Basketball",
+   "price": "£22.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/b7g2000_m1_7.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fmolten-bg2000-indoor-outdoor-basketball"
   },
   {
    "id": "hillman-pop-up-training-net",
@@ -2706,24 +2706,6 @@
    "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fuhlsport-training-football-red"
   },
   {
-   "id": "wfl-molten-bg3000-indoor-outdoor-leather-basketball",
-   "category": "basketball",
-   "name": "Molten BG3000 Indoor & Outdoor Synthetic Basketball",
-   "price": "£32.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/b7g3000_m1_4.jpg?width=600",
-   "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fmolten-bg3000-indoor-outdoor-leather-basketball"
-  },
-  {
-   "id": "wfl-molten-bg2000-indoor-outdoor-basketball",
-   "category": "basketball",
-   "name": "Molten BG2000 Indoor & Outdoor Basketball",
-   "price": "£22.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/b7g2000_m1_7.jpg?width=600",
-   "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fmolten-bg2000-indoor-outdoor-basketball"
-  },
-  {
    "id": "wfl-molten-bgr-basketball-black-yellow",
    "category": "basketball",
    "name": "Molten BGR Basketball - Black/Yellow",
@@ -2733,13 +2715,31 @@
    "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fmolten-bgr-basketball-black-yellow"
   },
   {
-   "id": "wfl-net1-xplode-basketball-hoop",
+   "id": "sportsafe-58570",
    "category": "basketball",
-   "name": "NET1 Xplode Basketball Hoop",
-   "price": "£129.99",
-   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/net1j.jpg?width=600",
+   "name": "Molten BG1600 Basketball – Size 7",
+   "price": "£23.12",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/HE1839546_1430664-DAV-SPT-P01.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fmolten-bg1600-basketball-size-7-tan%2F"
+  },
+  {
+   "id": "sportsafe-58499",
+   "category": "basketball",
+   "name": "Molten BGR Basketball – Size 7",
+   "price": "£27.76",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/HE1554108_161125-DAV-SPT-P01.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fmolten-bgr-red-silver-basketball-size-7%2F"
+  },
+  {
+   "id": "wfl-molten-bg3000-indoor-outdoor-leather-basketball",
+   "category": "basketball",
+   "name": "Molten BG3000 Indoor & Outdoor Synthetic Basketball",
+   "price": "£32.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/b7g3000_m1_4.jpg?width=600",
    "retailer": "Workout For Less",
-   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fnet1-xplode-basketball-hoop"
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fmolten-bg3000-indoor-outdoor-leather-basketball"
   },
   {
    "id": "wfl-tecnifbre-atp-vibra-clip",
@@ -3219,40 +3219,40 @@
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fpro-golf-brush.html"
   },
   {
-   "id": "nws-flair-rubber-basketballs",
+   "id": "sportsafe-54986",
    "category": "basketball",
-   "name": "FORZA Flair Rubber Basketballs",
-   "price": "From £5.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-flair---main-swatch.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fflair-rubber-basketballs.html"
+   "name": "Baden Contender Basketball",
+   "price": "£70.33",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/Baden-Contender-Main.jpg",
+   "retailer": "Sportsafe",
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fbaden-contender-basketball%2F"
   },
   {
-   "id": "nws-basketball-solo-return-net",
+   "id": "air-league-hb10-junior",
    "category": "basketball",
-   "name": "FORZA Basketball Solo Return Net",
-   "price": "£39.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-proflex-returner-with-bubble.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fbasketball-solo-return-net.html"
+   "name": "Air League HB10 Junior Adjustable Basketball Stand",
+   "price": "£39.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/12/products-hb10-free-ball.jpg",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fair-league-hb10-junior-adjustable-basketball-stand%2F"
   },
   {
-   "id": "nws-basketball-control-mat",
+   "id": "air-league-hb06",
    "category": "basketball",
-   "name": "FORZA Basketball Control Mat",
-   "price": "£24.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza_basketball_control_mat_main.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fbasketball-control-mat.html"
+   "name": "Air League HB06 Adjustable Basketball Stand",
+   "price": "£49.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2026/01/products-hb6-free-ball.jpg",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fair-league-hb06-adjustable-basketball-stand%2F"
   },
   {
-   "id": "nws-anti-vandal-steel-basketball-backboard",
+   "id": "air-league-hb01-pro",
    "category": "basketball",
-   "name": "FORZA Anti-Vandal Steel Basketball Backboard",
-   "price": "From £199.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/3/_/3_quarter_with_frame.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fanti-vandal-steel-basketball-backboard.html"
+   "name": "Air League HB01 PRO Basketball Stand",
+   "price": "£79.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/12/products-1aba8f7f05a2619b716c25389ec2dd15_3.jpg",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fair-league-hb01-pro-basketball-stand%2F"
   },
   {
    "id": "proiron-resistance-band-set-handles",
@@ -4281,40 +4281,22 @@
    "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fpolar-h10-heart-rate-sensor"
   },
   {
-   "id": "sportsafe-58499",
+   "id": "wfl-net1-xplode-basketball-hoop",
    "category": "basketball",
-   "name": "Molten BGR Basketball – Size 7",
-   "price": "£27.76",
-   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/HE1554108_161125-DAV-SPT-P01.jpg",
-   "retailer": "Sportsafe",
-   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fmolten-bgr-red-silver-basketball-size-7%2F"
+   "name": "NET1 Xplode Basketball Hoop",
+   "price": "£129.99",
+   "image": "https://cdn.shopify.com/s/files/1/0023/1319/1470/files/net1j.jpg?width=600",
+   "retailer": "Workout For Less",
+   "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fnet1-xplode-basketball-hoop"
   },
   {
-   "id": "sportsafe-58570",
+   "id": "sportsafe-91920",
    "category": "basketball",
-   "name": "Molten BG1600 Basketball – Size 7",
-   "price": "£23.12",
-   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/HE1839546_1430664-DAV-SPT-P01.jpg",
+   "name": "Sure Shot Little Shot Basketball Unit",
+   "price": "From £131.56",
+   "image": "https://sportsafeuk.com/wp-content/uploads/2026/08/sure-shot-little-shot-63700x.webp",
    "retailer": "Sportsafe",
-   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fmolten-bg1600-basketball-size-7-tan%2F"
-  },
-  {
-   "id": "sportsafe-54964",
-   "category": "basketball",
-   "name": "Baden All-Star Basketball",
-   "price": "£16.75",
-   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/Baden-All-Star-Basketball-Main.jpg",
-   "retailer": "Sportsafe",
-   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fbaden-all-star-basketball%2F"
-  },
-  {
-   "id": "sportsafe-54986",
-   "category": "basketball",
-   "name": "Baden Contender Basketball",
-   "price": "£70.33",
-   "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/Baden-Contender-Main.jpg",
-   "retailer": "Sportsafe",
-   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fbaden-contender-basketball%2F"
+   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fsure-shot-little-shot-basketball-unit%2F"
   },
   {
    "id": "sportsafe-91925",
@@ -4335,15 +4317,6 @@
    "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fsure-shot-jump-shot-portable-basketball-unit%2F"
   },
   {
-   "id": "sportsafe-91920",
-   "category": "basketball",
-   "name": "Sure Shot Little Shot Basketball Unit",
-   "price": "From £131.56",
-   "image": "https://sportsafeuk.com/wp-content/uploads/2026/08/sure-shot-little-shot-63700x.webp",
-   "retailer": "Sportsafe",
-   "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fsure-shot-little-shot-basketball-unit%2F"
-  },
-  {
    "id": "sportsafe-63726",
    "category": "basketball",
    "name": "Kompetitor Portable Basketball System",
@@ -4360,6 +4333,33 @@
    "image": "https://sportsafeuk.com/wp-content/uploads/2025/02/Sure-Shot-Institutional-ring-net-set-main.jpg",
    "retailer": "Sportsafe",
    "url": "https://www.awin1.com/cread.php?awinmid=118941&awinaffid=3123983&ued=https%3A%2F%2Fsportsafeuk.com%2Fshop%2Fsure-shot-institutional-ring-net-set%2F"
+  },
+  {
+   "id": "nws-anti-vandal-steel-basketball-backboard",
+   "category": "basketball",
+   "name": "FORZA Anti-Vandal Steel Basketball Backboard",
+   "price": "From £199.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/3/_/3_quarter_with_frame.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fanti-vandal-steel-basketball-backboard.html"
+  },
+  {
+   "id": "nws-basketball-control-mat",
+   "category": "basketball",
+   "name": "FORZA Basketball Control Mat",
+   "price": "£24.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza_basketball_control_mat_main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fbasketball-control-mat.html"
+  },
+  {
+   "id": "nws-basketball-solo-return-net",
+   "category": "basketball",
+   "name": "FORZA Basketball Solo Return Net",
+   "price": "£39.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-proflex-returner-with-bubble.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fbasketball-solo-return-net.html"
   },
   {
    "id": "sportsafe-80275",
