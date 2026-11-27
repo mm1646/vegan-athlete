@@ -125,7 +125,10 @@ const AMAZON = {
   us: { label: "US", flag: "\u{1F1FA}\u{1F1F8}", host: "www.amazon.com",   tag: "veganathlet01-20" }
 };
 const US_ZONES = /^(America\/(New_York|Chicago|Denver|Phoenix|Los_Angeles|Anchorage|Adak|Boise|Detroit|Juneau|Sitka|Metlakatla|Nome|Yakutat|Menominee|Indiana\/.+|Kentucky\/.+|North_Dakota\/.+)|Pacific\/Honolulu)$/;
+/* US store paused while the US Associates account (veganathlet01-20) is under appeal: everyone goes to amazon.co.uk */
+const US_ENABLED = false;
 function guessRegion() {
+  if (!US_ENABLED) return "uk";
   try { const saved = localStorage.getItem("va-region"); if (saved && AMAZON[saved]) return saved; } catch (e) {}
   try { if (US_ZONES.test(Intl.DateTimeFormat().resolvedOptions().timeZone || "")) return "us"; } catch (e) {}
   return "uk";
@@ -203,6 +206,6 @@ function productCard(p) {
     const items = data.products.filter(p => p.category === slug);
     const render = () => { list.innerHTML = items.length ? items.map(productCard).join("") : "<p>Vegan products for this sport are coming soon. <a href='index.html'>Browse other sports</a></p>"; };
     render();
-    if (items.some(p => p.retailer === "Amazon")) addRegionSwitch(render);
+    if (US_ENABLED && items.some(p => p.retailer === "Amazon")) addRegionSwitch(render);
   }
 })();
