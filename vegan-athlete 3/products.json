@@ -125,130 +125,169 @@
    "url": "https://www.awin1.com/cread.php?awinmid=25564&awinaffid=3123983&ued=https%3A%2F%2Fwww.workoutforless.co.uk%2Fproducts%2Fmolten-bg2000-indoor-outdoor-basketball"
   },
   {
-   "id": "hillman-pop-up-training-net",
+   "id": "amazon-B07H2HQJR5",
    "category": "golf",
-   "name": "Hillman PGM Portable Pop Up Golf Training Net",
-   "price": "£17.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2020/06/products-lxw-005-05.png",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-pgm-portable-pop-up-golf-training-net%2F"
+   "name": "Callaway Strata Men's Golf Club Set",
+   "price": "",
+   "image": "",
+   "brand": "Callaway",
+   "icon": "golfclub",
+   "gender": "men",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B07H2HQJR5?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "hillman-steel-chipping-net",
+   "id": "amazon-B0DVMCNQDV",
    "category": "golf",
-   "name": "Hillman PGM Steel Framed Golf Chipping Net",
-   "price": "£22.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2020/06/products-lxw-003-4.png",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-pgm-steel-framed-golf-chipping-net%2F"
+   "name": "Wilson Profile Men's Golf Half Set",
+   "price": "",
+   "image": "",
+   "brand": "Wilson",
+   "icon": "golfclub",
+   "gender": "men",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0DVMCNQDV?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "hillman-3m-deluxe-practice-net",
+   "id": "amazon-B0DHT5XZR1",
    "category": "golf",
-   "name": "Hillman Golf 3m Deluxe Portable Practice Net",
-   "price": "£59.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2021/08/products-gcn-007-_2_.png",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-golf-3m-deluxe-portable-practice-net%2F"
+   "name": "Callaway Supersoft Golf Balls",
+   "price": "",
+   "image": "",
+   "brand": "Callaway",
+   "icon": "golfball",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0DHT5XZR1?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "hillman-1-2m-turf-mat",
+   "id": "amazon-B0DSJN58C2",
    "category": "golf",
-   "name": "Hillman PGM Golf Artificial Turf 1.2m Practice Mat with Rubber Tee",
-   "price": "£29.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2026/02/products-djd202.jpg",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-pgm-golf-artificial-turf-1-2m-practice-mat-with-rubber-tee%2F"
+   "name": "Srixon Soft Feel Golf Balls",
+   "price": "",
+   "image": "",
+   "brand": "Srixon",
+   "icon": "golfball",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0DSJN58C2?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "hillman-1-25m-turf-mat",
+   "id": "amazon-B0DPN7QZ9R",
    "category": "golf",
-   "name": "Hillman PGM Golf Artificial Turf 1.25m Practice Mat with Rubber Tee",
-   "price": "£49.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2020/06/products-djd-002-00.png",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-pgm-golf-artificial-turf-large-practice-mat-with-rubber-tee%2F"
+   "name": "Titleist Pro V1 Golf Balls (12 Pack)",
+   "price": "",
+   "image": "",
+   "brand": "Titleist",
+   "icon": "golfball",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0DPN7QZ9R?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "hillman-1-5m-deluxe-mat",
+   "id": "amazon-B0F4WHG2XJ",
    "category": "golf",
-   "name": "Hillman PGM Golf 1.5m Deluxe Practice Mat with Rubber Tee",
-   "price": "£89.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2024/10/products-djd002-main.jpg",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-golf-large-deluxe-turf-practice-mat-with-rubber-tee%2F"
+   "name": "Amazon Basics Men's Synthetic Golf Glove",
+   "price": "",
+   "image": "",
+   "brand": "Amazon Basics",
+   "icon": "glove",
+   "gender": "men",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0F4WHG2XJ?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "hillman-cage-target",
+   "id": "amazon-B0DTB3XTDT",
    "category": "golf",
-   "name": "Hillman PGM 3m Heavy Duty Golf Practice Cage & Net with Target",
-   "price": "£239.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2024/10/products-lxw001-main_1_1.jpg",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-pgm-3m-heavy-duty-golf-practice-cage-net-with-target%2F"
+   "name": "Callaway Syntech Men's Golf Glove",
+   "price": "",
+   "image": "",
+   "brand": "Callaway",
+   "icon": "glove",
+   "gender": "men",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0DTB3XTDT?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "hillman-cage-large-mat",
+   "id": "amazon-B00FG1IXC0",
    "category": "golf",
-   "name": "Hillman PGM 3m Golf Practice Cage and Large Deluxe Practice Mat Package",
-   "price": "£309.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2023/05/products-lxw001-035.jpg",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-pgm-3m-heavy-duty-golf-practice-cage-and-large-deluxe-practice-mat-package%2F"
+   "name": "Zero Friction Men's Compression Synthetic Golf Glove",
+   "price": "",
+   "image": "",
+   "brand": "Zero Friction",
+   "icon": "glove",
+   "gender": "men",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B00FG1IXC0?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "hillman-cage-mat-dispenser",
+   "id": "amazon-B0DTB2Z83X",
    "category": "golf",
-   "name": "Hillman PGM 3m Golf Practice Cage, Deluxe Mat and Ball Dispenser Package",
-   "price": "£419.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2023/05/products-lxw001-035-jq.jpg",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-pgm-3m-heavy-duty-golf-practice-cage-deluxe-practice-mat-with-tee-and-ball-dispenser-package%2F"
+   "name": "Callaway Syntech Women's Golf Glove",
+   "price": "",
+   "image": "",
+   "brand": "Callaway",
+   "icon": "glove",
+   "gender": "women",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0DTB2Z83X?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "hillman-simulator-8x7",
+   "id": "amazon-B085KYC6B9",
    "category": "golf",
-   "name": "Hillman Golf Simulator Enclosure 8ft x 7ft 5in",
-   "price": "From £349.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2026/06/products-hqdefault_14_7.jpg",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-golf-simulator-enclosure-8ft-x-7ft-5inch%2F"
+   "name": "Finger Ten Women's All Weather Golf Glove",
+   "price": "",
+   "image": "",
+   "brand": "Finger Ten",
+   "icon": "glove",
+   "gender": "women",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B085KYC6B9?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "hillman-simulator-10x8",
+   "id": "amazon-B00L2RHB8Y",
    "category": "golf",
-   "name": "Hillman Golf Simulator Enclosure 10ft x 8ft 6in",
-   "price": "From £399.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2026/06/products-golf-simulator1_1.jpg",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-golf-simulator-enclosure-10ft-x-8ft-6inch%2F"
+   "name": "Zero Friction Women's Compression Synthetic Golf Glove",
+   "price": "",
+   "image": "",
+   "brand": "Zero Friction",
+   "icon": "glove",
+   "gender": "women",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B00L2RHB8Y?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "hillman-simulator-12x8",
+   "id": "amazon-B0CPNBXP3N",
    "category": "golf",
-   "name": "Hillman Golf Simulator Enclosure 12ft x 8ft 6in",
-   "price": "From £449.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2026/06/products-golf-simulator2_1.jpg",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-golf-simulator-enclosure-12ft-x-8ft-6inch%2F"
+   "name": "adidas Codechaos 25 Men's Spikeless Golf Shoes",
+   "price": "",
+   "image": "",
+   "brand": "adidas",
+   "icon": "trainer",
+   "gender": "men",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0CPNBXP3N?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "hillman-simulator-13x10",
+   "id": "amazon-B0CXCPPCLC",
    "category": "golf",
-   "name": "Hillman Golf Simulator Enclosure 13ft x 10ft",
-   "price": "From £549.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2026/06/products-enclosure-6_3.jpg",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-golf-simulator-enclosure-13ft-x-10ft%2F"
+   "name": "Skechers Flight Slip-Ins Men's Golf Shoes",
+   "price": "",
+   "image": "",
+   "brand": "Skechers",
+   "icon": "trainer",
+   "gender": "men",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0CXCPPCLC?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "hillman-electric-trolley",
+   "id": "amazon-B0D5LZQS28",
    "category": "golf",
-   "name": "Hillman 36 Hole Lithium Electric Golf Trolley – Black",
-   "price": "£299.95",
-   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/04/products-black-15_1_1.jpg",
-   "retailer": "Sport and Leisure UK",
-   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-caddie-black-electric-golf-trolley%2F"
+   "name": "adidas Codechaos 25 Women's Spikeless Golf Shoes",
+   "price": "",
+   "image": "",
+   "brand": "adidas",
+   "icon": "trainer",
+   "gender": "women",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0D5LZQS28?tag=veganathlet01-21&linkCode=ll2"
   },
   {
    "id": "bestway-white-cap-10ft",
@@ -3333,40 +3372,39 @@
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fportable-pop-up-ball-caddy.html"
   },
   {
-   "id": "nws-portable-golf-practice-net",
+   "id": "amazon-B0BTG4K8V4",
    "category": "golf",
-   "name": "FORZA Tour Portable Golf Practice Net",
-   "price": "£199.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza_pop_up_golf_practise_net_main.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fportable-golf-practice-net.html"
+   "name": "Skechers Max Fairway 4 Women's Golf Shoes",
+   "price": "",
+   "image": "",
+   "brand": "Skechers",
+   "icon": "trainer",
+   "gender": "women",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0BTG4K8V4?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "nws-pro-golf-practice-net-wall-auto-return",
+   "id": "amazon-B0D951J3HF",
    "category": "golf",
-   "name": "FORZA Pro Golf Practice Net Return Wall",
-   "price": "From £199.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-pro-golf-net-return-wall_main.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fpro-golf-practice-net-wall-auto-return.html"
+   "name": "Skechers Jasmine Women's Waterproof Golf Shoes",
+   "price": "",
+   "image": "",
+   "brand": "Skechers",
+   "icon": "trainer",
+   "gender": "women",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0D951J3HF?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "nws-golf-tee-turf-mat",
+   "id": "amazon-B0CN7B59Q5",
    "category": "golf",
-   "name": "FORZA Golf Tee Turf Mat",
-   "price": "From £99.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-ptt2-turf_main.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fgolf-tee-turf-mat.html"
-  },
-  {
-   "id": "nws-golf-fairway-mat",
-   "category": "golf",
-   "name": "FORZA Golf Fairway Mat",
-   "price": "£6.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-winter-fairway-mat_main.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fgolf-fairway-mat.html"
+   "name": "Callaway X-Series Golf Bag",
+   "price": "",
+   "image": "",
+   "brand": "Callaway",
+   "icon": "golfbag",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0CN7B59Q5?tag=veganathlet01-21&linkCode=ll2"
   },
   {
    "id": "nws-golf-stand-bag",
@@ -3378,6 +3416,28 @@
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fgolf-stand-bag.html"
   },
   {
+   "id": "amazon-B083FGLW2L",
+   "category": "golf",
+   "name": "MacGregor VIP Deluxe 14-Way Trolley Bag",
+   "price": "",
+   "image": "",
+   "brand": "MacGregor",
+   "icon": "golfbag",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B083FGLW2L?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
+   "id": "amazon-B07928934J",
+   "category": "golf",
+   "name": "TaylorMade Pro 6.0 Cart Bag",
+   "price": "",
+   "image": "",
+   "brand": "TaylorMade",
+   "icon": "golfbag",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B07928934J?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
    "id": "nws-3-wheel-golf-trolley",
    "category": "golf",
    "name": "FORZA Golf Trolley",
@@ -3387,22 +3447,13 @@
    "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2F3-wheel-golf-trolley.html"
   },
   {
-   "id": "nws-golf-range-finder",
+   "id": "hillman-electric-trolley",
    "category": "golf",
-   "name": "FORZA Golf Range Finder",
-   "price": "£54.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-range-finder_main_1.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fgolf-range-finder.html"
-  },
-  {
-   "id": "nws-pro-golf-brush",
-   "category": "golf",
-   "name": "FORZA Pro Golf Club Cleaning Brush",
-   "price": "£5.99",
-   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-spray-brush_main.jpg",
-   "retailer": "Net World Sports",
-   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fpro-golf-brush.html"
+   "name": "Hillman 36 Hole Lithium Electric Golf Trolley – Black",
+   "price": "£299.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2025/04/products-black-15_1_1.jpg",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-caddie-black-electric-golf-trolley%2F"
   },
   {
    "id": "sportsafe-54986",
@@ -6853,237 +6904,13 @@
    "url": "https://www.amazon.co.uk/dp/B06VY7QH5D?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "amazon-B0DTB3XTDT",
+   "id": "nws-golf-range-finder",
    "category": "golf",
-   "name": "Callaway Syntech Men's Golf Glove",
-   "price": "",
-   "image": "",
-   "brand": "Callaway",
-   "icon": "glove",
-   "gender": "men",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0DTB3XTDT?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B00FG1IXC0",
-   "category": "golf",
-   "name": "Zero Friction Men's Compression Synthetic Golf Glove",
-   "price": "",
-   "image": "",
-   "brand": "Zero Friction",
-   "icon": "glove",
-   "gender": "men",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B00FG1IXC0?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0F4WHG2XJ",
-   "category": "golf",
-   "name": "Amazon Basics Men's Synthetic Golf Glove",
-   "price": "",
-   "image": "",
-   "brand": "Amazon Basics",
-   "icon": "glove",
-   "gender": "men",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0F4WHG2XJ?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0CPNBXP3N",
-   "category": "golf",
-   "name": "adidas Codechaos 25 Men's Spikeless Golf Shoes",
-   "price": "",
-   "image": "",
-   "brand": "adidas",
-   "icon": "trainer",
-   "gender": "men",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0CPNBXP3N?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0CXCPPCLC",
-   "category": "golf",
-   "name": "Skechers Flight Slip-Ins Men's Golf Shoes",
-   "price": "",
-   "image": "",
-   "brand": "Skechers",
-   "icon": "trainer",
-   "gender": "men",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0CXCPPCLC?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B07H2HQJR5",
-   "category": "golf",
-   "name": "Callaway Strata Men's Golf Club Set",
-   "price": "",
-   "image": "",
-   "brand": "Callaway",
-   "icon": "golfclub",
-   "gender": "men",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B07H2HQJR5?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0DVMCNQDV",
-   "category": "golf",
-   "name": "Wilson Profile Men's Golf Half Set",
-   "price": "",
-   "image": "",
-   "brand": "Wilson",
-   "icon": "golfclub",
-   "gender": "men",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0DVMCNQDV?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0DTB2Z83X",
-   "category": "golf",
-   "name": "Callaway Syntech Women's Golf Glove",
-   "price": "",
-   "image": "",
-   "brand": "Callaway",
-   "icon": "glove",
-   "gender": "women",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0DTB2Z83X?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B00L2RHB8Y",
-   "category": "golf",
-   "name": "Zero Friction Women's Compression Synthetic Golf Glove",
-   "price": "",
-   "image": "",
-   "brand": "Zero Friction",
-   "icon": "glove",
-   "gender": "women",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B00L2RHB8Y?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B085KYC6B9",
-   "category": "golf",
-   "name": "Finger Ten Women's All Weather Golf Glove",
-   "price": "",
-   "image": "",
-   "brand": "Finger Ten",
-   "icon": "glove",
-   "gender": "women",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B085KYC6B9?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0D5LZQS28",
-   "category": "golf",
-   "name": "adidas Codechaos 25 Women's Spikeless Golf Shoes",
-   "price": "",
-   "image": "",
-   "brand": "adidas",
-   "icon": "trainer",
-   "gender": "women",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0D5LZQS28?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0BTG4K8V4",
-   "category": "golf",
-   "name": "Skechers Max Fairway 4 Women's Golf Shoes",
-   "price": "",
-   "image": "",
-   "brand": "Skechers",
-   "icon": "trainer",
-   "gender": "women",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0BTG4K8V4?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0D951J3HF",
-   "category": "golf",
-   "name": "Skechers Jasmine Women's Waterproof Golf Shoes",
-   "price": "",
-   "image": "",
-   "brand": "Skechers",
-   "icon": "trainer",
-   "gender": "women",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0D951J3HF?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0DPN7QZ9R",
-   "category": "golf",
-   "name": "Titleist Pro V1 Golf Balls (12 Pack)",
-   "price": "",
-   "image": "",
-   "brand": "Titleist",
-   "icon": "golfball",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0DPN7QZ9R?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0DHT5XZR1",
-   "category": "golf",
-   "name": "Callaway Supersoft Golf Balls",
-   "price": "",
-   "image": "",
-   "brand": "Callaway",
-   "icon": "golfball",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0DHT5XZR1?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0DSJN58C2",
-   "category": "golf",
-   "name": "Srixon Soft Feel Golf Balls",
-   "price": "",
-   "image": "",
-   "brand": "Srixon",
-   "icon": "golfball",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0DSJN58C2?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0CN7B59Q5",
-   "category": "golf",
-   "name": "Callaway X-Series Golf Bag",
-   "price": "",
-   "image": "",
-   "brand": "Callaway",
-   "icon": "golfbag",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0CN7B59Q5?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B07928934J",
-   "category": "golf",
-   "name": "TaylorMade Pro 6.0 Cart Bag",
-   "price": "",
-   "image": "",
-   "brand": "TaylorMade",
-   "icon": "golfbag",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B07928934J?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B083FGLW2L",
-   "category": "golf",
-   "name": "MacGregor VIP Deluxe 14-Way Trolley Bag",
-   "price": "",
-   "image": "",
-   "brand": "MacGregor",
-   "icon": "golfbag",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B083FGLW2L?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B075MDJ87H",
-   "category": "golf",
-   "name": "ACEIken Windproof Golf Umbrella",
-   "price": "",
-   "image": "",
-   "brand": "ACEIken",
-   "icon": "umbrella",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B075MDJ87H?tag=veganathlet01-21&linkCode=ll2"
+   "name": "FORZA Golf Range Finder",
+   "price": "£54.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-range-finder_main_1.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fgolf-range-finder.html"
   },
   {
    "id": "amazon-B0BVFP6KXC",
@@ -7097,26 +6924,15 @@
    "url": "https://www.amazon.co.uk/dp/B0BVFP6KXC?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "amazon-B0777137V2",
+   "id": "amazon-B075MDJ87H",
    "category": "golf",
-   "name": "PuttOUT Pro Golf Putting Mat",
+   "name": "ACEIken Windproof Golf Umbrella",
    "price": "",
    "image": "",
-   "brand": "PuttOUT",
-   "icon": "puttingmat",
+   "brand": "ACEIken",
+   "icon": "umbrella",
    "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0777137V2?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B000L0SMK4",
-   "category": "golf",
-   "name": "Longridge Putt 'N' Hazard Putting Mat",
-   "price": "",
-   "image": "",
-   "brand": "Longridge",
-   "icon": "puttingmat",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B000L0SMK4?tag=veganathlet01-21&linkCode=ll2"
+   "url": "https://www.amazon.co.uk/dp/B075MDJ87H?tag=veganathlet01-21&linkCode=ll2"
   },
   {
    "id": "amazon-B08FR3YH2S",
@@ -7130,17 +6946,6 @@
    "url": "https://www.amazon.co.uk/dp/B08FR3YH2S?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "amazon-B07Q386R6M",
-   "category": "golf",
-   "name": "Golf Divot Repair Tool with Ball Marker",
-   "price": "",
-   "image": "",
-   "brand": "Divot Tool",
-   "icon": "tee",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B07Q386R6M?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
    "id": "amazon-B00H4OACN0",
    "category": "golf",
    "name": "Callaway Trifold Golf Towel",
@@ -7152,6 +6957,17 @@
    "url": "https://www.amazon.co.uk/dp/B00H4OACN0?tag=veganathlet01-21&linkCode=ll2"
   },
   {
+   "id": "amazon-B07Q386R6M",
+   "category": "golf",
+   "name": "Golf Divot Repair Tool with Ball Marker",
+   "price": "",
+   "image": "",
+   "brand": "Divot Tool",
+   "icon": "tee",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B07Q386R6M?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
    "id": "amazon-B0D1KGPPD7",
    "category": "golf",
    "name": "Finger Ten Golf Club Head Covers",
@@ -7161,6 +6977,190 @@
    "icon": "golfbag",
    "retailer": "Amazon",
    "url": "https://www.amazon.co.uk/dp/B0D1KGPPD7?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
+   "id": "nws-pro-golf-brush",
+   "category": "golf",
+   "name": "FORZA Pro Golf Club Cleaning Brush",
+   "price": "£5.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-spray-brush_main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fpro-golf-brush.html"
+  },
+  {
+   "id": "amazon-B000L0SMK4",
+   "category": "golf",
+   "name": "Longridge Putt 'N' Hazard Putting Mat",
+   "price": "",
+   "image": "",
+   "brand": "Longridge",
+   "icon": "puttingmat",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B000L0SMK4?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
+   "id": "amazon-B0777137V2",
+   "category": "golf",
+   "name": "PuttOUT Pro Golf Putting Mat",
+   "price": "",
+   "image": "",
+   "brand": "PuttOUT",
+   "icon": "puttingmat",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0777137V2?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
+   "id": "nws-golf-tee-turf-mat",
+   "category": "golf",
+   "name": "FORZA Golf Tee Turf Mat",
+   "price": "From £99.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-ptt2-turf_main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fgolf-tee-turf-mat.html"
+  },
+  {
+   "id": "nws-golf-fairway-mat",
+   "category": "golf",
+   "name": "FORZA Golf Fairway Mat",
+   "price": "£6.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-winter-fairway-mat_main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fgolf-fairway-mat.html"
+  },
+  {
+   "id": "hillman-1-2m-turf-mat",
+   "category": "golf",
+   "name": "Hillman PGM Golf Artificial Turf 1.2m Practice Mat with Rubber Tee",
+   "price": "£29.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2026/02/products-djd202.jpg",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-pgm-golf-artificial-turf-1-2m-practice-mat-with-rubber-tee%2F"
+  },
+  {
+   "id": "hillman-1-25m-turf-mat",
+   "category": "golf",
+   "name": "Hillman PGM Golf Artificial Turf 1.25m Practice Mat with Rubber Tee",
+   "price": "£49.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2020/06/products-djd-002-00.png",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-pgm-golf-artificial-turf-large-practice-mat-with-rubber-tee%2F"
+  },
+  {
+   "id": "hillman-1-5m-deluxe-mat",
+   "category": "golf",
+   "name": "Hillman PGM Golf 1.5m Deluxe Practice Mat with Rubber Tee",
+   "price": "£89.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2024/10/products-djd002-main.jpg",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-golf-large-deluxe-turf-practice-mat-with-rubber-tee%2F"
+  },
+  {
+   "id": "nws-portable-golf-practice-net",
+   "category": "golf",
+   "name": "FORZA Tour Portable Golf Practice Net",
+   "price": "£199.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza_pop_up_golf_practise_net_main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fportable-golf-practice-net.html"
+  },
+  {
+   "id": "nws-pro-golf-practice-net-wall-auto-return",
+   "category": "golf",
+   "name": "FORZA Pro Golf Practice Net Return Wall",
+   "price": "From £199.99",
+   "image": "https://nwscdn.com/media/catalog/product/cache/hxw/f/o/forza-pro-golf-net-return-wall_main.jpg",
+   "retailer": "Net World Sports",
+   "url": "https://www.awin1.com/cread.php?awinmid=64226&awinaffid=3123983&ued=https%3A%2F%2Fwww.networldsports.co.uk%2Fpro-golf-practice-net-wall-auto-return.html"
+  },
+  {
+   "id": "hillman-pop-up-training-net",
+   "category": "golf",
+   "name": "Hillman PGM Portable Pop Up Golf Training Net",
+   "price": "£17.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2020/06/products-lxw-005-05.png",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-pgm-portable-pop-up-golf-training-net%2F"
+  },
+  {
+   "id": "hillman-steel-chipping-net",
+   "category": "golf",
+   "name": "Hillman PGM Steel Framed Golf Chipping Net",
+   "price": "£22.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2020/06/products-lxw-003-4.png",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-pgm-steel-framed-golf-chipping-net%2F"
+  },
+  {
+   "id": "hillman-3m-deluxe-practice-net",
+   "category": "golf",
+   "name": "Hillman Golf 3m Deluxe Portable Practice Net",
+   "price": "£59.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2021/08/products-gcn-007-_2_.png",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-golf-3m-deluxe-portable-practice-net%2F"
+  },
+  {
+   "id": "hillman-cage-target",
+   "category": "golf",
+   "name": "Hillman PGM 3m Heavy Duty Golf Practice Cage & Net with Target",
+   "price": "£239.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2024/10/products-lxw001-main_1_1.jpg",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-pgm-3m-heavy-duty-golf-practice-cage-net-with-target%2F"
+  },
+  {
+   "id": "hillman-cage-large-mat",
+   "category": "golf",
+   "name": "Hillman PGM 3m Golf Practice Cage and Large Deluxe Practice Mat Package",
+   "price": "£309.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2023/05/products-lxw001-035.jpg",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-pgm-3m-heavy-duty-golf-practice-cage-and-large-deluxe-practice-mat-package%2F"
+  },
+  {
+   "id": "hillman-cage-mat-dispenser",
+   "category": "golf",
+   "name": "Hillman PGM 3m Golf Practice Cage, Deluxe Mat and Ball Dispenser Package",
+   "price": "£419.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2023/05/products-lxw001-035-jq.jpg",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-pgm-3m-heavy-duty-golf-practice-cage-deluxe-practice-mat-with-tee-and-ball-dispenser-package%2F"
+  },
+  {
+   "id": "hillman-simulator-8x7",
+   "category": "golf",
+   "name": "Hillman Golf Simulator Enclosure 8ft x 7ft 5in",
+   "price": "From £349.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2026/06/products-hqdefault_14_7.jpg",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-golf-simulator-enclosure-8ft-x-7ft-5inch%2F"
+  },
+  {
+   "id": "hillman-simulator-10x8",
+   "category": "golf",
+   "name": "Hillman Golf Simulator Enclosure 10ft x 8ft 6in",
+   "price": "From £399.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2026/06/products-golf-simulator1_1.jpg",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-golf-simulator-enclosure-10ft-x-8ft-6inch%2F"
+  },
+  {
+   "id": "hillman-simulator-12x8",
+   "category": "golf",
+   "name": "Hillman Golf Simulator Enclosure 12ft x 8ft 6in",
+   "price": "From £449.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2026/06/products-golf-simulator2_1.jpg",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-golf-simulator-enclosure-12ft-x-8ft-6inch%2F"
+  },
+  {
+   "id": "hillman-simulator-13x10",
+   "category": "golf",
+   "name": "Hillman Golf Simulator Enclosure 13ft x 10ft",
+   "price": "From £549.95",
+   "image": "https://www.sportandleisureuk.com/wp-content/uploads/2026/06/products-enclosure-6_3.jpg",
+   "retailer": "Sport and Leisure UK",
+   "url": "https://www.awin1.com/cread.php?awinmid=1463&awinaffid=3123983&ued=https%3A%2F%2Fwww.sportandleisureuk.com%2Fproduct%2Fhillman-golf-simulator-enclosure-13ft-x-10ft%2F"
   },
   {
    "id": "amazon-B08C9KV19H",
