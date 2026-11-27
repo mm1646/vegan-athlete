@@ -895,28 +895,16 @@
    "url": "https://www.amazon.co.uk/dp/B0CPN28P2S?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "salomon-l47453200",
+   "id": "amazon-B08BX1NRY1",
    "category": "hiking",
-   "name": "Salomon X Ultra 360 GTX Men's Hiking Shoes",
-   "price": "£140",
-   "image": "https://cdn.dam.salomon.com/0815240d-6e0b-49a4-b1d9-b2f400cf55ac/L47453200/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
-   "brand": "Salomon",
-   "icon": "trainer",
-   "retailer": "Salomon",
-   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fx-ultra-360-gore-tex-li5205%2FL47453200",
-   "gender": "men"
-  },
-  {
-   "id": "salomon-l49223700",
-   "category": "hiking",
-   "name": "Salomon X Ultra 360 Edge Men's Hiking Shoes",
-   "price": "£125",
-   "image": "https://cdn.dam.salomon.com/1224fde2-6beb-4a7c-91a7-b37800ccc1a6/L49223700/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
-   "brand": "Salomon",
-   "icon": "trainer",
-   "retailer": "Salomon",
-   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fx-ultra-360-edge-li5214%2FL49223700",
-   "gender": "men"
+   "name": "adidas Terrex Swift R3 Mid GTX Men's Hiking Boots",
+   "price": "",
+   "image": "",
+   "brand": "adidas",
+   "icon": "hikingboot",
+   "gender": "men",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B08BX1NRY1?tag=veganathlet01-21&linkCode=ll2"
   },
   {
    "id": "salomon-l49223300",
@@ -943,6 +931,66 @@
    "gender": "men"
   },
   {
+   "id": "amazon-B0CQS2NMJ5",
+   "category": "hiking",
+   "name": "Inov-8 Roclite GTX Men's Hiking Shoes",
+   "price": "",
+   "image": "",
+   "brand": "Inov-8",
+   "icon": "trainer",
+   "gender": "men",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0CQS2NMJ5?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
+   "id": "amazon-B07M6W34GZ",
+   "category": "hiking",
+   "name": "La Sportiva Spire GTX Men's Hiking Shoes",
+   "price": "",
+   "image": "",
+   "brand": "La Sportiva",
+   "icon": "trainer",
+   "gender": "men",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B07M6W34GZ?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
+   "id": "amazon-B09WZXJBBS",
+   "category": "hiking",
+   "name": "La Sportiva Ultra Raptor II GTX Men's Hiking Shoes",
+   "price": "",
+   "image": "",
+   "brand": "La Sportiva",
+   "icon": "trainer",
+   "gender": "men",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B09WZXJBBS?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
+   "id": "salomon-l47453200",
+   "category": "hiking",
+   "name": "Salomon X Ultra 360 GTX Men's Hiking Shoes",
+   "price": "£140",
+   "image": "https://cdn.dam.salomon.com/0815240d-6e0b-49a4-b1d9-b2f400cf55ac/L47453200/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
+   "brand": "Salomon",
+   "icon": "trainer",
+   "retailer": "Salomon",
+   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fx-ultra-360-gore-tex-li5205%2FL47453200",
+   "gender": "men"
+  },
+  {
+   "id": "salomon-l49223700",
+   "category": "hiking",
+   "name": "Salomon X Ultra 360 Edge Men's Hiking Shoes",
+   "price": "£125",
+   "image": "https://cdn.dam.salomon.com/1224fde2-6beb-4a7c-91a7-b37800ccc1a6/L49223700/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
+   "brand": "Salomon",
+   "icon": "trainer",
+   "retailer": "Salomon",
+   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fx-ultra-360-edge-li5214%2FL49223700",
+   "gender": "men"
+  },
+  {
    "id": "salomon-l47677300",
    "category": "hiking",
    "name": "Salomon Crosstrak Waterproof Men's Hiking Shoes",
@@ -955,40 +1003,40 @@
    "gender": "men"
   },
   {
-   "id": "salomon-l47726300",
+   "id": "amazon-B01HD6R9RK",
    "category": "hiking",
-   "name": "Salomon X Ultra 5 GTX Women's Hiking Shoes",
-   "price": "£120",
-   "image": "https://cdn.dam.salomon.com/de659d00-6577-4100-8ca2-b2f4009178e0/L47726300/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
+   "name": "Salomon XA Pro 3D GTX Men's Hiking Shoes",
+   "price": "",
+   "image": "",
    "brand": "Salomon",
    "icon": "trainer",
-   "retailer": "Salomon",
-   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fx-ultra-5-gore-tex-li6286%2FL47726300",
-   "gender": "women"
+   "gender": "men",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B01HD6R9RK?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "salomon-l49102300",
+   "id": "amazon-B09N3N9J86",
    "category": "hiking",
-   "name": "Salomon X Ultra 360 GTX Women's Hiking Shoes",
-   "price": "£140",
-   "image": "https://cdn.dam.salomon.com/0c12ca85-6d1e-49e5-b401-b31b00bab1e9/L49102300/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
+   "name": "Salomon X Ultra Pioneer GTX Men's Hiking Shoes",
+   "price": "",
+   "image": "",
    "brand": "Salomon",
    "icon": "trainer",
-   "retailer": "Salomon",
-   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fx-ultra-360-gore-tex-li5206%2FL49102300",
-   "gender": "women"
+   "gender": "men",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B09N3N9J86?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "salomon-l49223900",
+   "id": "amazon-B0FH37GM1C",
    "category": "hiking",
-   "name": "Salomon X Ultra 360 Edge Women's Hiking Shoes",
-   "price": "£125",
-   "image": "https://cdn.dam.salomon.com/b12cefd3-df5e-4a2d-b9b4-b37800d17b3a/L49223900/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
+   "name": "Salomon X Ultra 5 GTX Men's Hiking Shoes",
+   "price": "",
+   "image": "",
    "brand": "Salomon",
    "icon": "trainer",
-   "retailer": "Salomon",
-   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fx-ultra-360-edge-li5215%2FL49223900",
-   "gender": "women"
+   "gender": "men",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0FH37GM1C?tag=veganathlet01-21&linkCode=ll2"
   },
   {
    "id": "salomon-l49223500",
@@ -1013,52 +1061,6 @@
    "retailer": "Salomon",
    "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fshelter-waterproof-li8153%2FL47855200",
    "gender": "women"
-  },
-  {
-   "id": "salomon-l47862100",
-   "category": "hiking",
-   "name": "Salomon Crosstrak Waterproof Women's Hiking Shoes",
-   "price": "£180",
-   "image": "https://cdn.dam.salomon.com/f70f93b7-4276-412b-93f5-b2f30142b356/L47862100/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
-   "brand": "Salomon",
-   "icon": "trainer",
-   "retailer": "Salomon",
-   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fcrosstrak-waterproof-li5837%2FL47862100",
-   "gender": "women"
-  },
-  {
-   "id": "salomon-l45395900",
-   "category": "hiking",
-   "name": "Salomon X Ultra 360 Mid GTX Women's Hiking Boots",
-   "price": "£150",
-   "image": "https://cdn.dam.salomon.com/5142b465-8b8b-40f4-9ef0-b37800cde7c1/L45395900/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
-   "brand": "Salomon",
-   "icon": "hikingboot",
-   "retailer": "Salomon",
-   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fx-ultra-360-mid-gore-tex-li5208%2FL45395900",
-   "gender": "women"
-  },
-  {
-   "id": "salomon-lc2856100",
-   "category": "hiking",
-   "name": "Salomon Trailblazer 30 Hiking Backpack",
-   "price": "£90",
-   "image": "https://cdn.dam.salomon.com/04891db4-7665-4686-97bb-b340008c6e66/LC2856100/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
-   "brand": "Salomon",
-   "icon": "backpack",
-   "retailer": "Salomon",
-   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Ftrailblazer-30-lc12608%2FLC2856100"
-  },
-  {
-   "id": "salomon-lc2858300",
-   "category": "hiking",
-   "name": "Salomon XT 15 Hiking Backpack",
-   "price": "£80",
-   "image": "https://cdn.dam.salomon.com/94818afd-e66d-41b3-8be4-b340008c8464/LC2858300/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
-   "brand": "Salomon",
-   "icon": "backpack",
-   "retailer": "Salomon",
-   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fxt-15-lc14293%2FLC2858300"
   },
   {
    "id": "amazon-B0FGQSGZC3",
@@ -5175,58 +5177,76 @@
    "url": "https://www.awin1.com/cread.php?awinmid=5606&awinaffid=3123983&ued=https%3A%2F%2Fwww.jtxfitness.com%2Fproducts%2Fpolar-h10-heart-rate-sensor"
   },
   {
-   "id": "didriksons-adam-jacket-506250-black",
+   "id": "salomon-l45395900",
    "category": "hiking",
-   "name": "Didriksons Adam Waterproof Jacket",
-   "price": "£210",
-   "image": "https://media.enad.io/a06f57a7-3a95-43fc-9657-955aab5a9ebb/JGLFcs-xCJrCF.jpeg",
-   "retailer": "Didriksons",
-   "url": "https://www.awin1.com/cread.php?awinmid=127569&awinaffid=3123983&ued=https%3A%2F%2Fwww.didriksons.com%2Fuk%2Fp%2Fadam-jacket-506250-black"
+   "name": "Salomon X Ultra 360 Mid GTX Women's Hiking Boots",
+   "price": "£150",
+   "image": "https://cdn.dam.salomon.com/5142b465-8b8b-40f4-9ef0-b37800cde7c1/L45395900/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
+   "brand": "Salomon",
+   "icon": "hikingboot",
+   "retailer": "Salomon",
+   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fx-ultra-360-mid-gore-tex-li5208%2FL45395900",
+   "gender": "women"
   },
   {
-   "id": "didriksons-karix-jacket-506293-ash-brown",
+   "id": "amazon-B0F2G8LQXJ",
    "category": "hiking",
-   "name": "Didriksons Karix Padded Jacket",
-   "price": "£130",
-   "image": "https://media.enad.io/a06f57a7-3a95-43fc-9657-955aab5a9ebb/k8t9ot-0r5rcy-Ash_Brown.jpg",
-   "retailer": "Didriksons",
-   "url": "https://www.awin1.com/cread.php?awinmid=127569&awinaffid=3123983&ued=https%3A%2F%2Fwww.didriksons.com%2Fuk%2Fp%2Fkarix-jacket-506293-ash-brown"
+   "name": "adidas Terrex Eastrail 3 Women's Hiking Shoes",
+   "price": "",
+   "image": "",
+   "brand": "adidas",
+   "icon": "trainer",
+   "gender": "women",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0F2G8LQXJ?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "didriksons-grit-unisex-rain-pants-504688-coal-black",
+   "id": "amazon-B0CNNPGL7X",
    "category": "hiking",
-   "name": "Didriksons Grit Unisex Rain Trousers",
-   "price": "£65",
-   "image": "https://media.enad.io/a06f57a7-3a95-43fc-9657-955aab5a9ebb/QWUBgR-XfCTAk.jpeg",
-   "retailer": "Didriksons",
-   "url": "https://www.awin1.com/cread.php?awinmid=127569&awinaffid=3123983&ued=https%3A%2F%2Fwww.didriksons.com%2Fuk%2Fp%2Fgrit-unisex-rain-pants-504688-coal-black"
+   "name": "Merrell Moab Speed 2 GTX Women's Hiking Shoes",
+   "price": "",
+   "image": "",
+   "brand": "Merrell",
+   "icon": "trainer",
+   "gender": "women",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0CNNPGL7X?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "didriksons-grit-men-s-pants-506179-black",
+   "id": "salomon-l47726300",
    "category": "hiking",
-   "name": "Didriksons Grit Men's Rain Trousers",
-   "price": "£65",
-   "image": "https://media.enad.io/a06f57a7-3a95-43fc-9657-955aab5a9ebb/ovquzw-jk0523-Black.jpg",
-   "retailer": "Didriksons",
-   "url": "https://www.awin1.com/cread.php?awinmid=127569&awinaffid=3123983&ued=https%3A%2F%2Fwww.didriksons.com%2Fuk%2Fp%2Fgrit-men-s-pants-506179-black"
+   "name": "Salomon X Ultra 5 GTX Women's Hiking Shoes",
+   "price": "£120",
+   "image": "https://cdn.dam.salomon.com/de659d00-6577-4100-8ca2-b2f4009178e0/L47726300/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
+   "brand": "Salomon",
+   "icon": "trainer",
+   "retailer": "Salomon",
+   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fx-ultra-5-gore-tex-li6286%2FL47726300",
+   "gender": "women"
   },
   {
-   "id": "didriksons-grit-women-s-pants-506180-black",
+   "id": "salomon-l49102300",
    "category": "hiking",
-   "name": "Didriksons Grit Women's Rain Trousers",
-   "price": "£65",
-   "image": "https://media.enad.io/a06f57a7-3a95-43fc-9657-955aab5a9ebb/khfpin-ip738n-Black.jpg",
-   "retailer": "Didriksons",
-   "url": "https://www.awin1.com/cread.php?awinmid=127569&awinaffid=3123983&ued=https%3A%2F%2Fwww.didriksons.com%2Fuk%2Fp%2Fgrit-women-s-pants-506180-black"
+   "name": "Salomon X Ultra 360 GTX Women's Hiking Shoes",
+   "price": "£140",
+   "image": "https://cdn.dam.salomon.com/0c12ca85-6d1e-49e5-b401-b31b00bab1e9/L49102300/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
+   "brand": "Salomon",
+   "icon": "trainer",
+   "retailer": "Salomon",
+   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fx-ultra-360-gore-tex-li5206%2FL49102300",
+   "gender": "women"
   },
   {
-   "id": "didriksons-nordic-men-s-pants-505915-black",
+   "id": "salomon-l49223900",
    "category": "hiking",
-   "name": "Didriksons Nordic Men's Rain Trousers",
-   "price": "£65",
-   "image": "https://media.enad.io/a06f57a7-3a95-43fc-9657-955aab5a9ebb/k722l0-ttmr5y-Black.jpg",
-   "retailer": "Didriksons",
-   "url": "https://www.awin1.com/cread.php?awinmid=127569&awinaffid=3123983&ued=https%3A%2F%2Fwww.didriksons.com%2Fuk%2Fp%2Fnordic-men-s-pants-505915-black"
+   "name": "Salomon X Ultra 360 Edge Women's Hiking Shoes",
+   "price": "£125",
+   "image": "https://cdn.dam.salomon.com/b12cefd3-df5e-4a2d-b9b4-b37800d17b3a/L49223900/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
+   "brand": "Salomon",
+   "icon": "trainer",
+   "retailer": "Salomon",
+   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fx-ultra-360-edge-li5215%2FL49223900",
+   "gender": "women"
   },
   {
    "id": "amazon-B0F8V45258",
@@ -9863,100 +9883,61 @@
    "url": "https://www.amazon.co.uk/dp/B0C9ZQMVNT?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "amazon-B01HD6R9RK",
+   "id": "salomon-l47862100",
    "category": "hiking",
-   "name": "Salomon XA Pro 3D GTX Men's Hiking Shoes",
+   "name": "Salomon Crosstrak Waterproof Women's Hiking Shoes",
+   "price": "£180",
+   "image": "https://cdn.dam.salomon.com/f70f93b7-4276-412b-93f5-b2f30142b356/L47862100/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
+   "brand": "Salomon",
+   "icon": "trainer",
+   "retailer": "Salomon",
+   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fcrosstrak-waterproof-li5837%2FL47862100",
+   "gender": "women"
+  },
+  {
+   "id": "amazon-B09N3N64YB",
+   "category": "hiking",
+   "name": "Salomon X Ultra Pioneer GTX Women's Hiking Shoes",
    "price": "",
    "image": "",
    "brand": "Salomon",
    "icon": "trainer",
-   "gender": "men",
+   "gender": "women",
    "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B01HD6R9RK?tag=veganathlet01-21&linkCode=ll2"
+   "url": "https://www.amazon.co.uk/dp/B09N3N64YB?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "amazon-B09N3N9J86",
+   "id": "amazon-B076BDJSX9",
    "category": "hiking",
-   "name": "Salomon X Ultra Pioneer GTX Men's Hiking Shoes",
+   "name": "Salomon XA Pro 3D Women's Trail Shoes",
    "price": "",
    "image": "",
    "brand": "Salomon",
    "icon": "trainer",
-   "gender": "men",
+   "gender": "women",
    "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B09N3N9J86?tag=veganathlet01-21&linkCode=ll2"
+   "url": "https://www.amazon.co.uk/dp/B076BDJSX9?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "amazon-B08BX1NRY1",
+   "id": "amazon-B01HD2WUE6",
    "category": "hiking",
-   "name": "adidas Terrex Swift R3 Mid GTX Men's Hiking Boots",
-   "price": "",
-   "image": "",
-   "brand": "adidas",
-   "icon": "hikingboot",
-   "gender": "men",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B08BX1NRY1?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B07M6W34GZ",
-   "category": "hiking",
-   "name": "La Sportiva Spire GTX Men's Hiking Shoes",
-   "price": "",
-   "image": "",
-   "brand": "La Sportiva",
-   "icon": "trainer",
-   "gender": "men",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B07M6W34GZ?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B08MT73TQF",
-   "category": "hiking",
-   "name": "Osprey Talon 22 Men's Hiking Backpack",
-   "price": "",
-   "image": "",
-   "brand": "Osprey",
-   "icon": "backpack",
-   "gender": "men",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B08MT73TQF?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0FH37GM1C",
-   "category": "hiking",
-   "name": "Salomon X Ultra 5 GTX Men's Hiking Shoes",
+   "name": "Salomon XA Pro 3D GTX Women's Trail Shoes",
    "price": "",
    "image": "",
    "brand": "Salomon",
    "icon": "trainer",
-   "gender": "men",
+   "gender": "women",
    "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0FH37GM1C?tag=veganathlet01-21&linkCode=ll2"
+   "url": "https://www.amazon.co.uk/dp/B01HD2WUE6?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "amazon-B09WZXJBBS",
+   "id": "didriksons-adam-jacket-506250-black",
    "category": "hiking",
-   "name": "La Sportiva Ultra Raptor II GTX Men's Hiking Shoes",
-   "price": "",
-   "image": "",
-   "brand": "La Sportiva",
-   "icon": "trainer",
-   "gender": "men",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B09WZXJBBS?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0CQS2NMJ5",
-   "category": "hiking",
-   "name": "Inov-8 Roclite GTX Men's Hiking Shoes",
-   "price": "",
-   "image": "",
-   "brand": "Inov-8",
-   "icon": "trainer",
-   "gender": "men",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0CQS2NMJ5?tag=veganathlet01-21&linkCode=ll2"
+   "name": "Didriksons Adam Waterproof Jacket",
+   "price": "£210",
+   "image": "https://media.enad.io/a06f57a7-3a95-43fc-9657-955aab5a9ebb/JGLFcs-xCJrCF.jpeg",
+   "retailer": "Didriksons",
+   "url": "https://www.awin1.com/cread.php?awinmid=127569&awinaffid=3123983&ued=https%3A%2F%2Fwww.didriksons.com%2Fuk%2Fp%2Fadam-jacket-506250-black"
   },
   {
    "id": "amazon-B082YD827S",
@@ -9971,6 +9952,39 @@
    "url": "https://www.amazon.co.uk/dp/B082YD827S?tag=veganathlet01-21&linkCode=ll2"
   },
   {
+   "id": "amazon-B0CPGJS96L",
+   "category": "hiking",
+   "name": "Columbia Pouring Adventure III Women's Rain Jacket",
+   "price": "",
+   "image": "",
+   "brand": "Columbia",
+   "icon": "jacket",
+   "gender": "women",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0CPGJS96L?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
+   "id": "amazon-B0DLQK5637",
+   "category": "hiking",
+   "name": "Columbia Arcadia 2 Women's Rain Jacket",
+   "price": "",
+   "image": "",
+   "brand": "Columbia",
+   "icon": "jacket",
+   "gender": "women",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0DLQK5637?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
+   "id": "didriksons-karix-jacket-506293-ash-brown",
+   "category": "hiking",
+   "name": "Didriksons Karix Padded Jacket",
+   "price": "£130",
+   "image": "https://media.enad.io/a06f57a7-3a95-43fc-9657-955aab5a9ebb/k8t9ot-0r5rcy-Ash_Brown.jpg",
+   "retailer": "Didriksons",
+   "url": "https://www.awin1.com/cread.php?awinmid=127569&awinaffid=3123983&ued=https%3A%2F%2Fwww.didriksons.com%2Fuk%2Fp%2Fkarix-jacket-506293-ash-brown"
+  },
+  {
    "id": "amazon-B0B5B169LN",
    "category": "hiking",
    "name": "Regatta Helfa Men's Synthetic Insulated Jacket",
@@ -9983,6 +9997,18 @@
    "url": "https://www.amazon.co.uk/dp/B0B5B169LN?tag=veganathlet01-21&linkCode=ll2"
   },
   {
+   "id": "amazon-B0CV5PRHF1",
+   "category": "hiking",
+   "name": "Regatta Hillpack II Women's Synthetic Insulated Jacket",
+   "price": "",
+   "image": "",
+   "brand": "Regatta",
+   "icon": "jacket",
+   "gender": "women",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0CV5PRHF1?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
    "id": "amazon-B0F3Y37CKR",
    "category": "hiking",
    "name": "Berghaus Prism Polartec Men's Fleece Jacket",
@@ -9993,6 +10019,54 @@
    "gender": "men",
    "retailer": "Amazon",
    "url": "https://www.amazon.co.uk/dp/B0F3Y37CKR?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
+   "id": "amazon-B003NX8CME",
+   "category": "hiking",
+   "name": "Columbia Benton Springs Women's Fleece",
+   "price": "",
+   "image": "",
+   "brand": "Columbia",
+   "icon": "jacket",
+   "gender": "women",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B003NX8CME?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
+   "id": "didriksons-grit-unisex-rain-pants-504688-coal-black",
+   "category": "hiking",
+   "name": "Didriksons Grit Unisex Rain Trousers",
+   "price": "£65",
+   "image": "https://media.enad.io/a06f57a7-3a95-43fc-9657-955aab5a9ebb/QWUBgR-XfCTAk.jpeg",
+   "retailer": "Didriksons",
+   "url": "https://www.awin1.com/cread.php?awinmid=127569&awinaffid=3123983&ued=https%3A%2F%2Fwww.didriksons.com%2Fuk%2Fp%2Fgrit-unisex-rain-pants-504688-coal-black"
+  },
+  {
+   "id": "didriksons-grit-men-s-pants-506179-black",
+   "category": "hiking",
+   "name": "Didriksons Grit Men's Rain Trousers",
+   "price": "£65",
+   "image": "https://media.enad.io/a06f57a7-3a95-43fc-9657-955aab5a9ebb/ovquzw-jk0523-Black.jpg",
+   "retailer": "Didriksons",
+   "url": "https://www.awin1.com/cread.php?awinmid=127569&awinaffid=3123983&ued=https%3A%2F%2Fwww.didriksons.com%2Fuk%2Fp%2Fgrit-men-s-pants-506179-black"
+  },
+  {
+   "id": "didriksons-nordic-men-s-pants-505915-black",
+   "category": "hiking",
+   "name": "Didriksons Nordic Men's Rain Trousers",
+   "price": "£65",
+   "image": "https://media.enad.io/a06f57a7-3a95-43fc-9657-955aab5a9ebb/k722l0-ttmr5y-Black.jpg",
+   "retailer": "Didriksons",
+   "url": "https://www.awin1.com/cread.php?awinmid=127569&awinaffid=3123983&ued=https%3A%2F%2Fwww.didriksons.com%2Fuk%2Fp%2Fnordic-men-s-pants-505915-black"
+  },
+  {
+   "id": "didriksons-grit-women-s-pants-506180-black",
+   "category": "hiking",
+   "name": "Didriksons Grit Women's Rain Trousers",
+   "price": "£65",
+   "image": "https://media.enad.io/a06f57a7-3a95-43fc-9657-955aab5a9ebb/khfpin-ip738n-Black.jpg",
+   "retailer": "Didriksons",
+   "url": "https://www.awin1.com/cread.php?awinmid=127569&awinaffid=3123983&ued=https%3A%2F%2Fwww.didriksons.com%2Fuk%2Fp%2Fgrit-women-s-pants-506180-black"
   },
   {
    "id": "amazon-B0DYDRK44H",
@@ -10043,124 +10117,26 @@
    "url": "https://www.amazon.co.uk/dp/B07BKZHC6S?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "amazon-B09N3N64YB",
+   "id": "amazon-B000V59CX0",
    "category": "hiking",
-   "name": "Salomon X Ultra Pioneer GTX Women's Hiking Shoes",
+   "name": "Thorlos Maximum Cushion Crew Hiking Socks",
    "price": "",
    "image": "",
-   "brand": "Salomon",
-   "icon": "trainer",
-   "gender": "women",
+   "brand": "Thorlos",
+   "icon": "socks",
    "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B09N3N64YB?tag=veganathlet01-21&linkCode=ll2"
+   "url": "https://www.amazon.co.uk/dp/B000V59CX0?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "amazon-B076BDJSX9",
+   "id": "amazon-B07SNSD7HS",
    "category": "hiking",
-   "name": "Salomon XA Pro 3D Women's Trail Shoes",
+   "name": "Thorlos Thick Padded Hiking Socks (3 Pack)",
    "price": "",
    "image": "",
-   "brand": "Salomon",
-   "icon": "trainer",
-   "gender": "women",
+   "brand": "Thorlos",
+   "icon": "socks",
    "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B076BDJSX9?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0F2G8LQXJ",
-   "category": "hiking",
-   "name": "adidas Terrex Eastrail 3 Women's Hiking Shoes",
-   "price": "",
-   "image": "",
-   "brand": "adidas",
-   "icon": "trainer",
-   "gender": "women",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0F2G8LQXJ?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0DSCQF6QH",
-   "category": "hiking",
-   "name": "Osprey Tempest 22 Women's Hiking Backpack",
-   "price": "",
-   "image": "",
-   "brand": "Osprey",
-   "icon": "backpack",
-   "gender": "women",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0DSCQF6QH?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0CNNPGL7X",
-   "category": "hiking",
-   "name": "Merrell Moab Speed 2 GTX Women's Hiking Shoes",
-   "price": "",
-   "image": "",
-   "brand": "Merrell",
-   "icon": "trainer",
-   "gender": "women",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0CNNPGL7X?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B01HD2WUE6",
-   "category": "hiking",
-   "name": "Salomon XA Pro 3D GTX Women's Trail Shoes",
-   "price": "",
-   "image": "",
-   "brand": "Salomon",
-   "icon": "trainer",
-   "gender": "women",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B01HD2WUE6?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0CPGJS96L",
-   "category": "hiking",
-   "name": "Columbia Pouring Adventure III Women's Rain Jacket",
-   "price": "",
-   "image": "",
-   "brand": "Columbia",
-   "icon": "jacket",
-   "gender": "women",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0CPGJS96L?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0DLQK5637",
-   "category": "hiking",
-   "name": "Columbia Arcadia 2 Women's Rain Jacket",
-   "price": "",
-   "image": "",
-   "brand": "Columbia",
-   "icon": "jacket",
-   "gender": "women",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0DLQK5637?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0CV5PRHF1",
-   "category": "hiking",
-   "name": "Regatta Hillpack II Women's Synthetic Insulated Jacket",
-   "price": "",
-   "image": "",
-   "brand": "Regatta",
-   "icon": "jacket",
-   "gender": "women",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0CV5PRHF1?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B003NX8CME",
-   "category": "hiking",
-   "name": "Columbia Benton Springs Women's Fleece",
-   "price": "",
-   "image": "",
-   "brand": "Columbia",
-   "icon": "jacket",
-   "gender": "women",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B003NX8CME?tag=veganathlet01-21&linkCode=ll2"
+   "url": "https://www.amazon.co.uk/dp/B07SNSD7HS?tag=veganathlet01-21&linkCode=ll2"
   },
   {
    "id": "amazon-B0BFDJNW61",
@@ -10187,39 +10163,6 @@
    "url": "https://www.amazon.co.uk/dp/B07GRB61FH?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "amazon-B0DYNLB4R5",
-   "category": "hiking",
-   "name": "Black Diamond Distance Z Trekking Poles",
-   "price": "",
-   "image": "",
-   "brand": "Black Diamond",
-   "icon": "poles",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0DYNLB4R5?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B0FHKNNLZX",
-   "category": "hiking",
-   "name": "Petzl Actik Headlamp",
-   "price": "",
-   "image": "",
-   "brand": "Petzl",
-   "icon": "headlamp",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B0FHKNNLZX?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B00B1OSU4W",
-   "category": "hiking",
-   "name": "Sawyer Squeeze Water Filter",
-   "price": "",
-   "image": "",
-   "brand": "Sawyer",
-   "icon": "filter",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B00B1OSU4W?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
    "id": "amazon-B0D5R7K3DX",
    "category": "hiking",
    "name": "Deuter Speed Lite 21 Hiking Backpack",
@@ -10229,6 +10172,30 @@
    "icon": "backpack",
    "retailer": "Amazon",
    "url": "https://www.amazon.co.uk/dp/B0D5R7K3DX?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
+   "id": "amazon-B08MT73TQF",
+   "category": "hiking",
+   "name": "Osprey Talon 22 Men's Hiking Backpack",
+   "price": "",
+   "image": "",
+   "brand": "Osprey",
+   "icon": "backpack",
+   "gender": "men",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B08MT73TQF?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
+   "id": "amazon-B0DSCQF6QH",
+   "category": "hiking",
+   "name": "Osprey Tempest 22 Women's Hiking Backpack",
+   "price": "",
+   "image": "",
+   "brand": "Osprey",
+   "icon": "backpack",
+   "gender": "women",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0DSCQF6QH?tag=veganathlet01-21&linkCode=ll2"
   },
   {
    "id": "amazon-B08LP1WWPT",
@@ -10242,6 +10209,39 @@
    "url": "https://www.amazon.co.uk/dp/B08LP1WWPT?tag=veganathlet01-21&linkCode=ll2"
   },
   {
+   "id": "salomon-lc2856100",
+   "category": "hiking",
+   "name": "Salomon Trailblazer 30 Hiking Backpack",
+   "price": "£90",
+   "image": "https://cdn.dam.salomon.com/04891db4-7665-4686-97bb-b340008c6e66/LC2856100/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
+   "brand": "Salomon",
+   "icon": "backpack",
+   "retailer": "Salomon",
+   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Ftrailblazer-30-lc12608%2FLC2856100"
+  },
+  {
+   "id": "salomon-lc2858300",
+   "category": "hiking",
+   "name": "Salomon XT 15 Hiking Backpack",
+   "price": "£80",
+   "image": "https://cdn.dam.salomon.com/94818afd-e66d-41b3-8be4-b340008c8464/LC2858300/PNG-2000px-max-72dpi.png?width=600&format=jpg&fit=bounds",
+   "brand": "Salomon",
+   "icon": "backpack",
+   "retailer": "Salomon",
+   "url": "https://www.awin1.com/cread.php?awinmid=86257&awinaffid=3123983&ued=https%3A%2F%2Fwww.salomon.com%2Fen-gb%2Fproduct%2Fxt-15-lc14293%2FLC2858300"
+  },
+  {
+   "id": "amazon-B0DYNLB4R5",
+   "category": "hiking",
+   "name": "Black Diamond Distance Z Trekking Poles",
+   "price": "",
+   "image": "",
+   "brand": "Black Diamond",
+   "icon": "poles",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0DYNLB4R5?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
    "id": "amazon-B09RX15LV2",
    "category": "hiking",
    "name": "Leki Khumbu Lite Trekking Poles",
@@ -10251,6 +10251,17 @@
    "icon": "poles",
    "retailer": "Amazon",
    "url": "https://www.amazon.co.uk/dp/B09RX15LV2?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
+   "id": "amazon-B0FHKNNLZX",
+   "category": "hiking",
+   "name": "Petzl Actik Headlamp",
+   "price": "",
+   "image": "",
+   "brand": "Petzl",
+   "icon": "headlamp",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B0FHKNNLZX?tag=veganathlet01-21&linkCode=ll2"
   },
   {
    "id": "amazon-B09ZNF4SC4",
@@ -10286,6 +10297,17 @@
    "url": "https://www.amazon.co.uk/dp/B01FFAOI20?tag=veganathlet01-21&linkCode=ll2"
   },
   {
+   "id": "amazon-B08XWNR6H9",
+   "category": "hiking",
+   "name": "Nalgene Sustain 1L Water Bottle",
+   "price": "",
+   "image": "",
+   "brand": "Nalgene",
+   "icon": "bottle",
+   "retailer": "Amazon",
+   "url": "https://www.amazon.co.uk/dp/B08XWNR6H9?tag=veganathlet01-21&linkCode=ll2"
+  },
+  {
    "id": "amazon-B01LA5F6RA",
    "category": "hiking",
    "name": "CamelBak Crux Hydration Reservoir",
@@ -10297,15 +10319,15 @@
    "url": "https://www.amazon.co.uk/dp/B01LA5F6RA?tag=veganathlet01-21&linkCode=ll2"
   },
   {
-   "id": "amazon-B08XWNR6H9",
+   "id": "amazon-B00B1OSU4W",
    "category": "hiking",
-   "name": "Nalgene Sustain 1L Water Bottle",
+   "name": "Sawyer Squeeze Water Filter",
    "price": "",
    "image": "",
-   "brand": "Nalgene",
-   "icon": "bottle",
+   "brand": "Sawyer",
+   "icon": "filter",
    "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B08XWNR6H9?tag=veganathlet01-21&linkCode=ll2"
+   "url": "https://www.amazon.co.uk/dp/B00B1OSU4W?tag=veganathlet01-21&linkCode=ll2"
   },
   {
    "id": "amazon-B0015NQLNQ",
@@ -10328,28 +10350,6 @@
    "icon": "neckwear",
    "retailer": "Amazon",
    "url": "https://www.amazon.co.uk/dp/B07FKD5FVW?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B000V59CX0",
-   "category": "hiking",
-   "name": "Thorlos Maximum Cushion Crew Hiking Socks",
-   "price": "",
-   "image": "",
-   "brand": "Thorlos",
-   "icon": "socks",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B000V59CX0?tag=veganathlet01-21&linkCode=ll2"
-  },
-  {
-   "id": "amazon-B07SNSD7HS",
-   "category": "hiking",
-   "name": "Thorlos Thick Padded Hiking Socks (3 Pack)",
-   "price": "",
-   "image": "",
-   "brand": "Thorlos",
-   "icon": "socks",
-   "retailer": "Amazon",
-   "url": "https://www.amazon.co.uk/dp/B07SNSD7HS?tag=veganathlet01-21&linkCode=ll2"
   },
   {
    "id": "amazon-B07JCH2C94",
